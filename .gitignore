@@ -1,0 +1,38 @@
+# Ignore all .log files
+*.log
+
+# Ignore all temporary files, such as swap files
+*.swp
+*.swo
+
+# Ignore all system files, such as macOS .DS_Store
+.DS_Store
+Thumbs.db
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore local configuration files
+*.env
+*.local
+
+# Ignore cache and temporary files
+*.cache
+*tmp/
+
+# Ignore test files
+*rag_test.ipynb
+*test.ipynb
+*/Result_error/
+*/Result_DecompEval/
+
+# Ignore Finance folder
+Finance/
