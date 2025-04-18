@@ -1,0 +1,212 @@
+[
+  {
+    "sub section 1.1": "The major sources of anthropogenic greenhouse gas emissions include carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and fluorinated gases. CO2 is the largest contributor, accounting for approximately 76% of total anthropogenic greenhouse gas emissions, primarily from fossil fuel combustion and industrial processes. Methane contributes about 16% of emissions, showing significant increases since 2007. Nitrous oxide, which is emitted from agricultural activities and combustion, contributes around 6.2%. Fluorinated gases, though less significant at about 2%, are still notable as they are emitted from various industrial processes. The sectors most responsible for these emissions are energy, industry, transport, and buildings.",
+    "rouge": {
+      "Reference Summary": "Anthropogenic greenhouse gas  emissions since the pre-industrial era have driven large increases in the atmospheric  concentrations of carbon dioxide, methane and nitrous oxide. Between 1750 and 2011, cumulative anthropogenic CO2 emissions to the atmosphere were 2040 ± 310 GtCO2. About 40% of these emissions have remained in the atmosphere; the rest was removed from the atmosphere and stored on land  and in the ocean. The ocean has absorbed about 30% of the emitted anthropogenic CO2, causing ocean acidification. About half of the anthropogenic CO2 emissions between 1750 and 2011 have occurred in the last 40 years . Total anthropogenic GHG emissions have continued to increase over 1970 to 2010 with larger absolute increases between  2000 and 2010, despite a growing number of climate change mitigation policies. Anthropogenic GHG emissions in 2010 have reached 49 ± 4.5 GtCO2-eq/yr 3. Emissions of CO2 from fossil fuel combustion and industrial processes contributed about 78% of the total GHG emissions increase from 1970 to 2010, with a similar percentage contribution for the increase during the period 2000 to 2010. Globally, economic and population growth continued to be the most important drivers of increases in CO2 emissions from fossil fuel combustion. The contribution of population growth between 2000 and 2010 remained roughly identical to the previous three decades, while the contribution of economic growth has risen sharply. Increased use of coal has reversed the long-standing trend of gradual decarbonization  of the world’s energy supply.",
+      "Generated Summary": "The major sources of anthropogenic greenhouse gas emissions include carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and fluorinated gases. CO2 is the largest contributor, accounting for approximately 76% of total anthropogenic greenhouse gas emissions, primarily from fossil fuel combustion and industrial processes. Methane contributes about 16% of emissions, showing significant increases since 2007. Nitrous oxide, which is emitted from agricultural activities and combustion, contributes around 6.2%. Fluorinated gases, though less significant at about 2%, are still notable as they are emitted from various industrial processes. The sectors most responsible for these emissions are energy, industry, transport, and buildings.",
+      "ROUGE-1 Precision": 0.47,
+      "ROUGE-1 Recall": 0.19421487603305784,
+      "ROUGE-1 F1": 0.27485380116959063,
+      "ROUGE-2 Precision": 0.1414141414141414,
+      "ROUGE-2 Recall": 0.058091286307053944,
+      "ROUGE-2 F1": 0.08235294117647059,
+      "ROUGE-L Precision": 0.34,
+      "ROUGE-L Recall": 0.14049586776859505,
+      "ROUGE-L F1": 0.19883040935672514
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7336900234222412,
+      "BERTScore Recall": 0.6411299109458923,
+      "BERTScore F1": 0.6842941045761108
+    }
+  },
+  {
+    "sub section 1.2": "Human activities significantly influence climate change, primarily through greenhouse gas emissions such as CO2, CH4, and N2O. Since the mid-20th century, it has been extremely likely that these activities have been the dominant cause of observed global warming. Key impacts include warming of the atmosphere and oceans, altered precipitation patterns, significant reductions in snow and ice, and rising sea levels. Moreover, there has been an increase in the frequency of extreme weather events, with heatwaves and heavy precipitation becoming more common. This overwhelming body of evidence indicates that human influences are the primary drivers of current climate change.",
+    "rouge": {
+      "Reference Summary": "The evidence for human influence on the climate system has grown since the IPCC Fourth Assessment Report . It is  extremely likely that more than half of the observed increase in global average surface temperature from 1951 to 2010 was caused by the anthropogenic increase in GHG concentrations and other anthropogenic forcings together. The best estimate of the human-induced contribution to warming is similar to the observed warming over this period. Anthropogenic forcings have likely made a substantial contribution to surface temperature increases since the mid-20th century over every continental region except Antarctica. Anthropogenic influences have likely affected the global water cycle since 1960 and contributed to the retreat of glaciers since the 1960s and to the increased surface melting of the Greenland ice sheet since 1993. Anthropogenic influences have very likely contributed to Arctic sea-ice loss since 1979 and have very likely made a substantial contribution to increases in global upper ocean heat content and to global mean sea level rise observed since the 1970s.",
+      "Generated Summary": "Human activities significantly influence climate change, primarily through greenhouse gas emissions such as CO2, CH4, and N2O. Since the mid-20th century, it has been extremely likely that these activities have been the dominant cause of observed global warming. Key impacts include warming of the atmosphere and oceans, altered precipitation patterns, significant reductions in snow and ice, and rising sea levels. Moreover, there has been an increase in the frequency of extreme weather events, with heatwaves and heavy precipitation becoming more common. This overwhelming body of evidence indicates that human influences are the primary drivers of current climate change.",
+      "ROUGE-1 Precision": 0.45454545454545453,
+      "ROUGE-1 Recall": 0.26785714285714285,
+      "ROUGE-1 F1": 0.33707865168539325,
+      "ROUGE-2 Precision": 0.10204081632653061,
+      "ROUGE-2 Recall": 0.059880239520958084,
+      "ROUGE-2 F1": 0.07547169811320754,
+      "ROUGE-L Precision": 0.23232323232323232,
+      "ROUGE-L Recall": 0.13690476190476192,
+      "ROUGE-L F1": 0.17228464419475656
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6843321323394775,
+      "BERTScore Recall": 0.6671282649040222,
+      "BERTScore F1": 0.6756206750869751
+    }
+  },
+  {
+    "sub section 2.1": "Recent trends indicate that the frequency and intensity of extreme weather events have changed significantly since about 1950, often correlating with human influence. For instance, there has been a notable increase in warm temperature extremes and a decrease in cold extremes globally. Heatwaves have likely doubled in occurrence in regions such as Europe and Australia. Additionally, heavy precipitation events have increased, particularly in North America and Europe, leading to heightened flooding risks. While there is low confidence in global trends regarding droughts and tropical cyclones, the evidence of more intense weather events overall suggests serious implications for human health and infrastructure.",
+    "rouge": {
+      "Reference Summary": "It is very likely that the number of cold days and nights has decreased and the number of warm days and nights has increased  on the global scale. It is likely that the frequency of heat waves has increased in large parts of Europe, Asia and Australia. It is very likely that human influence has contributed to the observed global scale changes in the frequency and intensity of daily temperature extremes since the mid-20th century. It is likely that human influence has more than doubled the probability of occurrence of heat waves in some locations. There is medium confidence that the observed warming has increased heat-related human mortality and decreased cold-related human mortality in some regions.  There are likely more land regions where the number of heavy precipitation events has increased than where it has decreased. Recent detection of increasing trends in extreme precipitation and discharge in some catchments implies greater risks of flooding at regional scale. It is likely that extreme sea levels  have increased since 1970, being mainly a result of rising mean sea level.  Impacts from recent climate-related extremes, such as heat waves, droughts, floods, cyclones and wildfires, reveal significant vulnerability and exposure of some ecosystems and many human systems to current climate variability .",
+      "Generated Summary": "Recent trends indicate that the frequency and intensity of extreme weather events have changed significantly since about 1950, often correlating with human influence. For instance, there has been a notable increase in warm temperature extremes and a decrease in cold extremes globally. Heatwaves have likely doubled in occurrence in regions such as Europe and Australia. Additionally, heavy precipitation events have increased, particularly in North America and Europe, leading to heightened flooding risks. While there is low confidence in global trends regarding droughts and tropical cyclones, the evidence of more intense weather events overall suggests serious implications for human health and infrastructure.",
+      "ROUGE-1 Precision": 0.6039603960396039,
+      "ROUGE-1 Recall": 0.2890995260663507,
+      "ROUGE-1 F1": 0.391025641025641,
+      "ROUGE-2 Precision": 0.14,
+      "ROUGE-2 Recall": 0.06666666666666667,
+      "ROUGE-2 F1": 0.0903225806451613,
+      "ROUGE-L Precision": 0.297029702970297,
+      "ROUGE-L Recall": 0.14218009478672985,
+      "ROUGE-L F1": 0.19230769230769232
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7790035009384155,
+      "BERTScore Recall": 0.7130618095397949,
+      "BERTScore F1": 0.7445755004882812
+    }
+  },
+  {
+    "sub section 3.1": "The impacts of climate change on ecosystems and human systems are substantial. Ecologically, climate change has caused significant shifts in species distribution and has been linked to species extinctions. Increased disturbances such as droughts and windstorms have become more frequent, impacting both terrestrial and marine ecosystems. Ocean ecosystems, particularly coral reefs, are highly vulnerable, experiencing bleaching and habitat loss due to rising temperatures and acidification. On a societal level, climate change adversely affects agricultural productivity, with staple crops suffering declines and heightened food insecurity being increasingly recognized.",
+    "rouge": {
+      "Reference Summary": "Evidence of observed climate change impacts is strongest and most comprehensive for natural systems. In many regions,  changing precipitation or melting snow and ice are altering hydrological systems, affecting water resources in terms of quantity and quality. Many terrestrial, freshwater and marine species have shifted their geographic ranges, seasonal activities, migration patterns, abundances and species interactions in response to ongoing climate change . Some impacts on human systems have also been attributed to climate change, with a major or minor contribution of climate change distinguishable from other influences. Assessment of many studies covering a wide range of regions and crops shows that negative impacts of climate change on crop yields have been more common than positive impacts. Some impacts of ocean acidification on marine organisms have been attributed to human influence.",
+      "Generated Summary": "The impacts of climate change on ecosystems and human systems are substantial. Ecologically, climate change has caused significant shifts in species distribution and has been linked to species extinctions. Increased disturbances such as droughts and windstorms have become more frequent, impacting both terrestrial and marine ecosystems. Ocean ecosystems, particularly coral reefs, are highly vulnerable, experiencing bleaching and habitat loss due to rising temperatures and acidification. On a societal level, climate change adversely affects agricultural productivity, with staple crops suffering declines and heightened food insecurity being increasingly recognized.",
+      "ROUGE-1 Precision": 0.42528735632183906,
+      "ROUGE-1 Recall": 0.2846153846153846,
+      "ROUGE-1 F1": 0.34101382488479265,
+      "ROUGE-2 Precision": 0.10465116279069768,
+      "ROUGE-2 Recall": 0.06976744186046512,
+      "ROUGE-2 F1": 0.08372093023255814,
+      "ROUGE-L Precision": 0.20689655172413793,
+      "ROUGE-L Recall": 0.13846153846153847,
+      "ROUGE-L F1": 0.16589861751152074
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7069392204284668,
+      "BERTScore Recall": 0.6848214864730835,
+      "BERTScore F1": 0.6957045793533325
+    }
+  },
+  {
+    "sub section 4.1": "Ocean acidification is evidenced by a measurable decrease in ocean surface water pH, corresponding to a 26% increase in acidity since the industrial era began. This phenomenon negatively affects marine organisms, leading to thinner shells in species such as pteropods and declining coral growth rates, which in turn threatens marine biodiversity and ecosystems.",
+    "rouge": {
+      "Reference Summary": "Since the beginning of the industrial era, oceanic uptake of CO2 has resulted in acidification of the ocean; the pH of ocean  surface water has decreased by 0.1, corresponding to a 26% increase in acidity, measured as hydrogen ion concentration.",
+      "Generated Summary": "Ocean acidification is evidenced by a measurable decrease in ocean surface water pH, corresponding to a 26% increase in acidity since the industrial era began. This phenomenon negatively affects marine organisms, leading to thinner shells in species such as pteropods and declining coral growth rates, which in turn threatens marine biodiversity and ecosystems.",
+      "ROUGE-1 Precision": 0.41509433962264153,
+      "ROUGE-1 Recall": 0.5365853658536586,
+      "ROUGE-1 F1": 0.46808510638297873,
+      "ROUGE-2 Precision": 0.21153846153846154,
+      "ROUGE-2 Recall": 0.275,
+      "ROUGE-2 F1": 0.23913043478260868,
+      "ROUGE-L Precision": 0.24528301886792453,
+      "ROUGE-L Recall": 0.3170731707317073,
+      "ROUGE-L F1": 0.2765957446808511
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7011345624923706,
+      "BERTScore Recall": 0.7409865260124207,
+      "BERTScore F1": 0.7205098867416382
+    }
+  },
+  {
+    "sub section 4.2": "Observable trends in global temperatures clearly demonstrate a warming pattern. Most of the globe has experienced significant temperature increases since the mid-20th century. The rate of warming over the last three decades has been higher than in previous decades, with notable impacts on weather extremes and ecological balance. Each of the last three decades has been the warmest on record since 1850.",
+    "rouge": {
+      "Reference Summary": "Each of the last three decades has been successively warmer at the Earth’s surface than any preceding decade since 1850. The  period from 1983 to 2012 was likely the warmest 30-year period of the last 1400 years in the Northern Hemisphere, where such assessment is possible. The globally averaged combined land and ocean surface temperature data as calculated by a linear trend show a warming of 0.85 [0.65 to 1.06] °C 2 over the period 1880 to 2012, when multiple independently produced datasets exist.  In addition to robust multi-decadal warming, the globally averaged surface temperature exhibits substantial decadal and interannual variability. Due to this natural variability, trends based on short records are very sensitive to the beginning and end dates and do not in general reflect long-term climate trends. As one example, the rate of warming over the past 15 years, which begins with a strong El Niño, is smaller than the rate calculated since 1951.",
+      "Generated Summary": "Observable trends in global temperatures clearly demonstrate a warming pattern. Most of the globe has experienced significant temperature increases since the mid-20th century. The rate of warming over the last three decades has been higher than in previous decades, with notable impacts on weather extremes and ecological balance. Each of the last three decades has been the warmest on record since 1850.",
+      "ROUGE-1 Precision": 0.6031746031746031,
+      "ROUGE-1 Recall": 0.23170731707317074,
+      "ROUGE-1 F1": 0.33480176211453744,
+      "ROUGE-2 Precision": 0.27419354838709675,
+      "ROUGE-2 Recall": 0.10429447852760736,
+      "ROUGE-2 F1": 0.15111111111111108,
+      "ROUGE-L Precision": 0.2857142857142857,
+      "ROUGE-L Recall": 0.10975609756097561,
+      "ROUGE-L F1": 0.15859030837004406
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7638368606567383,
+      "BERTScore Recall": 0.5943927764892578,
+      "BERTScore F1": 0.6685454249382019
+    }
+  },
+  {
+    "sub section 4.3": "Recent evidence confirms significant ice melting from polar regions. The Greenland ice sheet has seen a marked increase in mass loss from 1992 to 2011, with even greater losses recorded in recent years. In Antarctica, the rates of ice mass loss have also increased, affecting sea levels globally. Arctic sea ice extent has consistently declined, especially in terms of summer minimums.",
+    "rouge": {
+      "Reference Summary": "Over the period 1992 to 2011, the Greenland and Antarctic ice sheets have been losing mass , likely at a  larger rate over 2002 to 2011. Glaciers have continued to shrink almost worldwide. Northern Hemisphere spring snow cover has continued to decrease in extent. There is high confidence that permafrost temperatures have increased in most regions since the early 1980s in response to increased surface temperature and changing snow cover. The annual mean Arctic sea-ice extent decreased over the period 1979 to 2012, with a rate that was very likely in the range  3.5 to 4.1% per decade. Arctic sea-ice extent has decreased in every season and in every successive decade since 1979, with the most rapid decrease in decadal mean extent in summer. It is very likely that the annual mean Antarctic sea-ice extent increased in the range of 1.2 to 1.8% per decade between 1979 and 2012. However, there is high confidence that there are strong regional differences in Antarctica, with extent increasing in some regions and decreasing in others.",
+      "Generated Summary": "Recent evidence confirms significant ice melting from polar regions. The Greenland ice sheet has seen a marked increase in mass loss from 1992 to 2011, with even greater losses recorded in recent years. In Antarctica, the rates of ice mass loss have also increased, affecting sea levels globally. Arctic sea ice extent has consistently declined, especially in terms of summer minimums.",
+      "ROUGE-1 Precision": 0.5245901639344263,
+      "ROUGE-1 Recall": 0.1797752808988764,
+      "ROUGE-1 F1": 0.26778242677824265,
+      "ROUGE-2 Precision": 0.16666666666666666,
+      "ROUGE-2 Recall": 0.05649717514124294,
+      "ROUGE-2 F1": 0.08438818565400844,
+      "ROUGE-L Precision": 0.3114754098360656,
+      "ROUGE-L Recall": 0.10674157303370786,
+      "ROUGE-L F1": 0.15899581589958162
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7455466985702515,
+      "BERTScore Recall": 0.6546986103057861,
+      "BERTScore F1": 0.6971755623817444
+    }
+  },
+  {
+    "sub section 4.4": "Ocean temperatures have significantly increased, especially in the upper layers, showing an approximate warming of 0.11 °C per decade from 1971 to 2010. This warming trend contributes to over 90% of the heat accumulated in the climate system, impacting marine ecosystems and climate feedback mechanisms.",
+    "rouge": {
+      "Reference Summary": "Ocean warming dominates the increase in energy stored in the climate system, accounting for more than 90% of the energy  accumulated between 1971 and 2010, with only about 1% stored in the atmosphere. On a global scale, the ocean warming is largest near the surface, and the upper 75 m warmed by 0.11 [0.09 to 0.13] °C per decade over the period 1971 to 2010. It is virtually certain that the upper ocean warmed from 1971 to 2010, and it likely warmed between the 1870s and 1971.",
+      "Generated Summary": "Ocean temperatures have significantly increased, especially in the upper layers, showing an approximate warming of 0.11 °C per decade from 1971 to 2010. This warming trend contributes to over 90% of the heat accumulated in the climate system, impacting marine ecosystems and climate feedback mechanisms.",
+      "ROUGE-1 Precision": 0.5869565217391305,
+      "ROUGE-1 Recall": 0.3,
+      "ROUGE-1 F1": 0.3970588235294118,
+      "ROUGE-2 Precision": 0.28888888888888886,
+      "ROUGE-2 Recall": 0.14606741573033707,
+      "ROUGE-2 F1": 0.19402985074626863,
+      "ROUGE-L Precision": 0.391304347826087,
+      "ROUGE-L Recall": 0.2,
+      "ROUGE-L F1": 0.2647058823529412
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7749813795089722,
+      "BERTScore Recall": 0.738774299621582,
+      "BERTScore F1": 0.7564448714256287
+    }
+  },
+  {
+    "sub section 4.5": "Globally, precipitation patterns have changed since 1951, with an increase in heavy precipitation events linked to climate change. While there is low confidence regarding global trends for droughts, certain regions have seen increased rainfall alongside associated flood risks, necessitating ongoing assessments of water resources.",
+    "rouge": {
+      "Reference Summary": "Averaged over the mid-latitude land areas of the Northern Hemisphere, precipitation has increased since 1901 . For other latitudes, area-averaged long-term positive or negative trends have low confidence. Observations of changes in ocean surface salinity also provide indirect evidence for changes in the global water cycle over the ocean. It is very likely that regions of high salinity, where evaporation dominates, have become more saline, while regions of low salinity, where precipitation dominates, have become fresher since the 1950s.",
+      "Generated Summary": "Globally, precipitation patterns have changed since 1951, with an increase in heavy precipitation events linked to climate change. While there is low confidence regarding global trends for droughts, certain regions have seen increased rainfall alongside associated flood risks, necessitating ongoing assessments of water resources.",
+      "ROUGE-1 Precision": 0.4318181818181818,
+      "ROUGE-1 Recall": 0.2345679012345679,
+      "ROUGE-1 F1": 0.304,
+      "ROUGE-2 Precision": 0.023255813953488372,
+      "ROUGE-2 Recall": 0.0125,
+      "ROUGE-2 F1": 0.016260162601626018,
+      "ROUGE-L Precision": 0.20454545454545456,
+      "ROUGE-L Recall": 0.1111111111111111,
+      "ROUGE-L F1": 0.14400000000000002
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6690901517868042,
+      "BERTScore Recall": 0.607530951499939,
+      "BERTScore F1": 0.6368263363838196
+    }
+  },
+  {
+    "sub section 4.6": "Projections indicate that sea levels are rising at an increasing rate, primarily due to glacier mass loss and thermal expansion of ocean waters. Mean sea level rose approximately 1.7 mm per year from 1901 to 2010, accelerating to about 3.2 mm annually from 1993 to 2010. This trend suggests serious implications for coastal populations and ecosystems as climate change progresses.",
+    "rouge": {
+      "Reference Summary": "Over the period 1901 to 2010, global mean sea level rose by 0.19 [0.17 to 0.21] m . The rate of sea level rise  since the mid-19th century has been larger than the mean rate during the previous two millennia.",
+      "Generated Summary": "Projections indicate that sea levels are rising at an increasing rate, primarily due to glacier mass loss and thermal expansion of ocean waters. Mean sea level rose approximately 1.7 mm per year from 1901 to 2010, accelerating to about 3.2 mm annually from 1993 to 2010. This trend suggests serious implications for coastal populations and ecosystems as climate change progresses.",
+      "ROUGE-1 Precision": 0.20967741935483872,
+      "ROUGE-1 Recall": 0.3023255813953488,
+      "ROUGE-1 F1": 0.24761904761904757,
+      "ROUGE-2 Precision": 0.09836065573770492,
+      "ROUGE-2 Recall": 0.14285714285714285,
+      "ROUGE-2 F1": 0.11650485436893203,
+      "ROUGE-L Precision": 0.0967741935483871,
+      "ROUGE-L Recall": 0.13953488372093023,
+      "ROUGE-L F1": 0.11428571428571428
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6204321384429932,
+      "BERTScore Recall": 0.6874966621398926,
+      "BERTScore F1": 0.652245044708252
+    }
+  }
+]

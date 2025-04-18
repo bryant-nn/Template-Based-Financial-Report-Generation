@@ -1,0 +1,506 @@
+[
+  {
+    "sub section 1.1": "The advantages of adaptation pathways in climate change include risk reduction, long-term perspective, enhancement of well-being, context-specific solutions, building adaptive capacity, dynamic and evolving strategies, and improved governance structures. They provide a structured approach to navigate climate change complexities, ensuring that today's actions contribute positively to future resilience.",
+    "rouge": {
+      "Reference Summary": "Adaptation can contribute to the well-being of populations, the security of assets and the maintenance of ecosystem goods,  functions and services now and in the future. Adaptation is place- and context-specific. A first step towards adaptation to future climate change is reducing vulnerability and exposure to present climate variability. Integration of adaptation into planning, including policy design, and decision-making can promote synergies with development and disaster risk reduction. Building adaptive capacity is crucial for effective selection and implementation of adaptation options.",
+      "Generated Summary": "The advantages of adaptation pathways in climate change include risk reduction, long-term perspective, enhancement of well-being, context-specific solutions, building adaptive capacity, dynamic and evolving strategies, and improved governance structures. They provide a structured approach to navigate climate change complexities, ensuring that today's actions contribute positively to future resilience.",
+      "ROUGE-1 Precision": 0.4807692307692308,
+      "ROUGE-1 Recall": 0.2976190476190476,
+      "ROUGE-1 F1": 0.3676470588235294,
+      "ROUGE-2 Precision": 0.1568627450980392,
+      "ROUGE-2 Recall": 0.0963855421686747,
+      "ROUGE-2 F1": 0.11940298507462688,
+      "ROUGE-L Precision": 0.23076923076923078,
+      "ROUGE-L Recall": 0.14285714285714285,
+      "ROUGE-L F1": 0.17647058823529413
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7114529013633728,
+      "BERTScore Recall": 0.6872599720954895,
+      "BERTScore F1": 0.6991472244262695
+    }
+  },
+  {
+    "sub section 1.2": "Strategies for implementing adaptation pathways include transformational adaptation, strengthened governance, iterative learning, context-specific approaches, long-term planning, building adaptive capacity, integration with sustainable development, risk reduction, and recognizing mitigation synergy. These strategies support development pathways that enhance community resilience.",
+    "rouge": {
+      "Reference Summary": "Adaptation planning and implementation can be enhanced through complementary actions across levels, from individuals to  governments. National governments can coordinate adaptation efforts of local and sub-national governments, for example by protecting vulnerable groups, by supporting economic diversification and by providing information, policy and legal frameworks and financial support. Local government and the private sector are increasingly recognized as critical to progress in adaptation, given their roles in scaling up adaptation of communities, households and civil society and in managing risk information and financing.",
+      "Generated Summary": "Strategies for implementing adaptation pathways include transformational adaptation, strengthened governance, iterative learning, context-specific approaches, long-term planning, building adaptive capacity, integration with sustainable development, risk reduction, and recognizing mitigation synergy. These strategies support development pathways that enhance community resilience.",
+      "ROUGE-1 Precision": 0.325,
+      "ROUGE-1 Recall": 0.15476190476190477,
+      "ROUGE-1 F1": 0.20967741935483872,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.15,
+      "ROUGE-L Recall": 0.07142857142857142,
+      "ROUGE-L F1": 0.09677419354838708
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6575912237167358,
+      "BERTScore Recall": 0.5984121561050415,
+      "BERTScore F1": 0.6266075372695923
+    }
+  },
+  {
+    "sub section 1.3": "The limits to adaptation in climate change arise from factors like the magnitude and rate of climate change, socio-economic development pathways, context-specific challenges, and hard versus soft limits. These constraints highlight the challenges faced in ensuring effective adaptation responses.",
+    "rouge": {
+      "Reference Summary": "Constraints can interact to impede adaptation planning and implementation . Common constraints on  implementation arise from the following: limited financial and human resources; limited integration or coordination of governance; uncertainties about projected impacts; different perceptions of risks; competing values; absence of key adaptation leaders and advocates; and limited tools to monitor adaptation effectiveness. Another constraint includes insufficient research, monitoring, and observation and the finance to maintain them. Greater rates and magnitude of climate change increase the likelihood of exceeding adaptation limits .  Limits to adaptation emerge from the interaction among climate change and biophysical and/or socio-economic constraints. Further, poor planning or implementation, overemphasizing short-term outcomes or failing to sufficiently anticipate consequences can result in maladaptation, increasing the vulnerability or exposure of the target group in the future or the vulnerability of other people, places or sectors. Underestimating the complexity of adaptation as a social process can create unrealistic expectations about achieving intended adaptation outcomes.",
+      "Generated Summary": "The limits to adaptation in climate change arise from factors like the magnitude and rate of climate change, socio-economic development pathways, context-specific challenges, and hard versus soft limits. These constraints highlight the challenges faced in ensuring effective adaptation responses.",
+      "ROUGE-1 Precision": 0.6097560975609756,
+      "ROUGE-1 Recall": 0.16129032258064516,
+      "ROUGE-1 F1": 0.25510204081632654,
+      "ROUGE-2 Precision": 0.175,
+      "ROUGE-2 Recall": 0.045454545454545456,
+      "ROUGE-2 F1": 0.07216494845360824,
+      "ROUGE-L Precision": 0.3902439024390244,
+      "ROUGE-L Recall": 0.1032258064516129,
+      "ROUGE-L F1": 0.16326530612244897
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7339880466461182,
+      "BERTScore Recall": 0.6120539903640747,
+      "BERTScore F1": 0.6674982309341431
+    }
+  },
+  {
+    "sub section 1.4": "Adaptation pathways significantly impact society by enhancing resilience to climate change, reducing risks, and contributing to sustainable development. They are tailored to local contexts and facilitate transformational change, thereby improving societal security and ecosystem services while addressing the limits of adaptation.",
+    "rouge": {
+      "Reference Summary": "Adaptation planning and implementation at all levels of governance are contingent on societal values, objectives and risk  perceptions. Recognition of diverse interests, circumstances, social-cultural contexts and expectations can benefit decision-making processes. Indigenous, local and traditional knowledge systems and practices, including indigenous peoples’ holistic view of community and environment, are a major resource for adapting to climate change, but these have not been used consistently in existing adaptation efforts. Integrating such forms of knowledge with existing practices increases the effectiveness of adaptation.",
+      "Generated Summary": "Adaptation pathways significantly impact society by enhancing resilience to climate change, reducing risks, and contributing to sustainable development. They are tailored to local contexts and facilitate transformational change, thereby improving societal security and ecosystem services while addressing the limits of adaptation.",
+      "ROUGE-1 Precision": 0.36585365853658536,
+      "ROUGE-1 Recall": 0.18072289156626506,
+      "ROUGE-1 F1": 0.2419354838709677,
+      "ROUGE-2 Precision": 0.1,
+      "ROUGE-2 Recall": 0.04878048780487805,
+      "ROUGE-2 F1": 0.06557377049180328,
+      "ROUGE-L Precision": 0.21951219512195122,
+      "ROUGE-L Recall": 0.10843373493975904,
+      "ROUGE-L F1": 0.14516129032258066
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.687014102935791,
+      "BERTScore Recall": 0.5997406840324402,
+      "BERTScore F1": 0.640417754650116
+    }
+  },
+  {
+    "sub section 1.5": "Co-benefits of adaptation include enhanced well-being, security of assets, maintenance of ecosystem services, synergies with mitigation, improved governance, contribution to sustainable development, long-term preparedness, and context-specific solutions, ensuring comprehensive benefits across various sectors.",
+    "rouge": {
+      "Reference Summary": "Significant co-benefits, synergies and trade-offs exist between mitigation and adaptation and among different adap-  tation responses; interactions occur both within and across regions. Increasing efforts to mitigate and adapt to climate change imply an increasing complexity of interactions, particularly at the intersections among water, energy, land use and biodiversity, but tools to understand and manage these interactions remain limited. Examples of actions with co-benefits include improved energy efficiency and cleaner energy sources, leading to reduced emissions of health-damaging, climate-altering air pollutants; reduced energy and water consumption in urban areas through greening cities and recycling water; sustainable agriculture and forestry; and protection of ecosystems for carbon storage and other ecosystem services.",
+      "Generated Summary": "Co-benefits of adaptation include enhanced well-being, security of assets, maintenance of ecosystem services, synergies with mitigation, improved governance, contribution to sustainable development, long-term preparedness, and context-specific solutions, ensuring comprehensive benefits across various sectors.",
+      "ROUGE-1 Precision": 0.4864864864864865,
+      "ROUGE-1 Recall": 0.1565217391304348,
+      "ROUGE-1 F1": 0.23684210526315794,
+      "ROUGE-2 Precision": 0.08333333333333333,
+      "ROUGE-2 Recall": 0.02631578947368421,
+      "ROUGE-2 F1": 0.04,
+      "ROUGE-L Precision": 0.2702702702702703,
+      "ROUGE-L Recall": 0.08695652173913043,
+      "ROUGE-L F1": 0.13157894736842105
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7087973356246948,
+      "BERTScore Recall": 0.5875076651573181,
+      "BERTScore F1": 0.6424782276153564
+    }
+  },
+  {
+    "sub section 1.6": "Transformational change in adaptation refers to profound shifts in societal responses to climate change, including the introduction of new technologies, governance structures, and practices that align with sustainable development goals. It emphasizes innovative approaches that foster resilience and address long-term climate challenges.",
+    "rouge": {
+      "Reference Summary": "Transformations in economic, social, technological and political decisions and actions can enhance adaptation and promote  sustainable development. At the national level, transformation is considered most effective when it reflects a country’s own visions and approaches to achieving sustainable development in accordance with its national circumstances and priorities. Restricting adaptation responses to incremental changes to existing systems and structures, without considering transformational change, may increase costs and losses and miss opportunities. Planning and implementation of transformational adaptation could reflect strengthened, altered or aligned paradigms and may place new and increased demands on governance structures to reconcile different goals and visions for the future and to address possible equity and ethical implications. Adaptation pathways are enhanced by iterative learning, deliberative processes and innovation.",
+      "Generated Summary": "Transformational change in adaptation refers to profound shifts in societal responses to climate change, including the introduction of new technologies, governance structures, and practices that align with sustainable development goals. It emphasizes innovative approaches that foster resilience and address long-term climate challenges.",
+      "ROUGE-1 Precision": 0.6046511627906976,
+      "ROUGE-1 Recall": 0.21311475409836064,
+      "ROUGE-1 F1": 0.31515151515151507,
+      "ROUGE-2 Precision": 0.09523809523809523,
+      "ROUGE-2 Recall": 0.03305785123966942,
+      "ROUGE-2 F1": 0.049079754601226995,
+      "ROUGE-L Precision": 0.3488372093023256,
+      "ROUGE-L Recall": 0.12295081967213115,
+      "ROUGE-L F1": 0.18181818181818182
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7275153994560242,
+      "BERTScore Recall": 0.6338035464286804,
+      "BERTScore F1": 0.677433967590332
+    }
+  },
+  {
+    "sub section 2.1": "The economic cost of mitigation varies significantly, with estimates suggesting that limiting warming to below 2°C could result in losses in global consumption of 1 to 4% by 2030 and 3% to 11% by 2100. These costs highlight the importance of immediate mitigation efforts to avoid severe long-term economic impacts.",
+    "rouge": {
+      "Reference Summary": "Estimates of the aggregate economic costs of mitigation vary widely depending on methodologies and assumptions, but  increase with the stringency of mitigation. Scenarios in which all countries of the world begin mitigation immediately, in which there is a single global carbon price, and in which all key technologies are available have been used as a cost-effective benchmark for estimating macro-economic mitigation costs. Under these assumptions mitigation scenarios that are likely to limit warming to below 2°C through the 21st century relative to pre-industrial levels entail losses in global consumption—not including benefits of reduced climate change as well as co-benefits and adverse side effects of mitigation—of 1 to 4% in 2030, 2 to 6% in 2050 and 3 to 11% in 2100 relative to consumption in baseline scenarios that grows anywhere from 300% to more than 900% over the century. These numbers correspond to an annualized reduction of consumption growth by 0.04 to 0.14 percentage points over the century relative to annualized consumption growth in the baseline that is between 1.6 and 3% per year .",
+      "Generated Summary": "The economic cost of mitigation varies significantly, with estimates suggesting that limiting warming to below 2°C could result in losses in global consumption of 1 to 4% by 2030 and 3% to 11% by 2100. These costs highlight the importance of immediate mitigation efforts to avoid severe long-term economic impacts.",
+      "ROUGE-1 Precision": 0.75,
+      "ROUGE-1 Recall": 0.21195652173913043,
+      "ROUGE-1 F1": 0.33050847457627125,
+      "ROUGE-2 Precision": 0.35294117647058826,
+      "ROUGE-2 Recall": 0.09836065573770492,
+      "ROUGE-2 F1": 0.15384615384615383,
+      "ROUGE-L Precision": 0.6153846153846154,
+      "ROUGE-L Recall": 0.17391304347826086,
+      "ROUGE-L F1": 0.2711864406779661
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.8058418035507202,
+      "BERTScore Recall": 0.6332343220710754,
+      "BERTScore F1": 0.7091864943504333
+    }
+  },
+  {
+    "sub section 2.2": "Delaying mitigation can lead to amplified climate change impacts, reduced adaptation time, limited future options, higher long-term costs, increased risks, and exacerbated equity issues. Prompt action is essential to mitigate these risks and improve socio-economic outcomes.",
+    "rouge": {
+      "Reference Summary": "Delaying additional mitigation to 2030 will substantially increase the challenges associated with limiting warming over the  21st century to below 2°C relative to pre-industrial levels. It will require substantially higher rates of emissions reductions from 2030 to 2050; a much more rapid scale-up of low-carbon energy over this period; a larger reliance on CDR in the long term; and higher transitional and long-term economic impacts. Estimated global emissions levels in 2020 based on the Cancún Pledges are not consistent with cost-effective mitigation trajectories that are at least about as likely as not to limit warming to below 2°C relative to pre-industrial levels, but they do not preclude the option to meet this goal .",
+      "Generated Summary": "Delaying mitigation can lead to amplified climate change impacts, reduced adaptation time, limited future options, higher long-term costs, increased risks, and exacerbated equity issues. Prompt action is essential to mitigate these risks and improve socio-economic outcomes.",
+      "ROUGE-1 Precision": 0.42105263157894735,
+      "ROUGE-1 Recall": 0.13114754098360656,
+      "ROUGE-1 F1": 0.2,
+      "ROUGE-2 Precision": 0.02702702702702703,
+      "ROUGE-2 Recall": 0.008264462809917356,
+      "ROUGE-2 F1": 0.012658227848101266,
+      "ROUGE-L Precision": 0.2631578947368421,
+      "ROUGE-L Recall": 0.08196721311475409,
+      "ROUGE-L F1": 0.125
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7074087858200073,
+      "BERTScore Recall": 0.546554446220398,
+      "BERTScore F1": 0.616664707660675
+    }
+  },
+  {
+    "sub section 2.3": "Emission scenarios range from baseline scenarios projecting significant increases in emissions to cost-effective scenarios that assume immediate global mitigation efforts. Mitigation pathways aim for significant emissions reductions necessary to limit warming below 2°C.",
+    "rouge": {
+      "Reference Summary": "Emissions scenarios leading to CO2-equivalent concentrations in 2100 of about 450 ppm or lower are likely to maintain  warming below 2°C over the 21st century relative to pre-industrial levels. These scenarios are characterized by 40 to 70% global anthropogenic GHG emissions reductions by 2050 compared to 201016, and emissions levels near zero or below in 2100. Mitigation scenarios reaching concentration levels of about 500 ppm CO2-eq by 2100 are more likely than not to limit temperature change to less than 2°C, unless they temporarily overshoot concentration levels of roughly 530 ppm CO2-eq before 2100, in which case they are about as likely as not to achieve that goal. In these 500 ppm CO2-eq scenarios, global 2050 emissions levels are 25 to 55% lower than in 2010. Scenarios with higher emissions in 2050 are characterized by a greater reliance on Carbon Dioxide Removal technologies beyond mid-century. Trajectories that are likely to limit warming to 3°C relative to pre-industrial levels reduce emissions less rapidly than those limiting warming to 2°C. A limited number of studies provide scenarios that are more likely than not to limit warming to 1.5°C by 2100; these scenarios are characterized by concentrations below 430 ppm CO2-eq by 2100 and 2050 emission reduction between 70% and 95% below 2010. For a comprehensive overview of the characteristics of emissions scenarios, their CO2-equivalent concentrations and their likelihood to keep warming to below a range of temperature levels, see Figure SPM.11 and Table SPM.1.",
+      "Generated Summary": "Emission scenarios range from baseline scenarios projecting significant increases in emissions to cost-effective scenarios that assume immediate global mitigation efforts. Mitigation pathways aim for significant emissions reductions necessary to limit warming below 2°C.",
+      "ROUGE-1 Precision": 0.5714285714285714,
+      "ROUGE-1 Recall": 0.07722007722007722,
+      "ROUGE-1 F1": 0.1360544217687075,
+      "ROUGE-2 Precision": 0.23529411764705882,
+      "ROUGE-2 Recall": 0.031007751937984496,
+      "ROUGE-2 F1": 0.0547945205479452,
+      "ROUGE-L Precision": 0.4,
+      "ROUGE-L Recall": 0.05405405405405406,
+      "ROUGE-L F1": 0.09523809523809523
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7003886699676514,
+      "BERTScore Recall": 0.5297410488128662,
+      "BERTScore F1": 0.6032284498214722
+    }
+  },
+  {
+    "sub section 2.4": "Fossil fuels are a major driver of climate change due to their contribution to greenhouse gas emissions. Addressing fossil fuel reliance is crucial to reduce CO2 levels and mitigate climate impacts.",
+    "rouge": {
+      "Reference Summary": "Mitigation policy could devalue fossil fuel assets and reduce revenues for fossil fuel exporters, but differences between regions  and fuels exist. Most mitigation scenarios are associated with reduced revenues from coal and oil trade for major exporters. The availability of CCS would reduce the adverse effects of mitigation on the value of fossil fuel assets.",
+      "Generated Summary": "Fossil fuels are a major driver of climate change due to their contribution to greenhouse gas emissions. Addressing fossil fuel reliance is crucial to reduce CO2 levels and mitigate climate impacts.",
+      "ROUGE-1 Precision": 0.3225806451612903,
+      "ROUGE-1 Recall": 0.18181818181818182,
+      "ROUGE-1 F1": 0.23255813953488375,
+      "ROUGE-2 Precision": 0.06666666666666667,
+      "ROUGE-2 Recall": 0.037037037037037035,
+      "ROUGE-2 F1": 0.047619047619047616,
+      "ROUGE-L Precision": 0.22580645161290322,
+      "ROUGE-L Recall": 0.12727272727272726,
+      "ROUGE-L F1": 0.16279069767441862
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6258159875869751,
+      "BERTScore Recall": 0.606110692024231,
+      "BERTScore F1": 0.6158057451248169
+    }
+  },
+  {
+    "sub section 2.5": "Mitigation strategies yield co-benefits including improved health, enhanced livelihoods, increased resilience, sustainable resource management, ecosystem protection, and economic benefits, contributing to overall societal well-being.",
+    "rouge": {
+      "Reference Summary": "Mitigation scenarios reaching about 450 or 500 ppm CO2-eq by 2100 show reduced costs for achieving air quality and energy  security objectives, with significant co-benefits for human health, ecosystem impacts and sufficiency of resources and resilience of the energy system.",
+      "Generated Summary": "Mitigation strategies yield co-benefits including improved health, enhanced livelihoods, increased resilience, sustainable resource management, ecosystem protection, and economic benefits, contributing to overall societal well-being.",
+      "ROUGE-1 Precision": 0.3076923076923077,
+      "ROUGE-1 Recall": 0.19047619047619047,
+      "ROUGE-1 F1": 0.23529411764705882,
+      "ROUGE-2 Precision": 0.04,
+      "ROUGE-2 Recall": 0.024390243902439025,
+      "ROUGE-2 F1": 0.030303030303030304,
+      "ROUGE-L Precision": 0.23076923076923078,
+      "ROUGE-L Recall": 0.14285714285714285,
+      "ROUGE-L F1": 0.17647058823529413
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.712598443031311,
+      "BERTScore Recall": 0.5880869626998901,
+      "BERTScore F1": 0.6443831324577332
+    }
+  },
+  {
+    "sub section 2.6": "Mitigation pathways encompass immediate actions to reduce emissions, sustainable development integration, diverse analytical approaches, equity considerations, global cooperation, and technological innovations aimed at fostering climate-resilient development.",
+    "rouge": {
+      "Reference Summary": "There are multiple mitigation pathways that are likely to limit warming to below 2°C relative  to pre-industrial levels. These pathways would require substantial emissions reductions over the next few decades and near zero emissions of CO2 and other long-lived greenhouse gases by the end of the century. Implementing such reductions poses substantial technological, economic, social and institutional challenges, which increase with delays in additional mitigation and if key technologies are not available. Limiting warming to lower or higher levels involves similar challenges but on different timescales.",
+      "Generated Summary": "Mitigation pathways encompass immediate actions to reduce emissions, sustainable development integration, diverse analytical approaches, equity considerations, global cooperation, and technological innovations aimed at fostering climate-resilient development.",
+      "ROUGE-1 Precision": 0.2222222222222222,
+      "ROUGE-1 Recall": 0.06741573033707865,
+      "ROUGE-1 F1": 0.10344827586206896,
+      "ROUGE-2 Precision": 0.038461538461538464,
+      "ROUGE-2 Recall": 0.011363636363636364,
+      "ROUGE-2 F1": 0.017543859649122806,
+      "ROUGE-L Precision": 0.2222222222222222,
+      "ROUGE-L Recall": 0.06741573033707865,
+      "ROUGE-L F1": 0.10344827586206896
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6291868090629578,
+      "BERTScore Recall": 0.5398210287094116,
+      "BERTScore F1": 0.581088125705719
+    }
+  },
+  {
+    "sub section 2.7": "Currently available technologies for mitigation include bioenergy, carbon capture and storage, renewable energy technologies, energy efficiency improvements, sustainable agriculture practices, and afforestation efforts, all of which contribute to reducing greenhouse gas emissions effectively.",
+    "rouge": {
+      "Reference Summary": "Mitigation scenarios reaching about 450 ppm CO2-eq in 2100  typically involve temporary overshoot of atmospheric concentrations, as do many scenarios reaching about 500 ppm CO2-eq to about 550 ppm CO2-eq in 2100. Depending on the level of overshoot, overshoot scenarios typically rely on the availability and widespread deployment of bioenergy with carbon dioxide capture and storage and afforestation in the second half of the century. The availability and scale of these and other CDR technologies and methods are uncertain and CDR technologies are, to varying degrees, associated with challenges and risks. CDR is also prevalent in many scenarios without overshoot to compensate for residual emissions from sectors where mitigation is more expensive.",
+      "Generated Summary": "Currently available technologies for mitigation include bioenergy, carbon capture and storage, renewable energy technologies, energy efficiency improvements, sustainable agriculture practices, and afforestation efforts, all of which contribute to reducing greenhouse gas emissions effectively.",
+      "ROUGE-1 Precision": 0.45454545454545453,
+      "ROUGE-1 Recall": 0.13043478260869565,
+      "ROUGE-1 F1": 0.20270270270270271,
+      "ROUGE-2 Precision": 0.09375,
+      "ROUGE-2 Recall": 0.02631578947368421,
+      "ROUGE-2 F1": 0.0410958904109589,
+      "ROUGE-L Precision": 0.3333333333333333,
+      "ROUGE-L Recall": 0.09565217391304348,
+      "ROUGE-L F1": 0.14864864864864866
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7070282697677612,
+      "BERTScore Recall": 0.5282373428344727,
+      "BERTScore F1": 0.6046938300132751
+    }
+  },
+  {
+    "sub section 2.8": "Strategies for reducing greenhouse gas emissions involve technological innovations, regulatory approaches, economic instruments, information programs, international cooperation, investment in renewable energy, behavioral changes, and following established mitigation pathways.",
+    "rouge": {
+      "Reference Summary": "In the absence or under limited availability of mitigation technologies , mitigation costs can increase substantially depending on the technology considered. Delaying additional mitigation increases mitigation costs in the medium to long term. Many models could not limit likely warming to below 2°C over the 21st century relative to pre-industrial levels if additional mitigation is considerably delayed. Many models could not limit likely warming to below 2°C if bioenergy, CCS and their combination are limited .",
+      "Generated Summary": "Strategies for reducing greenhouse gas emissions involve technological innovations, regulatory approaches, economic instruments, information programs, international cooperation, investment in renewable energy, behavioral changes, and following established mitigation pathways.",
+      "ROUGE-1 Precision": 0.14285714285714285,
+      "ROUGE-1 Recall": 0.05194805194805195,
+      "ROUGE-1 F1": 0.07619047619047618,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.10714285714285714,
+      "ROUGE-L Recall": 0.03896103896103896,
+      "ROUGE-L F1": 0.05714285714285714
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5862535238265991,
+      "BERTScore Recall": 0.49720335006713867,
+      "BERTScore F1": 0.5380688905715942
+    }
+  },
+  {
+    "sub section 2.9": "The risks of inaction on climate change include exacerbation of existing risks, increased vulnerability for disadvantaged communities, severe and irreversible impacts, economic costs associated with disaster recovery, and long-lasting consequences that affect ecosystems and human well-being.",
+    "rouge": {
+      "Reference Summary": "Reducing emissions of non-CO2 agents can be an important element of mitigation strategies. All current GHG emissions  and other forcing agents affect the rate and magnitude of climate change over the next few decades, although long-term warming is mainly driven by CO2 emissions. Emissions of non-CO2 forcers are often expressed as ‘CO2-equivalent emissions’, but the choice of metric to calculate these emissions, and the implications for the emphasis and timing of abatement of the various climate forcers, depends on application and policy context and contains value judgments.",
+      "Generated Summary": "The risks of inaction on climate change include exacerbation of existing risks, increased vulnerability for disadvantaged communities, severe and irreversible impacts, economic costs associated with disaster recovery, and long-lasting consequences that affect ecosystems and human well-being.",
+      "ROUGE-1 Precision": 0.34210526315789475,
+      "ROUGE-1 Recall": 0.14285714285714285,
+      "ROUGE-1 F1": 0.20155038759689922,
+      "ROUGE-2 Precision": 0.02702702702702703,
+      "ROUGE-2 Recall": 0.011111111111111112,
+      "ROUGE-2 F1": 0.015748031496062992,
+      "ROUGE-L Precision": 0.23684210526315788,
+      "ROUGE-L Recall": 0.0989010989010989,
+      "ROUGE-L F1": 0.1395348837209302
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5892695188522339,
+      "BERTScore Recall": 0.5241971611976624,
+      "BERTScore F1": 0.554831862449646
+    }
+  },
+  {
+    "sub section 2.10": "Effective actions in climate change mitigation encompass transitioning to renewable energy, improving energy efficiency, implementing sustainable land use practices, fostering public transportation, enhancing waste management, establishing strong governance frameworks, and engaging communities in climate action initiatives.",
+    "rouge": {
+      "Reference Summary": "Without additional efforts to reduce GHG emissions beyond those in place today, global emissions growth is expected to  persist, driven by growth in global population and economic activities. Global mean surface temperature increases in 2100 in baseline scenarios—those without additional mitigation—range from 3.7°C to 4.8°C above the average for 1850–1900 for a median climate response. They range from 2.5°C to 7.8°C when including climate uncertainty  .",
+      "Generated Summary": "Effective actions in climate change mitigation encompass transitioning to renewable energy, improving energy efficiency, implementing sustainable land use practices, fostering public transportation, enhancing waste management, establishing strong governance frameworks, and engaging communities in climate action initiatives.",
+      "ROUGE-1 Precision": 0.19444444444444445,
+      "ROUGE-1 Recall": 0.09210526315789473,
+      "ROUGE-1 F1": 0.125,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.1388888888888889,
+      "ROUGE-L Recall": 0.06578947368421052,
+      "ROUGE-L F1": 0.08928571428571429
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5378319025039673,
+      "BERTScore Recall": 0.4414425790309906,
+      "BERTScore F1": 0.48489344120025635
+    }
+  },
+  {
+    "sub section 3.1": "Actions for mitigation that have proven effective include transitioning to renewable energy, energy efficiency improvements, sustainable land-use practices, promoting public transportation, innovations in waste management, strong policy frameworks, and community engagement strategies.",
+    "rouge": {
+      "Reference Summary": "Substantial cuts in GHG emissions over the next few decades can substantially reduce risks of climate change by limiting  warming in the second half of the 21st century and beyond. Cumulative emissions of CO2 largely determine global mean surface warming by the late 21st century and beyond. Limiting risks across RFCs would imply a limit for cumulative emissions of CO2. Such a limit would require that global net emissions of CO2 eventually decrease to zero and would constrain annual emissions over the next few decades. But some risks from climate damages are unavoidable, even with mitigation and adaptation.",
+      "Generated Summary": "Actions for mitigation that have proven effective include transitioning to renewable energy, energy efficiency improvements, sustainable land-use practices, promoting public transportation, innovations in waste management, strong policy frameworks, and community engagement strategies.",
+      "ROUGE-1 Precision": 0.18181818181818182,
+      "ROUGE-1 Recall": 0.061224489795918366,
+      "ROUGE-1 F1": 0.09160305343511449,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.12121212121212122,
+      "ROUGE-L Recall": 0.04081632653061224,
+      "ROUGE-L F1": 0.061068702290076333
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5216877460479736,
+      "BERTScore Recall": 0.4553243815898895,
+      "BERTScore F1": 0.48625218868255615
+    }
+  },
+  {
+    "sub section 3.2": "The risks associated with specific mitigation actions encompass adverse side effects from large-scale technology deployment, economic costs, potential maladaptation, persistent climate change risks, uneven distribution of risks, and increased vulnerabilities that may complicate mitigation efforts.",
+    "rouge": {
+      "Reference Summary": "Mitigation involves some level of co-benefits and risks, but these risks do not involve the same possibility of severe, wide-  spread and irreversible impacts as risks from climate change. Inertia in the economic and climate system and the possibility of irreversible impacts from climate change increase the benefits from near-term mitigation efforts. Delays in additional mitigation or constraints on technological options increase the longer-term mitigation costs to hold climate change risks at a given level.",
+      "Generated Summary": "The risks associated with specific mitigation actions encompass adverse side effects from large-scale technology deployment, economic costs, potential maladaptation, persistent climate change risks, uneven distribution of risks, and increased vulnerabilities that may complicate mitigation efforts.",
+      "ROUGE-1 Precision": 0.4444444444444444,
+      "ROUGE-1 Recall": 0.20512820512820512,
+      "ROUGE-1 F1": 0.2807017543859649,
+      "ROUGE-2 Precision": 0.08571428571428572,
+      "ROUGE-2 Recall": 0.03896103896103896,
+      "ROUGE-2 F1": 0.05357142857142857,
+      "ROUGE-L Precision": 0.25,
+      "ROUGE-L Recall": 0.11538461538461539,
+      "ROUGE-L F1": 0.15789473684210525
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7086289525032043,
+      "BERTScore Recall": 0.6605799198150635,
+      "BERTScore F1": 0.6837614178657532
+    }
+  },
+  {
+    "sub section 3.3": "Mitigation and adaptation are interconnected as they provide co-benefits and synergies, reducing risks associated with climate change. Effective mitigation can create conditions for better adaptation, while adaptation strategies can enhance resilience and lower vulnerability to climate impacts.",
+    "rouge": {
+      "Reference Summary": "Mitigation and adaptation are complementary approaches for reducing risks of climate change impacts over different time-  scales. Mitigation, in the near term and through the century, can substantially reduce climate change impacts in the latter decades of the 21st century and beyond. Benefits from adaptation can already be realized in addressing current risks, and can be realized in the future for addressing emerging risks.",
+      "Generated Summary": "Mitigation and adaptation are interconnected as they provide co-benefits and synergies, reducing risks associated with climate change. Effective mitigation can create conditions for better adaptation, while adaptation strategies can enhance resilience and lower vulnerability to climate impacts.",
+      "ROUGE-1 Precision": 0.47368421052631576,
+      "ROUGE-1 Recall": 0.28125,
+      "ROUGE-1 F1": 0.35294117647058826,
+      "ROUGE-2 Precision": 0.13513513513513514,
+      "ROUGE-2 Recall": 0.07936507936507936,
+      "ROUGE-2 F1": 0.1,
+      "ROUGE-L Precision": 0.34210526315789475,
+      "ROUGE-L Recall": 0.203125,
+      "ROUGE-L F1": 0.25490196078431376
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7429800033569336,
+      "BERTScore Recall": 0.640579342842102,
+      "BERTScore F1": 0.6879901885986328
+    }
+  },
+  {
+    "sub section 3.4": "The impacts of inaction on climate change will be severe and irreversible, including biodiversity loss, detrimental economic consequences, increased frequency of climate-related hazards, heightened vulnerabilities, and long-term detrimental effects on ecosystems.",
+    "rouge": {
+      "Reference Summary": "Without additional mitigation efforts beyond those in place today, and even with adaptation, warming by the end of the  21st century will lead to high to very high risk of severe, widespread and irreversible impacts globally . In most scenarios without additional mitigation efforts, warming is more likely than not to exceed 4°C above pre-industrial levels by 2100. The risks associated with temperatures at or above 4°C include substantial species extinction, global and regional food insecurity, consequential constraints on common human activities and limited potential for adaptation in some cases. Some risks of climate change, such as risks to unique and threatened systems and risks associated with extreme weather events, are moderate to high at temperatures 1°C to 2°C above pre-industrial levels.",
+      "Generated Summary": "The impacts of inaction on climate change will be severe and irreversible, including biodiversity loss, detrimental economic consequences, increased frequency of climate-related hazards, heightened vulnerabilities, and long-term detrimental effects on ecosystems.",
+      "ROUGE-1 Precision": 0.3939393939393939,
+      "ROUGE-1 Recall": 0.10236220472440945,
+      "ROUGE-1 F1": 0.1625,
+      "ROUGE-2 Precision": 0.09375,
+      "ROUGE-2 Recall": 0.023809523809523808,
+      "ROUGE-2 F1": 0.0379746835443038,
+      "ROUGE-L Precision": 0.30303030303030304,
+      "ROUGE-L Recall": 0.07874015748031496,
+      "ROUGE-L F1": 0.12499999999999999
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7395955324172974,
+      "BERTScore Recall": 0.5474612712860107,
+      "BERTScore F1": 0.6291873455047607
+    }
+  },
+  {
+    "sub section 4.1": "Successful models of cooperation in climate action involve multi-stakeholder partnerships, integrated approaches to resource management, regional cooperation agreements, financial mechanisms for developing countries, capacity-building programs, and frameworks addressing equity and justice.",
+    "rouge": {
+      "Reference Summary": "Climate change has the characteristics of a collective action problem at the global scale, because most GHGs accumulate  over time and mix globally, and emissions by any agent affect other agents. Effective mitigation will not be achieved if individual agents advance their own interests independently. Cooperative responses, including international cooperation, are therefore required to effectively mitigate GHG emissions and address other climate change issues. The effectiveness of adaptation can be enhanced through complementary actions across levels, including international cooperation. The evidence suggests that outcomes seen as equitable can lead to more effective cooperation.",
+      "Generated Summary": "Successful models of cooperation in climate action involve multi-stakeholder partnerships, integrated approaches to resource management, regional cooperation agreements, financial mechanisms for developing countries, capacity-building programs, and frameworks addressing equity and justice.",
+      "ROUGE-1 Precision": 0.2727272727272727,
+      "ROUGE-1 Recall": 0.0967741935483871,
+      "ROUGE-1 F1": 0.14285714285714285,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.18181818181818182,
+      "ROUGE-L Recall": 0.06451612903225806,
+      "ROUGE-L F1": 0.09523809523809523
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6130746603012085,
+      "BERTScore Recall": 0.5343540906906128,
+      "BERTScore F1": 0.5710140466690063
+    }
+  },
+  {
+    "sub section 4.2": "Relevant decision-making frameworks for climate policies include risk assessment frameworks, governance structures that promote participation, sustainable development evaluations, ethical analyses, economic assessments, iterative decision-making processes, and integrated assessment models.",
+    "rouge": {
+      "Reference Summary": "Effective decision-making to limit climate change and its effects can be informed by a wide  range of analytical approaches for evaluating expected risks and benefits, recognizing the importance of governance, ethical dimensions, equity, value judgments, economic assessments and diverse perceptions and responses to risk and uncertainty.",
+      "Generated Summary": "Relevant decision-making frameworks for climate policies include risk assessment frameworks, governance structures that promote participation, sustainable development evaluations, ethical analyses, economic assessments, iterative decision-making processes, and integrated assessment models.",
+      "ROUGE-1 Precision": 0.3548387096774194,
+      "ROUGE-1 Recall": 0.23404255319148937,
+      "ROUGE-1 F1": 0.28205128205128205,
+      "ROUGE-2 Precision": 0.06666666666666667,
+      "ROUGE-2 Recall": 0.043478260869565216,
+      "ROUGE-2 F1": 0.052631578947368425,
+      "ROUGE-L Precision": 0.2903225806451613,
+      "ROUGE-L Recall": 0.19148936170212766,
+      "ROUGE-L F1": 0.23076923076923078
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.744994044303894,
+      "BERTScore Recall": 0.6666473746299744,
+      "BERTScore F1": 0.7036466002464294
+    }
+  },
+  {
+    "sub section 4.3": "Best practices in climate policy design emphasize informed decision-making based on comprehensive analyses, integration of sustainable development and equity principles, acknowledgment of diverse national circumstances, building adaptive capacity, promoting integrated responses, and enhancing institutional capacity to address climate challenges.",
+    "rouge": {
+      "Reference Summary": "The design of climate policy is influenced by how individuals and organizations perceive risks and uncertainties and take  them into account. Methods of valuation from economic, social and ethical analysis are available to assist decision-making. These methods can take account of a wide range of possible impacts, including low-probability outcomes with large consequences. But they cannot identify a single best balance between mitigation, adaptation and residual climate impacts.",
+      "Generated Summary": "Best practices in climate policy design emphasize informed decision-making based on comprehensive analyses, integration of sustainable development and equity principles, acknowledgment of diverse national circumstances, building adaptive capacity, promoting integrated responses, and enhancing institutional capacity to address climate challenges.",
+      "ROUGE-1 Precision": 0.325,
+      "ROUGE-1 Recall": 0.18571428571428572,
+      "ROUGE-1 F1": 0.2363636363636364,
+      "ROUGE-2 Precision": 0.05128205128205128,
+      "ROUGE-2 Recall": 0.028985507246376812,
+      "ROUGE-2 F1": 0.037037037037037035,
+      "ROUGE-L Precision": 0.225,
+      "ROUGE-L Recall": 0.12857142857142856,
+      "ROUGE-L F1": 0.16363636363636364
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6386107206344604,
+      "BERTScore Recall": 0.6002013087272644,
+      "BERTScore F1": 0.6188105940818787
+    }
+  },
+  {
+    "sub section 4.4": "Climate action and social equity are interconnected, as effective climate action must address issues of equity and fairness, ensuring that vulnerable populations are prioritized in decision-making processes and that climate policies contribute to sustainable development.",
+    "rouge": {
+      "Reference Summary": "Sustainable development and equity provide a basis for assessing climate policies. Limiting the effects of climate change is  necessary to achieve sustainable development and equity, including poverty eradication. Countries’ past and future contributions to the accumulation of GHGs in the atmosphere are different, and countries also face varying challenges and circumstances and have different capacities to address mitigation and adaptation. Mitigation and adaptation raise issues of equity, justice and fairness. Many of those most vulnerable to climate change have contributed and contribute little to GHG emissions. Delaying mitigation shifts burdens from the present to the future, and insufficient adaptation responses to emerging impacts are already eroding the basis for sustainable development. Comprehensive strategies in response to climate change that are consistent with sustainable development take into account the co-benefits, adverse side effects and risks that may arise from both adaptation and mitigation options.",
+      "Generated Summary": "Climate action and social equity are interconnected, as effective climate action must address issues of equity and fairness, ensuring that vulnerable populations are prioritized in decision-making processes and that climate policies contribute to sustainable development.",
+      "ROUGE-1 Precision": 0.6666666666666666,
+      "ROUGE-1 Recall": 0.16666666666666666,
+      "ROUGE-1 F1": 0.26666666666666666,
+      "ROUGE-2 Precision": 0.17142857142857143,
+      "ROUGE-2 Recall": 0.04195804195804196,
+      "ROUGE-2 F1": 0.06741573033707865,
+      "ROUGE-L Precision": 0.4444444444444444,
+      "ROUGE-L Recall": 0.1111111111111111,
+      "ROUGE-L F1": 0.17777777777777776
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7175006866455078,
+      "BERTScore Recall": 0.6053060293197632,
+      "BERTScore F1": 0.6566454172134399
+    }
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "sub section 1.1": "The decrease in effectiveness of adaptation strategies is influenced by several interrelated factors. Financial constraints limit the implementation of necessary measures, with developing countries facing an annual funding gap of approximately $70 billion. Weak governance structures and inadequate policy frameworks can also impede effective adaptation. Furthermore, increasing levels of global warming make some adaptation options less effective; for instance, at 2°C of warming, the effectiveness of common agricultural adaptations is projected to diminish significantly, leading to increased food insecurity. Maladaptation occurs when poorly planned efforts increase vulnerability, such as urban developments that ignore flood risks. Isolation of sectors in adaptation planning can lead to ineffective strategies, undermining overall resilience. Unequal distribution of climate impacts further exacerbates the challenges faced by marginalized communities.",
+    "rouge": {
+      "Reference Summary": "The effectiveness of adaptation, including ecosystem-based and most water-related options, will decrease with  increasing warming. The feasibility and effectiveness of options increase with integrated, multi-sectoral solutions that differentiate responses based on climate risk, cut across systems and address social inequities. As adaptation options often have long implementation times, long-term planning increases their efficiency.",
+      "Generated Summary": "The decrease in effectiveness of adaptation strategies is influenced by several interrelated factors. Financial constraints limit the implementation of necessary measures, with developing countries facing an annual funding gap of approximately $70 billion. Weak governance structures and inadequate policy frameworks can also impede effective adaptation. Furthermore, increasing levels of global warming make some adaptation options less effective; for instance, at 2°C of warming, the effectiveness of common agricultural adaptations is projected to diminish significantly, leading to increased food insecurity. Maladaptation occurs when poorly planned efforts increase vulnerability, such as urban developments that ignore flood risks. Isolation of sectors in adaptation planning can lead to ineffective strategies, undermining overall resilience. Unequal distribution of climate impacts further exacerbates the challenges faced by marginalized communities.",
+      "ROUGE-1 Precision": 0.18699186991869918,
+      "ROUGE-1 Recall": 0.40350877192982454,
+      "ROUGE-1 F1": 0.2555555555555556,
+      "ROUGE-2 Precision": 0.04918032786885246,
+      "ROUGE-2 Recall": 0.10714285714285714,
+      "ROUGE-2 F1": 0.06741573033707865,
+      "ROUGE-L Precision": 0.12195121951219512,
+      "ROUGE-L Recall": 0.2631578947368421,
+      "ROUGE-L F1": 0.16666666666666666
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6229797601699829,
+      "BERTScore Recall": 0.6834554076194763,
+      "BERTScore F1": 0.6518179178237915
+    }
+  },
+  {
+    "sub section 1.2": "Key physical, ecological, and socio-economic limits to adaptation include physical limits faced by ecosystems that can no longer provide essential services and hard ecological limits where biodiversity is at risk, particularly with projections indicating that 30% of species may face extinction if global temperatures rise by 2°C. Socio-economic limits arise from financial, governance, and institutional constraints, particularly in developing regions where adaptation is most necessary. Maladaptation often increases vulnerability, leading to cycles of risk and exacerbating inequalities. As noted, up to 1 million species could face extinction due to climate change, especially if temperatures rise beyond critical levels, which highlights the interconnectedness of these limits and the urgent need for comprehensive adaptation strategies.",
+    "rouge": {
+      "Reference Summary": "With additional global warming, limits to adaptation and losses and damages, strongly concentrated among vulnerable  populations, will become increasingly difficult to avoid. Above 1.5°C of global warming, limited freshwater resources pose potential hard adaptation limits for small islands and for regions dependent on glacier and snow melt. Above that level, ecosystems such as some warm-water coral reefs, coastal wetlands, rainforests, and polar and mountain ecosystems will have reached or surpassed hard adaptation limits and as a consequence, some Ecosystem-based Adaptation measures will also lose their effectiveness.",
+      "Generated Summary": "Key physical, ecological, and socio-economic limits to adaptation include physical limits faced by ecosystems that can no longer provide essential services and hard ecological limits where biodiversity is at risk, particularly with projections indicating that 30% of species may face extinction if global temperatures rise by 2°C. Socio-economic limits arise from financial, governance, and institutional constraints, particularly in developing regions where adaptation is most necessary. Maladaptation often increases vulnerability, leading to cycles of risk and exacerbating inequalities. As noted, up to 1 million species could face extinction due to climate change, especially if temperatures rise beyond critical levels, which highlights the interconnectedness of these limits and the urgent need for comprehensive adaptation strategies.",
+      "ROUGE-1 Precision": 0.23275862068965517,
+      "ROUGE-1 Recall": 0.3,
+      "ROUGE-1 F1": 0.2621359223300971,
+      "ROUGE-2 Precision": 0.02608695652173913,
+      "ROUGE-2 Recall": 0.033707865168539325,
+      "ROUGE-2 F1": 0.02941176470588235,
+      "ROUGE-L Precision": 0.1206896551724138,
+      "ROUGE-L Recall": 0.15555555555555556,
+      "ROUGE-L F1": 0.13592233009708737
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6040658354759216,
+      "BERTScore Recall": 0.6304799318313599,
+      "BERTScore F1": 0.616990327835083
+    }
+  },
+  {
+    "sub section 1.3": "Examples of maladaptation include urban development practices that create flood defenses without considering ecosystem impacts, resulting in increased flooding incidences. Agricultural practices, such as reliance on crop varieties not suited to changing conditions, can lead to reduced yields. Fire suppression in ecosystems can exacerbate wildfires. The consequences of maladaptation can increase community vulnerability, worsen existing social inequalities, and reduce ecosystem resilience. If changes are not addressed, reliance on ineffective practices may lead to significant long-term economic costs and ecological degradation.",
+    "rouge": {
+      "Reference Summary": "Actions that focus on sectors and risks in isolation and on short-term gains often lead to maladaptation over the long  term, creating lock-ins of vulnerability, exposure and risks that are difficult to change. For example, seawalls effectively reduce impacts to people and assets in the short term but can also result in lock-ins and increase exposure to climate risks in the long term unless they are integrated into a long-term adaptive plan. Maladaptive responses can worsen existing inequities especially for Indigenous Peoples and marginalised groups and decrease ecosystem and biodiversity resilience. Maladaptation can be avoided by flexible, multi-sectoral, inclusive, long-term planning and implementation of adaptation actions, with co-benefits to many sectors and systems.",
+      "Generated Summary": "Examples of maladaptation include urban development practices that create flood defenses without considering ecosystem impacts, resulting in increased flooding incidences. Agricultural practices, such as reliance on crop varieties not suited to changing conditions, can lead to reduced yields. Fire suppression in ecosystems can exacerbate wildfires. The consequences of maladaptation can increase community vulnerability, worsen existing social inequalities, and reduce ecosystem resilience. If changes are not addressed, reliance on ineffective practices may lead to significant long-term economic costs and ecological degradation.",
+      "ROUGE-1 Precision": 0.43209876543209874,
+      "ROUGE-1 Recall": 0.2916666666666667,
+      "ROUGE-1 F1": 0.34825870646766166,
+      "ROUGE-2 Precision": 0.075,
+      "ROUGE-2 Recall": 0.05042016806722689,
+      "ROUGE-2 F1": 0.06030150753768844,
+      "ROUGE-L Precision": 0.24691358024691357,
+      "ROUGE-L Recall": 0.16666666666666666,
+      "ROUGE-L F1": 0.1990049751243781
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7133373022079468,
+      "BERTScore Recall": 0.6660231947898865,
+      "BERTScore F1": 0.6888687610626221
+    }
+  },
+  {
+    "sub section 2.1": "The projected climate impacts of not limiting CO2 emissions are severe, with atmospheric CO2 levels currently at around 410 ppm. Continuing emissions at 2019 levels could exhaust the remaining carbon budget for limiting global warming to 1.5°C and significantly deplete that for 2°C by the end of the century. Consequently, increased frequency and severity of extreme weather events, rising sea levels, and threats to biodiversity are expected outcomes, where failure to limit emissions might lead to catastrophic ecological and societal disruptions.",
+    "rouge": {
+      "Reference Summary": "If the annual CO2 emissions between 2020–2030 stayed, on average, at the same level as 2019, the resulting cumulative  emissions would almost exhaust the remaining carbon budget for 1.5°C, and deplete more than a third of the remaining carbon budget for 2°C. Estimates of future CO2 emissions from existing fossil fuel infrastructures without additional abatement already exceed the remaining carbon budget for limiting warming to 1.5°C . Projected cumulative future CO2 emissions over the lifetime of existing and planned fossil fuel infrastructure, if historical operating patterns are maintained and without additional abatement, are approximately equal to the remaining carbon budget for limiting warming to 2°C with a likelihood of 83%44.",
+      "Generated Summary": "The projected climate impacts of not limiting CO2 emissions are severe, with atmospheric CO2 levels currently at around 410 ppm. Continuing emissions at 2019 levels could exhaust the remaining carbon budget for limiting global warming to 1.5°C and significantly deplete that for 2°C by the end of the century. Consequently, increased frequency and severity of extreme weather events, rising sea levels, and threats to biodiversity are expected outcomes, where failure to limit emissions might lead to catastrophic ecological and societal disruptions.",
+      "ROUGE-1 Precision": 0.47619047619047616,
+      "ROUGE-1 Recall": 0.3418803418803419,
+      "ROUGE-1 F1": 0.39800995024875624,
+      "ROUGE-2 Precision": 0.18072289156626506,
+      "ROUGE-2 Recall": 0.12931034482758622,
+      "ROUGE-2 F1": 0.15075376884422112,
+      "ROUGE-L Precision": 0.32142857142857145,
+      "ROUGE-L Recall": 0.23076923076923078,
+      "ROUGE-L F1": 0.2686567164179105
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6744208335876465,
+      "BERTScore Recall": 0.6977391242980957,
+      "BERTScore F1": 0.6858818531036377
+    }
+  },
+  {
+    "sub section 2.2": "Limiting CO2 emissions presents many benefits: improved public health through better air quality could prevent approximately 7 million premature deaths annually. Climate stability can be achieved by adhering to temperature targets, avoiding severe impacts such as loss of biodiversity and extreme weather events. Economically, the transition to a low-carbon economy could generate millions of jobs while enhancing resilience against climate impacts.",
+    "rouge": {
+      "Reference Summary": "From a physical science perspective, limiting human-caused global warming to a specific level requires limiting cumulative  CO2 emissions, reaching at least net zero CO2 emissions, along with strong reductions in other greenhouse gas emissions. Reaching net zero GHG emissions primarily requires deep reductions in CO2, methane, and other GHG emissions, and implies net negative CO2 emissions. Carbon dioxide removal will be necessary to achieve net negative CO2 emissions. Net zero GHG emissions, if sustained, are projected to result in a gradual decline in global surface temperatures after an earlier peak. For every 1000 GtCO2 emitted by human activity, global surface temperature rises by 0.45°C . The best estimates of the remaining carbon budgets from the beginning of 2020 are 500 GtCO2 for a 50% likelihood of limiting global warming to 1.5°C and 1150 GtCO2 for a 67% likelihood of limiting warming to 2°C40. The stronger the reductions in non-CO2 emissions, the lower the resulting temperatures are for a given remaining carbon budget or the larger remaining carbon budget for the same level of temperature change.",
+      "Generated Summary": "Limiting CO2 emissions presents many benefits: improved public health through better air quality could prevent approximately 7 million premature deaths annually. Climate stability can be achieved by adhering to temperature targets, avoiding severe impacts such as loss of biodiversity and extreme weather events. Economically, the transition to a low-carbon economy could generate millions of jobs while enhancing resilience against climate impacts.",
+      "ROUGE-1 Precision": 0.24193548387096775,
+      "ROUGE-1 Recall": 0.08287292817679558,
+      "ROUGE-1 F1": 0.12345679012345678,
+      "ROUGE-2 Precision": 0.03278688524590164,
+      "ROUGE-2 Recall": 0.011111111111111112,
+      "ROUGE-2 F1": 0.016597510373443983,
+      "ROUGE-L Precision": 0.20967741935483872,
+      "ROUGE-L Recall": 0.0718232044198895,
+      "ROUGE-L F1": 0.10699588477366254
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5824233293533325,
+      "BERTScore Recall": 0.5595399141311646,
+      "BERTScore F1": 0.5707523822784424
+    }
+  },
+  {
+    "sub section 3.1": "The primary climate hazards associated with climate change include increased frequency and intensity of heatwaves, projected to rise by up to 50% by 2050, which poses risks to human health and productivity. Marine heatwaves threaten biodiversity and ecosystems in marine environments, while extreme rainfall events are expected to see a 20% increase by 2050, causing flooding, particularly affecting coastal and low-lying areas.",
+    "rouge": {
+      "Reference Summary": "In the near term, every region in the world is projected to face further increases in climate hazards , increasing multiple risks to ecosystems and humans . Hazards and associated risks expected in the near term include an increase in heat-related human mortality and morbidity, food-borne, water-borne, and vector-borne diseases, and mental health challenges, flooding in coastal and other low-lying cities and regions, biodiversity loss in land, freshwater and ocean ecosystems, and a decrease in food production in some regions. Cryosphere-related changes in floods, landslides, and water availability have the potential to lead to severe consequences for people, infrastructure and the economy in most mountain regions. The projected increase in frequency and intensity of heavy precipitation  will increase rain-generated local flooding.",
+      "Generated Summary": "The primary climate hazards associated with climate change include increased frequency and intensity of heatwaves, projected to rise by up to 50% by 2050, which poses risks to human health and productivity. Marine heatwaves threaten biodiversity and ecosystems in marine environments, while extreme rainfall events are expected to see a 20% increase by 2050, causing flooding, particularly affecting coastal and low-lying areas.",
+      "ROUGE-1 Precision": 0.5238095238095238,
+      "ROUGE-1 Recall": 0.2619047619047619,
+      "ROUGE-1 F1": 0.3492063492063492,
+      "ROUGE-2 Precision": 0.12903225806451613,
+      "ROUGE-2 Recall": 0.064,
+      "ROUGE-2 F1": 0.08556149732620322,
+      "ROUGE-L Precision": 0.25396825396825395,
+      "ROUGE-L Recall": 0.12698412698412698,
+      "ROUGE-L F1": 0.1693121693121693
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7098843455314636,
+      "BERTScore Recall": 0.6732020378112793,
+      "BERTScore F1": 0.6910567283630371
+    }
+  },
+  {
+    "sub section 3.2": "The key risks associated with climate change encompass severe economic losses from disaster events, food security challenges stemming from reduced agricultural yields, and social displacement due to extreme weather. The costs associated with disaster response and recovery are rising, necessitating strategic planning to mitigate these impacts on vulnerable populations.",
+    "rouge": {
+      "Reference Summary": "Risks and projected adverse impacts and related losses and damages from climate change will escalate with every  increment of global warming. They are higher for global warming of 1.5°C than at present, and even higher at 2°C. Compared to the AR5, global aggregated risk levels are assessed to become high to very high at lower levels of global warming due to recent evidence of observed impacts, improved process understanding, and new knowledge on exposure and vulnerability of human and natural systems, including limits to adaptation. Due to unavoidable sea level rise, risks for coastal ecosystems, people and infrastructure will continue to increase beyond 2100. With further warming, climate change risks will become increasingly complex and more difficult to manage. Multiple  climatic and non-climatic risk drivers will interact, resulting in compounding overall risk and risks cascading across sectors and regions. Climate-driven food insecurity and supply instability, for example, are projected to increase with increasing global warming, interacting with non-climatic risk drivers such as competition for land between urban expansion and food production, pandemics and conflict. For any given warming level, the level of risk will also depend on trends in vulnerability and exposure of humans and  ecosystems. Future exposure to climatic hazards is increasing globally due to socio-economic development trends including migration, growing inequality and urbanisation. Human vulnerability will concentrate in informal settlements and rapidly growing smaller settlements. In rural areas vulnerability will be heightened by high reliance on climatesensitive livelihoods. Vulnerability of ecosystems will be strongly influenced by past, present, and future patterns of unsustainable consumption and production, increasing demographic pressures, and persistent unsustainable use and management of land, ocean, and water. Loss of ecosystems and their services has cascading and long-term impacts on people globally, especially for Indigenous Peoples and local communities who are directly dependent on ecosystems to meet basic needs.",
+      "Generated Summary": "The key risks associated with climate change encompass severe economic losses from disaster events, food security challenges stemming from reduced agricultural yields, and social displacement due to extreme weather. The costs associated with disaster response and recovery are rising, necessitating strategic planning to mitigate these impacts on vulnerable populations.",
+      "ROUGE-1 Precision": 0.42857142857142855,
+      "ROUGE-1 Recall": 0.06752411575562701,
+      "ROUGE-1 F1": 0.11666666666666668,
+      "ROUGE-2 Precision": 0.0625,
+      "ROUGE-2 Recall": 0.00967741935483871,
+      "ROUGE-2 F1": 0.016759776536312852,
+      "ROUGE-L Precision": 0.2653061224489796,
+      "ROUGE-L Recall": 0.04180064308681672,
+      "ROUGE-L F1": 0.07222222222222223
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6995556354522705,
+      "BERTScore Recall": 0.5791224241256714,
+      "BERTScore F1": 0.6336674690246582
+    }
+  },
+  {
+    "sub section 4.1": "Future warming projections indicate significant increases, with very low emissions scenarios estimating up to 1.4°C increase while higher scenarios could reach 4.4°C. Even under low emissions scenarios, a rise of 1.5°C is likely between 2021 and 2040, highlighting the urgent need for mitigation efforts to prevent severe consequences.",
+    "rouge": {
+      "Reference Summary": "With further warming, every region is projected to increasingly experience concurrent and multiple changes in climatic  impact-drivers. Compound heatwaves and droughts are projected to become more frequent, including concurrent events across multiple locations. Due to relative sea level rise, current 1-in-100 year extreme sea level events are projected to occur at least annually in more than half of all tide gauge locations by 2100 under all considered scenarios. Other projected regional changes include intensification of tropical cyclones and/or extratropical storms, and increases in aridity and fire weather.",
+      "Generated Summary": "Future warming projections indicate significant increases, with very low emissions scenarios estimating up to 1.4°C increase while higher scenarios could reach 4.4°C. Even under low emissions scenarios, a rise of 1.5°C is likely between 2021 and 2040, highlighting the urgent need for mitigation efforts to prevent severe consequences.",
+      "ROUGE-1 Precision": 0.24074074074074073,
+      "ROUGE-1 Recall": 0.14285714285714285,
+      "ROUGE-1 F1": 0.1793103448275862,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.14814814814814814,
+      "ROUGE-L Recall": 0.08791208791208792,
+      "ROUGE-L F1": 0.1103448275862069
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5863736867904663,
+      "BERTScore Recall": 0.536861777305603,
+      "BERTScore F1": 0.5605265498161316
+    }
+  },
+  {
+    "sub section 4.2": "Future climate projections are based on varying greenhouse gas emissions scenarios, revealing that without immediate and robust actions, global temperatures could rise by 3°C or more, resulting in exacerbated climate hazards and irreversible ecological impacts.",
+    "rouge": {
+      "Reference Summary": "Global warming will continue to increase in the near term  mainly due to increased cumulative  CO2 emissions in nearly all considered scenarios and modelled pathways. In the near term, global warming is more likely than not to reach 1.5°C even under the very low GHG emission scenario and likely or very likely to exceed 1.5°C under higher emissions scenarios. In the considered scenarios and modelled pathways, the best estimates of the time when the level of global warming of 1.5°C is reached lie in the near term. Global warming declines back to below 1.5°C by the end of the 21st century in some scenarios and modelled pathways. The assessed climate response to GHG emissions scenarios results in a best estimate of warming for 2081–2100 that spans a range from 1.4°C for a very low GHG emissions scenario to 2.7°C for an intermediate GHG emissions scenario and 4.4°C for a very high GHG emissions scenario 30, with narrower uncertainty ranges than for corresponding scenarios in AR5. Discernible differences in trends of global surface temperature between contrasting GHG emissions scenarios  would begin to emerge from natural variability within around 20 years. Under these contrasting scenarios, discernible effects would emerge within years for GHG concentrations, and sooner for air quality improvements, due to the combined targeted air pollution controls and strong and sustained methane emissions reductions. Targeted reductions of air pollutant emissions lead to more rapid improvements in air quality within years compared to reductions in GHG emissions only, but in the long term, further improvements are projected in scenarios that combine efforts to reduce air pollutants as well as GHG emissions. Continued emissions will further affect all major climate system components. With every additional increment of global  warming, changes in extremes continue to become larger. Continued global warming is projected to further intensify the global water cycle, including its variability, global monsoon precipitation, and very wet and very dry weather and climate events and seasons. In scenarios with increasing CO2 emissions, natural land and ocean carbon sinks are projected to take up a decreasing proportion of these emissions. Other projected changes include further reduced extents and/or volumes of almost all cryospheric elements, further global mean sea level rise, and increased ocean acidification and deoxygenation .",
+      "Generated Summary": "Future climate projections are based on varying greenhouse gas emissions scenarios, revealing that without immediate and robust actions, global temperatures could rise by 3°C or more, resulting in exacerbated climate hazards and irreversible ecological impacts.",
+      "ROUGE-1 Precision": 0.5,
+      "ROUGE-1 Recall": 0.04639175257731959,
+      "ROUGE-1 F1": 0.08490566037735849,
+      "ROUGE-2 Precision": 0.05714285714285714,
+      "ROUGE-2 Recall": 0.00516795865633075,
+      "ROUGE-2 F1": 0.009478672985781991,
+      "ROUGE-L Precision": 0.3055555555555556,
+      "ROUGE-L Recall": 0.028350515463917526,
+      "ROUGE-L F1": 0.051886792452830184
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.692480206489563,
+      "BERTScore Recall": 0.557483434677124,
+      "BERTScore F1": 0.6176919341087341
+    }
+  },
+  {
+    "sub section 4.3": "Natural variability plays a role in projecting future climate changes. Understanding patterns of natural variability is essential for accurately interpreting climate data and modeling potential scenarios, as it affects the range of outcomes based on rising temperatures.",
+    "rouge": {
+      "Reference Summary": "Natural variability will continue to modulate human-caused climate changes, either attenuating or amplifying projected  changes, with little effect on centennial-scale global warming. These modulations are important to consider in adaptation planning, especially at the regional scale and in the near term. If a large explosive volcanic eruption were to occur, it would temporarily and partially mask human-caused climate change by reducing global surface temperature and precipitation for one to three years.",
+      "Generated Summary": "Natural variability plays a role in projecting future climate changes. Understanding patterns of natural variability is essential for accurately interpreting climate data and modeling potential scenarios, as it affects the range of outcomes based on rising temperatures.",
+      "ROUGE-1 Precision": 0.3783783783783784,
+      "ROUGE-1 Recall": 0.1891891891891892,
+      "ROUGE-1 F1": 0.2522522522522523,
+      "ROUGE-2 Precision": 0.05555555555555555,
+      "ROUGE-2 Recall": 0.0273972602739726,
+      "ROUGE-2 F1": 0.03669724770642202,
+      "ROUGE-L Precision": 0.1891891891891892,
+      "ROUGE-L Recall": 0.0945945945945946,
+      "ROUGE-L F1": 0.12612612612612614
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6876257061958313,
+      "BERTScore Recall": 0.5762709975242615,
+      "BERTScore F1": 0.6270429491996765
+    }
+  },
+  {
+    "sub section 5.1": "Evidence suggests that certain changes are unavoidable, such as reaching 1.5°C of warming by 2028. Increased risks of biodiversity loss and extinction are prevalent, particularly in vulnerable ecosystems, with approximately 30% of species at risk under higher warming scenarios.",
+    "rouge": {
+      "Reference Summary": "The likelihood and impacts of abrupt and/or irreversible changes in the climate system, including changes triggered  when tipping points are reached, increase with further global warming. As warming levels increase, so do the risks of species extinction or irreversible loss of biodiversity in ecosystems including forests, coral reefs and in Arctic regions. At sustained warming levels between 2°C and 3°C, the Greenland and West Antarctic ice sheets will be lost almost completely and irreversibly over multiple millennia, causing several metres of sea level rise. The probability and rate of ice mass loss increase with higher global surface temperatures. The probability of low-likelihood outcomes associated with potentially very large impacts increases with higher global  warming levels. Due to deep uncertainty linked to ice-sheet processes, global mean sea level rise above the likely range – approaching 2 m by 2100 and in excess of 15 m by 2300 under the very high GHG emissions scenario  – cannot be excluded. There is medium confidence that the Atlantic Meridional Overturning Circulation will not collapse abruptly before 2100, but if it were to occur, it would very likely cause abrupt shifts in regional weather patterns, and large impacts on ecosystems and human activities.",
+      "Generated Summary": "Evidence suggests that certain changes are unavoidable, such as reaching 1.5°C of warming by 2028. Increased risks of biodiversity loss and extinction are prevalent, particularly in vulnerable ecosystems, with approximately 30% of species at risk under higher warming scenarios.",
+      "ROUGE-1 Precision": 0.6341463414634146,
+      "ROUGE-1 Recall": 0.12935323383084577,
+      "ROUGE-1 F1": 0.21487603305785125,
+      "ROUGE-2 Precision": 0.075,
+      "ROUGE-2 Recall": 0.015,
+      "ROUGE-2 F1": 0.024999999999999998,
+      "ROUGE-L Precision": 0.36585365853658536,
+      "ROUGE-L Recall": 0.07462686567164178,
+      "ROUGE-L F1": 0.12396694214876032
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7144500017166138,
+      "BERTScore Recall": 0.5789757966995239,
+      "BERTScore F1": 0.6396180987358093
+    }
+  },
+  {
+    "sub section 5.2": "Unavoidable changes include continued sea-level rise, anticipated for the coming centuries largely due to ice sheet melting and ocean warming. Additionally, adaptation limits have been reached in several ecosystems, threatening biodiversity and ecological resilience.",
+    "rouge": {
+      "Reference Summary": "Limiting global surface temperature does not prevent continued changes in climate system components that have  multi-decadal or longer timescales of response. Sea level rise is unavoidable for centuries to millennia due to continuing deep ocean warming and ice sheet melt, and sea levels will remain elevated for thousands of years . However, deep, rapid, and sustained GHG emissions reductions would limit further sea level rise acceleration and projected long-term sea level rise commitment. Relative to 1995–2014, the likely global mean sea level rise under the SSP1-1.9 GHG emissions scenario is 0.15–0.23 m by 2050 and 0.28–0.55 m by 2100; while for the SSP5-8.5 GHG emissions scenario it is 0.20–0.29 m by 2050 and 0.63–1.01 m by 2100. Over the next 2000 years, global mean sea level will rise by about 2–3 m if warming is limited to 1.5°C and 2–6 m if limited to 2°C.",
+      "Generated Summary": "Unavoidable changes include continued sea-level rise, anticipated for the coming centuries largely due to ice sheet melting and ocean warming. Additionally, adaptation limits have been reached in several ecosystems, threatening biodiversity and ecological resilience.",
+      "ROUGE-1 Precision": 0.6,
+      "ROUGE-1 Recall": 0.125,
+      "ROUGE-1 F1": 0.20689655172413793,
+      "ROUGE-2 Precision": 0.23529411764705882,
+      "ROUGE-2 Recall": 0.04790419161676647,
+      "ROUGE-2 F1": 0.07960199004975124,
+      "ROUGE-L Precision": 0.42857142857142855,
+      "ROUGE-L Recall": 0.08928571428571429,
+      "ROUGE-L F1": 0.1477832512315271
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7182068824768066,
+      "BERTScore Recall": 0.5350016355514526,
+      "BERTScore F1": 0.6132129430770874
+    }
+  },
+  {
+    "sub section 6.1": "One major synergy between climate mitigation and other sustainability goals includes improved public health from reduced air pollution, which could save millions of lives annually. Enhancing energy efficiency also contributes to economic growth and reduces emissions while advancing social equity through job creation in renewable energy sectors.",
+    "rouge": {
+      "Reference Summary": "Mitigation options often have synergies with other aspects of sustainable development, but some options can also  have trade-offs. There are potential synergies between sustainable development and, for instance, energy efficiency and renewable energy. Similarly, depending on the context, biological CDR methods like reforestation, improved forest management, soil carbon sequestration, peatland restoration and coastal blue carbon management can enhance biodiversity and ecosystem functions, employment and local livelihoods. However, afforestation or production of biomass crops can have adverse socio-economic and environmental impacts, including on biodiversity, food and water security, local livelihoods and the rights of Indigenous Peoples, especially if implemented at large scales and where land tenure is insecure. Modelled pathways that assume using resources more efficiently or that shift global development towards sustainability include fewer challenges, such as less dependence on CDR and pressure on land and biodiversity.",
+      "Generated Summary": "One major synergy between climate mitigation and other sustainability goals includes improved public health from reduced air pollution, which could save millions of lives annually. Enhancing energy efficiency also contributes to economic growth and reduces emissions while advancing social equity through job creation in renewable energy sectors.",
+      "ROUGE-1 Precision": 0.3617021276595745,
+      "ROUGE-1 Recall": 0.1223021582733813,
+      "ROUGE-1 F1": 0.18279569892473116,
+      "ROUGE-2 Precision": 0.06521739130434782,
+      "ROUGE-2 Recall": 0.021739130434782608,
+      "ROUGE-2 F1": 0.03260869565217391,
+      "ROUGE-L Precision": 0.1702127659574468,
+      "ROUGE-L Recall": 0.05755395683453238,
+      "ROUGE-L F1": 0.08602150537634409
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6653107404708862,
+      "BERTScore Recall": 0.5785890817642212,
+      "BERTScore F1": 0.6189268827438354
+    }
+  },
+  {
+    "sub section 6.2": "Pathways for limiting warming through renewable energy adoption are projected to significantly reduce global greenhouse gas emissions by 2050 while leading to cost savings and economic development.",
+    "rouge": {
+      "Reference Summary": "Global modelled pathways provide information on limiting warming to different levels; these pathways, particularly  their sectoral and regional aspects, depend on the assumptions described in Box SPM.1. Global modelled pathways that limit warming to 1.5°C with no or limited overshoot or limit warming to 2°C are characterized by deep, rapid, and, in most cases, immediate GHG emissions reductions. Pathways that limit warming to 1.5 °C with no or limited overshoot reach net zero CO2 in the early 2050s, followed by net negative CO2 emissions. Those pathways that reach net zero GHG emissions do so around the 2070s. Pathways that limit warming to 2 °C reach net zero CO2 emissions in the early 2070s. Global GHG emissions are projected to peak between 2020 and at the latest before 2025 in global modelled pathways that limit warming to 1.5°C with no or limited overshoot and in those that limit warming to 2°C and assume immediate action.",
+      "Generated Summary": "Pathways for limiting warming through renewable energy adoption are projected to significantly reduce global greenhouse gas emissions by 2050 while leading to cost savings and economic development.",
+      "ROUGE-1 Precision": 0.4444444444444444,
+      "ROUGE-1 Recall": 0.07407407407407407,
+      "ROUGE-1 F1": 0.12698412698412698,
+      "ROUGE-2 Precision": 0.11538461538461539,
+      "ROUGE-2 Recall": 0.018633540372670808,
+      "ROUGE-2 F1": 0.0320855614973262,
+      "ROUGE-L Precision": 0.3333333333333333,
+      "ROUGE-L Recall": 0.05555555555555555,
+      "ROUGE-L F1": 0.09523809523809525
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6689393520355225,
+      "BERTScore Recall": 0.5391092300415039,
+      "BERTScore F1": 0.5970478057861328
+    }
+  },
+  {
+    "sub section 6.3": "Reaching net zero emissions includes strategies such as aggressive emissions reductions across all sectors and transitioning to sustainable energy sources, fostering resilience against climate change impacts.",
+    "rouge": {
+      "Reference Summary": "Reaching net zero CO2 or GHG emissions primarily requires deep and rapid reductions in gross emissions of CO2, as  well as substantial reductions of non-CO2 GHG emissions. For example, in modelled pathways that limit warming to 1.5°C with no or limited overshoot, global methane emissions are reduced by 34 [21–57] % by 2030 relative to 2019. However, some hard-to-abate residual GHG emissions  remain and would need to be counterbalanced by deployment of CDR methods to achieve net zero CO2 or GHG emissions. As a result, net zero CO2 is reached earlier than net zero GHGs.",
+      "Generated Summary": "Reaching net zero emissions includes strategies such as aggressive emissions reductions across all sectors and transitioning to sustainable energy sources, fostering resilience against climate change impacts.",
+      "ROUGE-1 Precision": 0.34615384615384615,
+      "ROUGE-1 Recall": 0.09,
+      "ROUGE-1 F1": 0.14285714285714288,
+      "ROUGE-2 Precision": 0.08,
+      "ROUGE-2 Recall": 0.020202020202020204,
+      "ROUGE-2 F1": 0.03225806451612903,
+      "ROUGE-L Precision": 0.3076923076923077,
+      "ROUGE-L Recall": 0.08,
+      "ROUGE-L F1": 0.126984126984127
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6214092969894409,
+      "BERTScore Recall": 0.5425845384597778,
+      "BERTScore F1": 0.5793279409408569
+    }
+  },
+  {
+    "sub section 6.4": "Transitioning from fossil fuels involves overcoming substantial challenges, such as technological innovations and integrating renewable energy systems, which require coordinated efforts at both national and global levels to ensure a successful transition.",
+    "rouge": {
+      "Reference Summary": "Global modelled mitigation pathways reaching net zero CO2 and GHG emissions include transitioning from fossil fuels  without carbon capture and storage to very low- or zero-carbon energy sources, such as renewables or fossil fuels with CCS, demand-side measures and improving efficiency, reducing non-CO2 GHG emissions, and CDR47. In most global modelled pathways, land-use change and forestry and the energy supply sector reach net zero CO2 emissions earlier than the buildings, industry and transport sectors.",
+      "Generated Summary": "Transitioning from fossil fuels involves overcoming substantial challenges, such as technological innovations and integrating renewable energy systems, which require coordinated efforts at both national and global levels to ensure a successful transition.",
+      "ROUGE-1 Precision": 0.375,
+      "ROUGE-1 Recall": 0.15384615384615385,
+      "ROUGE-1 F1": 0.2181818181818182,
+      "ROUGE-2 Precision": 0.12903225806451613,
+      "ROUGE-2 Recall": 0.05194805194805195,
+      "ROUGE-2 F1": 0.07407407407407407,
+      "ROUGE-L Precision": 0.28125,
+      "ROUGE-L Recall": 0.11538461538461539,
+      "ROUGE-L F1": 0.16363636363636364
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6283543109893799,
+      "BERTScore Recall": 0.5632635354995728,
+      "BERTScore F1": 0.5940311551094055
+    }
+  },
+  {
+    "sub section 7.1": "The degree of temperature overshoot could potentially exceed critical limits, with projections indicating a likelihood of surpassing 1.5°C by as early as 2030 if current emissions trajectories remain unchanged.",
+    "rouge": {
+      "Reference Summary": "The higher the magnitude and the longer the duration of overshoot, the more ecosystems and societies are exposed  to greater and more widespread changes in climatic impact-drivers, increasing risks for many natural and human systems. Compared to pathways without overshoot, societies would face higher risks to infrastructure, low-lying coastal settlements, and associated livelihoods. Overshooting 1.5°C will result in irreversible adverse impacts on certain ecosystems with low resilience, such as polar, mountain, and coastal ecosystems, impacted by ice-sheet melt, glacier melt, or by accelerating and higher committed sea level rise.",
+      "Generated Summary": "The degree of temperature overshoot could potentially exceed critical limits, with projections indicating a likelihood of surpassing 1.5°C by as early as 2030 if current emissions trajectories remain unchanged.",
+      "ROUGE-1 Precision": 0.2903225806451613,
+      "ROUGE-1 Recall": 0.09574468085106383,
+      "ROUGE-1 F1": 0.144,
+      "ROUGE-2 Precision": 0.06666666666666667,
+      "ROUGE-2 Recall": 0.021505376344086023,
+      "ROUGE-2 F1": 0.032520325203252036,
+      "ROUGE-L Precision": 0.22580645161290322,
+      "ROUGE-L Recall": 0.07446808510638298,
+      "ROUGE-L F1": 0.11200000000000002
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6094743013381958,
+      "BERTScore Recall": 0.4924643039703369,
+      "BERTScore F1": 0.5447569489479065
+    }
+  },
+  {
+    "sub section 7.2": "The likelihood of overshooting is influenced by emissions scenarios and requires urgent policy interventions to mitigate risks. Reducing greenhouse gas emissions is essential to avoid surpassing critical warming thresholds that could lead to severe ecological consequences.",
+    "rouge": {
+      "Reference Summary": "Only a small number of the most ambitious global modelled pathways limit global warming to 1.5°C  by 2100  without exceeding this level temporarily. Achieving and sustaining net negative global CO2 emissions, with annual rates of CDR greater than residual CO2 emissions, would gradually reduce the warming level again. Adverse impacts that occur during this period of overshoot and cause additional warming via feedback mechanisms, such as increased wildfires, mass mortality of trees, drying of peatlands, and permafrost thawing, weakening natural land carbon sinks and increasing releases of GHGs would make the return more challenging.",
+      "Generated Summary": "The likelihood of overshooting is influenced by emissions scenarios and requires urgent policy interventions to mitigate risks. Reducing greenhouse gas emissions is essential to avoid surpassing critical warming thresholds that could lead to severe ecological consequences.",
+      "ROUGE-1 Precision": 0.3055555555555556,
+      "ROUGE-1 Recall": 0.11458333333333333,
+      "ROUGE-1 F1": 0.16666666666666669,
+      "ROUGE-2 Precision": 0.02857142857142857,
+      "ROUGE-2 Recall": 0.010526315789473684,
+      "ROUGE-2 F1": 0.015384615384615384,
+      "ROUGE-L Precision": 0.16666666666666666,
+      "ROUGE-L Recall": 0.0625,
+      "ROUGE-L F1": 0.09090909090909091
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6401424407958984,
+      "BERTScore Recall": 0.5643701553344727,
+      "BERTScore F1": 0.5998730063438416
+    }
+  },
+  {
+    "sub section 7.3": "Returning to pre-overshoot temperatures requires actionable strategies for achieving net negative CO2 emissions, including extensive carbon removal initiatives and reduction efforts to ensure no further warming occurs.",
+    "rouge": {
+      "Reference Summary": "The larger the overshoot, the more net negative CO2 emissions would be needed to return to 1.5°C by 2100. Transitioning  towards net zero CO2 emissions faster and reducing non-CO2 emissions such as methane more rapidly would limit peak warming levels and reduce the requirement for net negative CO2 emissions, thereby reducing feasibility and sustainability concerns, and social and environmental risks associated with CDR deployment at large scales.",
+      "Generated Summary": "Returning to pre-overshoot temperatures requires actionable strategies for achieving net negative CO2 emissions, including extensive carbon removal initiatives and reduction efforts to ensure no further warming occurs.",
+      "ROUGE-1 Precision": 0.42857142857142855,
+      "ROUGE-1 Recall": 0.17142857142857143,
+      "ROUGE-1 F1": 0.24489795918367346,
+      "ROUGE-2 Precision": 0.14814814814814814,
+      "ROUGE-2 Recall": 0.057971014492753624,
+      "ROUGE-2 F1": 0.08333333333333333,
+      "ROUGE-L Precision": 0.32142857142857145,
+      "ROUGE-L Recall": 0.12857142857142856,
+      "ROUGE-L F1": 0.18367346938775508
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6767961978912354,
+      "BERTScore Recall": 0.6302518844604492,
+      "BERTScore F1": 0.6526952981948853
+    }
+  }
+]

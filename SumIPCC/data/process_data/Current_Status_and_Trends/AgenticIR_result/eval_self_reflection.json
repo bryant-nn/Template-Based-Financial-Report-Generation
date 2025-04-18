@@ -1,0 +1,401 @@
+[
+  {
+    "sub section 1.1": "The adoption of technology for climate mitigation has shown significant progress in various sectors. Digital innovations like sensors, the Internet of Things (IoT), and artificial intelligence are transforming energy management and enhancing efficiency. The utilization of renewable energy sources, particularly solar and wind, has been notable with solar capacity growing by over 20% annually. Policies supporting these technologies led to an estimated 5.9 gigatons of avoided CO2 emissions in 2016 alone. Furthermore, global investments in renewable energy reached approximately $300 billion in 2020, highlighting the economic opportunities tied to technological advancements.",
+    "rouge": {
+      "Reference Summary": "The adoption of low-emission technologies lags in most developing countries, particularly least developed ones, due  in part to limited finance, technology development and transfer, and capacity. The magnitude of climate finance flows has increased over the last decade and financing channels have broadened but growth has slowed since 2018. Financial flows have developed heterogeneously across regions and sectors . Public and private finance flows for fossil fuels are still greater than those for climate adaptation and mitigation. The overwhelming majority of tracked climate finance is directed towards mitigation, but nevertheless falls short of the levels needed to limit warming to below 2°C or to 1.5°C across all sectors and regions. In 2018, public and publicly mobilised private climate finance flows from developed to developing countries were below the collective goal under the UNFCCC and Paris Agreement to mobilise USD 100 billion per year by 2020 in the context of meaningful mitigation action and transparency on implementation .",
+      "Generated Summary": "The adoption of technology for climate mitigation has shown significant progress in various sectors. Digital innovations like sensors, the Internet of Things (IoT), and artificial intelligence are transforming energy management and enhancing efficiency. The utilization of renewable energy sources, particularly solar and wind, has been notable with solar capacity growing by over 20% annually. Policies supporting these technologies led to an estimated 5.9 gigatons of avoided CO2 emissions in 2016 alone. Furthermore, global investments in renewable energy reached approximately $300 billion in 2020, highlighting the economic opportunities tied to technological advancements.",
+      "ROUGE-1 Precision": 0.3804347826086957,
+      "ROUGE-1 Recall": 0.22012578616352202,
+      "ROUGE-1 F1": 0.2788844621513944,
+      "ROUGE-2 Precision": 0.03296703296703297,
+      "ROUGE-2 Recall": 0.0189873417721519,
+      "ROUGE-2 F1": 0.024096385542168676,
+      "ROUGE-L Precision": 0.1956521739130435,
+      "ROUGE-L Recall": 0.11320754716981132,
+      "ROUGE-L F1": 0.14342629482071712
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6203864812850952,
+      "BERTScore Recall": 0.5867077708244324,
+      "BERTScore F1": 0.6030773520469666
+    }
+  },
+  {
+    "sub section 1.2": "The emission gap remains a critical challenge, with global GHG emissions at about 59.1 gigatons in 2019, a 1.1% increase from 2018. The energy sector is responsible for 73% of total emissions, followed by industries at 19%. Emissions from the wealthiest households account for a disproportionate share, showcasing the inequality in emissions profiles. Despite policies leading to some emission reductions, overall emissions continue to rise, emphasizing the urgent need for targeted climate strategies.",
+    "rouge": {
+      "Reference Summary": "A substantial ‘emissions gap’ exists between global GHG emissions in 2030 associated with the implementation of  NDCs announced prior to COP2626 and those associated with modelled mitigation pathways that limit warming to 1.5°C with no or limited overshoot or limit warming to 2°C assuming immediate action. This would make it likely that warming will exceed 1.5°C during the 21st century. Global modelled mitigation pathways that limit warming to 1.5°C with no or limited overshoot or limit warming to 2°C assuming immediate action imply deep global GHG emissions reductions this decade 27. Modelled pathways that are consistent with NDCs announced prior to COP26 until 2030 and assume no increase in ambition thereafter have higher emissions, leading to a median global warming of 2.8 [2.1 to 3.4] °C by 2100 . Many countries have signalled an intention to achieve net zero GHG or net zero CO2 by around mid-century but pledges differ across countries in terms of scope and specificity, and limited policies are to date in place to deliver on them.",
+      "Generated Summary": "The emission gap remains a critical challenge, with global GHG emissions at about 59.1 gigatons in 2019, a 1.1% increase from 2018. The energy sector is responsible for 73% of total emissions, followed by industries at 19%. Emissions from the wealthiest households account for a disproportionate share, showcasing the inequality in emissions profiles. Despite policies leading to some emission reductions, overall emissions continue to rise, emphasizing the urgent need for targeted climate strategies.",
+      "ROUGE-1 Precision": 0.3333333333333333,
+      "ROUGE-1 Recall": 0.13812154696132597,
+      "ROUGE-1 F1": 0.1953125,
+      "ROUGE-2 Precision": 0.06756756756756757,
+      "ROUGE-2 Recall": 0.027777777777777776,
+      "ROUGE-2 F1": 0.03937007874015748,
+      "ROUGE-L Precision": 0.21333333333333335,
+      "ROUGE-L Recall": 0.08839779005524862,
+      "ROUGE-L F1": 0.12499999999999997
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6013653874397278,
+      "BERTScore Recall": 0.544670820236206,
+      "BERTScore F1": 0.5716158151626587
+    }
+  },
+  {
+    "sub section 1.3": "Important international agreements such as the UNFCCC, Kyoto Protocol, and Paris Agreement have established frameworks for global cooperation on climate change. The Paris Agreement aims to limit warming to below 2 degrees Celsius, with countries required to submit nationally determined contributions (NDCs) reflecting their climate action plans. Although progress has been made, challenges persist in achieving collective goals due to structural barriers and the need for accountability.",
+    "rouge": {
+      "Reference Summary": "The UNFCCC, Kyoto Protocol, and the Paris Agreement are supporting rising levels of national ambition. The Paris Agreement,  adopted under the UNFCCC, with near universal participation, has led to policy development and target-setting at national and sub-national levels, in particular in relation to mitigation, as well as enhanced transparency of climate action and support. Many regulatory and economic instruments have already been deployed successfully . In many countries, policies have enhanced energy efficiency, reduced rates of deforestation and accelerated technology deployment, leading to avoided and in some cases reduced or removed emissions . Multiple lines of evidence suggest that mitigation policies have led to several Gt CO2-eq yr-1 of avoided global emissions. At least 18 countries have sustained absolute production-based GHG and consumption-based CO2 reductions for longer than 10 years. These reductions have only partly offset global emissions growth.",
+      "Generated Summary": "Important international agreements such as the UNFCCC, Kyoto Protocol, and Paris Agreement have established frameworks for global cooperation on climate change. The Paris Agreement aims to limit warming to below 2 degrees Celsius, with countries required to submit nationally determined contributions (NDCs) reflecting their climate action plans. Although progress has been made, challenges persist in achieving collective goals due to structural barriers and the need for accountability.",
+      "ROUGE-1 Precision": 0.417910447761194,
+      "ROUGE-1 Recall": 0.1958041958041958,
+      "ROUGE-1 F1": 0.26666666666666666,
+      "ROUGE-2 Precision": 0.13636363636363635,
+      "ROUGE-2 Recall": 0.06338028169014084,
+      "ROUGE-2 F1": 0.08653846153846152,
+      "ROUGE-L Precision": 0.29850746268656714,
+      "ROUGE-L Recall": 0.13986013986013987,
+      "ROUGE-L F1": 0.19047619047619047
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6602972745895386,
+      "BERTScore Recall": 0.5800033807754517,
+      "BERTScore F1": 0.617551326751709
+    }
+  },
+  {
+    "sub section 1.4": "Various mitigation options are currently being employed. Policies like carbon pricing have been implemented in over 60 countries, leading to a reduction in emissions by 2-3% where applied. Community engagement and sustainable practices, such as plant-based diets, are being encouraged to lower individual footprints. However, institutional barriers and the requirement for $4 trillion in investments annually to meet global climate goals pose challenges to effective implementation.",
+    "rouge": {
+      "Reference Summary": "Several mitigation options, notably solar energy, wind energy, electrification of urban systems, urban green infrastructure,  energy efficiency, demand-side management, improved forest and crop/grassland management, and reduced food waste and loss, are technically viable, are becoming increasingly cost effective and are generally supported by the public. From 2010 to 2019 there have been sustained decreases in the unit costs of solar energy, wind energy , and lithium-ion batteries, and large increases in their deployment, e.g., >10× for solar and >100× for electric vehicles, varying widely across regions. The mix of policy instruments that reduced costs and stimulated adoption includes public R&D, funding for demonstration and pilot projects, and demand-pull instruments such as deployment subsidies to attain scale. Maintaining emission-intensive systems may, in some regions and sectors, be more expensive than transitioning to low emission systems.",
+      "Generated Summary": "Various mitigation options are currently being employed. Policies like carbon pricing have been implemented in over 60 countries, leading to a reduction in emissions by 2-3% where applied. Community engagement and sustainable practices, such as plant-based diets, are being encouraged to lower individual footprints. However, institutional barriers and the requirement for $4 trillion in investments annually to meet global climate goals pose challenges to effective implementation.",
+      "ROUGE-1 Precision": 0.35294117647058826,
+      "ROUGE-1 Recall": 0.17142857142857143,
+      "ROUGE-1 F1": 0.23076923076923078,
+      "ROUGE-2 Precision": 0.04477611940298507,
+      "ROUGE-2 Recall": 0.02158273381294964,
+      "ROUGE-2 F1": 0.029126213592233014,
+      "ROUGE-L Precision": 0.19117647058823528,
+      "ROUGE-L Recall": 0.09285714285714286,
+      "ROUGE-L F1": 0.125
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.628716766834259,
+      "BERTScore Recall": 0.5741389393806458,
+      "BERTScore F1": 0.6001896262168884
+    }
+  },
+  {
+    "sub section 1.5": "The coverage of existing climate policies varies widely. While many countries have made progress in integrating climate action into national policies, others remain limited. Significant funding gaps affect the adaptation efforts, especially in developing nations, hindering their capacity to implement effective climate strategies. Growing political resistance and public disinformation complicate the landscape further, impacting public support for necessary climate actions.",
+    "rouge": {
+      "Reference Summary": "Policy coverage is uneven across sectors . Policies implemented by the end of 2020 are projected to  result in higher global GHG emissions in 2030 than emissions implied by NDCs, indicating an ‘implementation gap’ . Without a strengthening of policies, global warming of 3.2 [2.2 to 3.5] °C is projected by 2100 .",
+      "Generated Summary": "The coverage of existing climate policies varies widely. While many countries have made progress in integrating climate action into national policies, others remain limited. Significant funding gaps affect the adaptation efforts, especially in developing nations, hindering their capacity to implement effective climate strategies. Growing political resistance and public disinformation complicate the landscape further, impacting public support for necessary climate actions.",
+      "ROUGE-1 Precision": 0.16666666666666666,
+      "ROUGE-1 Recall": 0.18867924528301888,
+      "ROUGE-1 F1": 0.17699115044247787,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.08333333333333333,
+      "ROUGE-L Recall": 0.09433962264150944,
+      "ROUGE-L F1": 0.08849557522123894
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5637707710266113,
+      "BERTScore Recall": 0.5287486910820007,
+      "BERTScore F1": 0.545698344707489
+    }
+  },
+  {
+    "sub section 2.1": "Key barriers to adaptation include financial constraints, weak governance, and policy limitations. Developing nations require massive annual funding for climate adaptation efforts, yet current financing remains insufficient. Governance challenges often lead to fragmented responses, and existing policies may fail to prioritize or integrate adaptation measures adequately.",
+    "rouge": {
+      "Reference Summary": "Key barriers to adaptation are limited resources, lack of private sector and citizen engagement, insufficient mobilization  of finance, low climate literacy, lack of political commitment, limited research and/or slow and low uptake of adaptation science, and low sense of urgency. There are widening disparities between the estimated costs of adaptation and the finance allocated to adaptation. Adaptation finance has come predominantly from public sources, and a small proportion of global tracked climate finance was targeted to adaptation and an overwhelming majority to mitigation. Although global tracked climate finance has shown an upward trend since AR5, current global financial flows for adaptation, including from public and private finance sources, are insufficient and constrain implementation of adaptation options, especially in developing countries . Adverse climate impacts can reduce the availability of financial resources by incurring losses and damages and through impeding national economic growth, thereby further increasing financial constraints for adaptation, particularly for developing and least developed countries.",
+      "Generated Summary": "Key barriers to adaptation include financial constraints, weak governance, and policy limitations. Developing nations require massive annual funding for climate adaptation efforts, yet current financing remains insufficient. Governance challenges often lead to fragmented responses, and existing policies may fail to prioritize or integrate adaptation measures adequately.",
+      "ROUGE-1 Precision": 0.4782608695652174,
+      "ROUGE-1 Recall": 0.14102564102564102,
+      "ROUGE-1 F1": 0.21782178217821782,
+      "ROUGE-2 Precision": 0.1111111111111111,
+      "ROUGE-2 Recall": 0.03225806451612903,
+      "ROUGE-2 F1": 0.049999999999999996,
+      "ROUGE-L Precision": 0.2826086956521739,
+      "ROUGE-L Recall": 0.08333333333333333,
+      "ROUGE-L F1": 0.12871287128712872
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7458364367485046,
+      "BERTScore Recall": 0.6348897218704224,
+      "BERTScore F1": 0.6859055757522583
+    }
+  },
+  {
+    "sub section 2.2": "The effectiveness of adaptation measures is increasing, with around 170 countries incorporating adaptation into their climate policies. The focus on water-related risks and agricultural resilience is prominent, with reported improvements in yields in areas implementing adaptive practices. Nevertheless, many smallholder farmers face limitations in fully realizing adaptive potential due to existing socio-economic constraints.",
+    "rouge": {
+      "Reference Summary": "Effectiveness of adaptation in reducing climate risks16 is documented for specific contexts, sectors and regions . Examples of effective adaptation options include: cultivar improvements, on-farm water management and storage, soil moisture conservation, irrigation, agroforestry, community-based adaptation, farm and landscape level diversification in agriculture, sustainable land management approaches, use of agroecological principles and practices and other approaches that work with natural processes. Ecosystem-based adaptation approaches such as urban greening, restoration of wetlands and upstream forest ecosystems have been effective in reducing flood risks and urban heat. Combinations of non-structural measures like early warning systems and structural measures like levees have reduced loss of lives in case of inland flooding. Adaptation options such as disaster risk management, early warning systems, climate services and social safety nets have broad applicability across multiple sectors.",
+      "Generated Summary": "The effectiveness of adaptation measures is increasing, with around 170 countries incorporating adaptation into their climate policies. The focus on water-related risks and agricultural resilience is prominent, with reported improvements in yields in areas implementing adaptive practices. Nevertheless, many smallholder farmers face limitations in fully realizing adaptive potential due to existing socio-economic constraints.",
+      "ROUGE-1 Precision": 0.36363636363636365,
+      "ROUGE-1 Recall": 0.15037593984962405,
+      "ROUGE-1 F1": 0.2127659574468085,
+      "ROUGE-2 Precision": 0.05555555555555555,
+      "ROUGE-2 Recall": 0.022727272727272728,
+      "ROUGE-2 F1": 0.032258064516129024,
+      "ROUGE-L Precision": 0.23636363636363636,
+      "ROUGE-L Recall": 0.09774436090225563,
+      "ROUGE-L F1": 0.1382978723404255
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6484236717224121,
+      "BERTScore Recall": 0.6010361909866333,
+      "BERTScore F1": 0.6238313317298889
+    }
+  },
+  {
+    "sub section 2.3": "Gaps and limits in adaptation are evidenced by ongoing challenges in resource availability and support systems. Reports indicate that many communities are facing increasing vulnerabilities due to insufficient adaptation actions, particularly in the context of rising climate extremes. The situation is exacerbated by maladaptation scenarios, where well-intentioned efforts inadvertently increase risks.",
+    "rouge": {
+      "Reference Summary": "Most observed adaptation responses are fragmented, incremental, sector-specific and unequally distributed across  regions. Despite progress, adaptation gaps exist across sectors and regions, and will continue to grow under current levels of implementation, with the largest adaptation gaps among lower income groups. There is increased evidence of maladaptation in various sectors and regions. Maladaptation especially affects  marginalised and vulnerable groups adversely. Soft limits to adaptation are currently being experienced by small-scale farmers and households along some low-  lying coastal areas resulting from financial, governance, institutional and policy constraints . Some tropical, coastal, polar and mountain ecosystems have reached hard adaptation limits . Adaptation does not prevent all losses and damages, even with effective adaptation and before reaching soft and hard limits.",
+      "Generated Summary": "Gaps and limits in adaptation are evidenced by ongoing challenges in resource availability and support systems. Reports indicate that many communities are facing increasing vulnerabilities due to insufficient adaptation actions, particularly in the context of rising climate extremes. The situation is exacerbated by maladaptation scenarios, where well-intentioned efforts inadvertently increase risks.",
+      "ROUGE-1 Precision": 0.3269230769230769,
+      "ROUGE-1 Recall": 0.14166666666666666,
+      "ROUGE-1 F1": 0.19767441860465118,
+      "ROUGE-2 Precision": 0.0196078431372549,
+      "ROUGE-2 Recall": 0.008403361344537815,
+      "ROUGE-2 F1": 0.011764705882352941,
+      "ROUGE-L Precision": 0.17307692307692307,
+      "ROUGE-L Recall": 0.075,
+      "ROUGE-L F1": 0.10465116279069767
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6541666388511658,
+      "BERTScore Recall": 0.6014993190765381,
+      "BERTScore F1": 0.6267284154891968
+    }
+  },
+  {
+    "sub section 2.4": "There has been notable progress in adaptation across multiple regions, especially in implementing decision support tools and engaging local communities. Increasing funding for adaptation projects is critical, with a rise in global adaptation finance, although it still only represents a fraction of total climate funding. Nonetheless, achieving comprehensive resilience against climate impacts remains a major goal.",
+    "rouge": {
+      "Reference Summary": "Progress in adaptation planning and implementation has been observed across all sectors and regions, generating  multiple benefits. Growing public and political awareness of climate impacts and risks has resulted in at least 170 countries and many cities including adaptation in their climate policies and planning processes .",
+      "Generated Summary": "There has been notable progress in adaptation across multiple regions, especially in implementing decision support tools and engaging local communities. Increasing funding for adaptation projects is critical, with a rise in global adaptation finance, although it still only represents a fraction of total climate funding. Nonetheless, achieving comprehensive resilience against climate impacts remains a major goal.",
+      "ROUGE-1 Precision": 0.30357142857142855,
+      "ROUGE-1 Recall": 0.3695652173913043,
+      "ROUGE-1 F1": 0.3333333333333333,
+      "ROUGE-2 Precision": 0.07272727272727272,
+      "ROUGE-2 Recall": 0.08888888888888889,
+      "ROUGE-2 F1": 0.08,
+      "ROUGE-L Precision": 0.17857142857142858,
+      "ROUGE-L Recall": 0.21739130434782608,
+      "ROUGE-L F1": 0.19607843137254902
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6335592269897461,
+      "BERTScore Recall": 0.6776705980300903,
+      "BERTScore F1": 0.6548728942871094
+    }
+  },
+  {
+    "sub section 3.1": "Damage distribution caused by climate change varies significantly by region, with economic impacts exceeding $300 billion in agriculture over the past decade. Vulnerable populations, particularly in low-lying coastal areas, are disproportionately affected, facing increased risks of displacement and economic loss due to climate-related disasters.",
+    "rouge": {
+      "Reference Summary": "Climate change has caused widespread adverse impacts and related losses and damages to nature and people that are  unequally distributed across systems, regions and sectors. Economic damages from climate change have been detected in climate-exposed sectors, such as agriculture, forestry, fishery, energy, and tourism. Individual livelihoods have been affected through, for example, destruction of homes and infrastructure, and loss of property and income, human health and food security, with adverse effects on gender and social equity.",
+      "Generated Summary": "Damage distribution caused by climate change varies significantly by region, with economic impacts exceeding $300 billion in agriculture over the past decade. Vulnerable populations, particularly in low-lying coastal areas, are disproportionately affected, facing increased risks of displacement and economic loss due to climate-related disasters.",
+      "ROUGE-1 Precision": 0.41304347826086957,
+      "ROUGE-1 Recall": 0.24675324675324675,
+      "ROUGE-1 F1": 0.3089430894308943,
+      "ROUGE-2 Precision": 0.022222222222222223,
+      "ROUGE-2 Recall": 0.013157894736842105,
+      "ROUGE-2 F1": 0.016528925619834708,
+      "ROUGE-L Precision": 0.21739130434782608,
+      "ROUGE-L Recall": 0.12987012987012986,
+      "ROUGE-L F1": 0.16260162601626016
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6801670789718628,
+      "BERTScore Recall": 0.6709325909614563,
+      "BERTScore F1": 0.675518274307251
+    }
+  },
+  {
+    "sub section 3.2": "The economic and environmental damages from climate change are profound, estimated to reach $1.7 trillion annually by 2030 as a result of increased frequency of extreme weather events. The agricultural sector is particularly hard hit, with projections indicating severe losses due to shifting climate patterns.",
+    "rouge": {
+      "Reference Summary": "Climate change has caused substantial damages, and increasingly irreversible losses, in terrestrial, freshwater,  cryospheric, and coastal and open ocean ecosystems. Hundreds of local losses of species have been driven by increases in the magnitude of heat extremes with mass mortality events recorded on land and in the ocean. Impacts on some ecosystems are approaching irreversibility such as the impacts of hydrological changes resulting from the retreat of glaciers, or the changes in some mountain  and Arctic ecosystems driven by permafrost thaw.",
+      "Generated Summary": "The economic and environmental damages from climate change are profound, estimated to reach $1.7 trillion annually by 2030 as a result of increased frequency of extreme weather events. The agricultural sector is particularly hard hit, with projections indicating severe losses due to shifting climate patterns.",
+      "ROUGE-1 Precision": 0.391304347826087,
+      "ROUGE-1 Recall": 0.2222222222222222,
+      "ROUGE-1 F1": 0.2834645669291338,
+      "ROUGE-2 Precision": 0.022222222222222223,
+      "ROUGE-2 Recall": 0.0125,
+      "ROUGE-2 F1": 0.016,
+      "ROUGE-L Precision": 0.17391304347826086,
+      "ROUGE-L Recall": 0.09876543209876543,
+      "ROUGE-L F1": 0.12598425196850394
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6318665742874146,
+      "BERTScore Recall": 0.5965571999549866,
+      "BERTScore F1": 0.6137043833732605
+    }
+  },
+  {
+    "sub section 3.3": "Food security is critically threatened by climate change, with an estimated increase in the number of undernourished people by 122 million by 2030. Water scarcity and extreme weather events are directly linked to reduced agricultural productivity, exacerbating the global food crisis.",
+    "rouge": {
+      "Reference Summary": "Climate change has reduced food security and affected water security, hindering efforts to meet Sustainable  Development Goals. Although overall agricultural productivity has increased, climate change has slowed this growth over the past 50 years globally, with related negative impacts mainly in midand low latitude regions but positive impacts in some high latitude regions. Ocean warming and ocean acidification have adversely affected food production from fisheries and shellfish aquaculture in some oceanic regions. Roughly half of the world’s population currently experience severe water scarcity for at least part of the year due to a combination of climatic and non-climatic drivers.",
+      "Generated Summary": "Food security is critically threatened by climate change, with an estimated increase in the number of undernourished people by 122 million by 2030. Water scarcity and extreme weather events are directly linked to reduced agricultural productivity, exacerbating the global food crisis.",
+      "ROUGE-1 Precision": 0.4634146341463415,
+      "ROUGE-1 Recall": 0.18811881188118812,
+      "ROUGE-1 F1": 0.26760563380281693,
+      "ROUGE-2 Precision": 0.1,
+      "ROUGE-2 Recall": 0.04,
+      "ROUGE-2 F1": 0.05714285714285714,
+      "ROUGE-L Precision": 0.24390243902439024,
+      "ROUGE-L Recall": 0.09900990099009901,
+      "ROUGE-L F1": 0.14084507042253522
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6990695595741272,
+      "BERTScore Recall": 0.6051799654960632,
+      "BERTScore F1": 0.6487452983856201
+    }
+  },
+  {
+    "sub section 3.4": "Human influence on climate impacts has been established as a significant factor contributing to observed changes. The rise in greenhouse gas emissions from human activities has increased global average temperatures by about 1.2°C since the late 19th century, leading to severe environmental shifts and health risks.",
+    "rouge": {
+      "Reference Summary": "It is unequivocal that human influence has warmed the atmosphere, ocean and land. Global mean sea level increased by  0.20 [0.15 to 0.25] m between 1901 and 2018. The average rate of sea level rise was 1.3 [0.6 to 2.1] mm yr-1 between 1901 and 1971, increasing to 1.9 [0.8 to 2.9] mm yr-1 between 1971 and 2006, and further increasing to 3.7 [3.2 to 4.2] mm yr-1 between 2006 and 2018. Human influence was very likely the main driver of these increases since at least 1971. Evidence of observed changes in extremes such as heatwaves, heavy precipitation, droughts, and tropical cyclones, and, in particular, their attribution to human influence, has further strengthened since AR5. Human influence has likely increased the chance of compound extreme events since the 1950s, including increases in the frequency of concurrent heatwaves and droughts.",
+      "Generated Summary": "Human influence on climate impacts has been established as a significant factor contributing to observed changes. The rise in greenhouse gas emissions from human activities has increased global average temperatures by about 1.2°C since the late 19th century, leading to severe environmental shifts and health risks.",
+      "ROUGE-1 Precision": 0.4583333333333333,
+      "ROUGE-1 Recall": 0.14285714285714285,
+      "ROUGE-1 F1": 0.2178217821782178,
+      "ROUGE-2 Precision": 0.06382978723404255,
+      "ROUGE-2 Recall": 0.0196078431372549,
+      "ROUGE-2 F1": 0.03,
+      "ROUGE-L Precision": 0.2708333333333333,
+      "ROUGE-L Recall": 0.08441558441558442,
+      "ROUGE-L F1": 0.12871287128712872
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6818761825561523,
+      "BERTScore Recall": 0.572738528251648,
+      "BERTScore F1": 0.622560441493988
+    }
+  },
+  {
+    "sub section 3.5": "Climate-related mortality and disease incidences are increasing, with WHO projecting an additional 250,000 deaths annually from 2030 to 2050 due to climate-related factors. Rising heat and vector-borne diseases are particularly concerning, impacting health systems and public welfare.",
+    "rouge": {
+      "Reference Summary": "In all regions increases in extreme heat events have resulted in human mortality and morbidity .  The occurrence of climate-related food-borne and water-borne diseases and the incidence of vector-borne diseases have increased. In assessed regions, some mental health challenges are associated with increasing temperatures, trauma from extreme events, and loss of livelihoods and culture. Climate and weather extremes are increasingly driving displacement in Africa, Asia, North America, and Central and South America, with small island states in the Caribbean and South Pacific being disproportionately affected relative to their small population size .",
+      "Generated Summary": "Climate-related mortality and disease incidences are increasing, with WHO projecting an additional 250,000 deaths annually from 2030 to 2050 due to climate-related factors. Rising heat and vector-borne diseases are particularly concerning, impacting health systems and public welfare.",
+      "ROUGE-1 Precision": 0.4878048780487805,
+      "ROUGE-1 Recall": 0.2127659574468085,
+      "ROUGE-1 F1": 0.29629629629629634,
+      "ROUGE-2 Precision": 0.1,
+      "ROUGE-2 Recall": 0.043010752688172046,
+      "ROUGE-2 F1": 0.06015037593984964,
+      "ROUGE-L Precision": 0.2926829268292683,
+      "ROUGE-L Recall": 0.1276595744680851,
+      "ROUGE-L F1": 0.17777777777777776
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.683499813079834,
+      "BERTScore Recall": 0.6110285520553589,
+      "BERTScore F1": 0.6452356576919556
+    }
+  },
+  {
+    "sub section 3.6": "The urban environment is facing numerous challenges due to climate change, such as water scarcity affecting over 1 billion people and increased food insecurity contributing to heightened vulnerability in urban areas. Health impacts from climate-related events are also significantly straining urban infrastructures.",
+    "rouge": {
+      "Reference Summary": "In urban areas, observed climate change has caused adverse impacts on human health, livelihoods and key infrastructure.  Hot extremes have intensified in cities. Urban infrastructure, including transportation, water, sanitation and energy systems have been compromised by extreme and slow-onset events, with resulting economic losses, disruptions of services and negative impacts to well-being. Observed adverse impacts are concentrated amongst economically and socially marginalised urban residents.",
+      "Generated Summary": "The urban environment is facing numerous challenges due to climate change, such as water scarcity affecting over 1 billion people and increased food insecurity contributing to heightened vulnerability in urban areas. Health impacts from climate-related events are also significantly straining urban infrastructures.",
+      "ROUGE-1 Precision": 0.3488372093023256,
+      "ROUGE-1 Recall": 0.22727272727272727,
+      "ROUGE-1 F1": 0.27522935779816515,
+      "ROUGE-2 Precision": 0.09523809523809523,
+      "ROUGE-2 Recall": 0.06153846153846154,
+      "ROUGE-2 F1": 0.07476635514018691,
+      "ROUGE-L Precision": 0.20930232558139536,
+      "ROUGE-L Recall": 0.13636363636363635,
+      "ROUGE-L F1": 0.16513761467889906
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6723392009735107,
+      "BERTScore Recall": 0.6456955671310425,
+      "BERTScore F1": 0.6587480902671814
+    }
+  },
+  {
+    "sub section 3.7": "Vulnerability studies underscore that socio-economic factors are key determinants in climate impacts. Populations with low adaptive capacity are particularly susceptible to the adverse effects of climate change, necessitating targeted interventions to enhance resilience.",
+    "rouge": {
+      "Reference Summary": "Approximately 3.3 to 3.6 billion people live in contexts that are highly vulnerable to climate change. Human and  ecosystem vulnerability are interdependent. Regions and people with considerable development constraints have high vulnerability to climatic hazards. Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest adverse impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and globally for Indigenous Peoples, small-scale food producers and low-income households. Between 2010 and 2020, human mortality from floods, droughts and storms was 15 times higher in highly vulnerable regions, compared to regions with very low vulnerability.",
+      "Generated Summary": "Vulnerability studies underscore that socio-economic factors are key determinants in climate impacts. Populations with low adaptive capacity are particularly susceptible to the adverse effects of climate change, necessitating targeted interventions to enhance resilience.",
+      "ROUGE-1 Precision": 0.47058823529411764,
+      "ROUGE-1 Recall": 0.13333333333333333,
+      "ROUGE-1 F1": 0.2077922077922078,
+      "ROUGE-2 Precision": 0.030303030303030304,
+      "ROUGE-2 Recall": 0.008403361344537815,
+      "ROUGE-2 F1": 0.013157894736842105,
+      "ROUGE-L Precision": 0.23529411764705882,
+      "ROUGE-L Recall": 0.06666666666666667,
+      "ROUGE-L F1": 0.1038961038961039
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6703296303749084,
+      "BERTScore Recall": 0.544547438621521,
+      "BERTScore F1": 0.6009271144866943
+    }
+  },
+  {
+    "sub section 4.1": "Historical CO2 emissions show staggering growth, with cumulative emissions from 1850 to 2019 reaching approximately 2400 GtCO2, significantly contributing to the rise in global temperatures.",
+    "rouge": {
+      "Reference Summary": "Historical contributions of CO2 emissions vary substantially across regions in terms of total magnitude, but also in  terms of contributions to CO2-FFI and net CO2 emissions from land use, land-use change and forestry. In 2019, around 35% of the global population live in countries emitting more than 9 tCO2-eq per capita  while 41% live in countries emitting less than 3 tCO2-eq per capita; of the latter a substantial share lacks access to modern energy services. Least Developed Countries and Small Island Developing States have much lower per capita emissions than the global average, excluding CO2-LULUCF. The 10% of households with the highest per capita emissions contribute 34–45% of global consumption-based household GHG emissions, while the bottom 50% contribute 13–15%.",
+      "Generated Summary": "Historical CO2 emissions show staggering growth, with cumulative emissions from 1850 to 2019 reaching approximately 2400 GtCO2, significantly contributing to the rise in global temperatures.",
+      "ROUGE-1 Precision": 0.52,
+      "ROUGE-1 Recall": 0.10236220472440945,
+      "ROUGE-1 F1": 0.17105263157894737,
+      "ROUGE-2 Precision": 0.125,
+      "ROUGE-2 Recall": 0.023809523809523808,
+      "ROUGE-2 F1": 0.04,
+      "ROUGE-L Precision": 0.36,
+      "ROUGE-L Recall": 0.07086614173228346,
+      "ROUGE-L F1": 0.11842105263157895
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6716415882110596,
+      "BERTScore Recall": 0.504167377948761,
+      "BERTScore F1": 0.5759775638580322
+    }
+  },
+  {
+    "sub section 4.2": "Other GHG emissions have also increased, with energy supply and industrial processes being primary sources. In 2019, the energy sector accounted for about 42% of global CO2 emissions, with significant contributions from transportation, agriculture, and residential buildings.",
+    "rouge": {
+      "Reference Summary": "Observed increases in well-mixed GHG concentrations since around 1750 are unequivocally caused by GHG emissions  from human activities over this period. Historical cumulative net CO2 emissions from 1850 to 2019 were 2400 ± 240 GtCO2 of which more than half occurred between 1850 and 1989, and about 42% occurred between 1990 and 2019 . In 2019, atmospheric CO2 concentrations were higher than at any time in at least 2 million years, and concentrations of methane and nitrous oxide  were higher than at any time in at least 800, years. Global net anthropogenic GHG emissions have been estimated to be 59 ± 6.6 GtCO2-eq9 in 2019, about 12%   higher than in 2010 and 54% higher than in 1990, with the largest share and growth in gross GHG emissions occurring in CO2 from fossil fuels combustion and industrial processes followed by methane, whereas the highest relative growth occurred in fluorinated gases, starting from low levels in 1990. Average annual GHG emissions during 2010–2019 were higher than in any previous decade on record, while the rate of growth between 2010 and 2019 was lower than that between 2000 and 2009. In 2019, approximately 79% of global GHG emissions came from the sectors of energy, industry, transport, and buildings together and 22%10 from agriculture, forestry and other land use. Emissions reductions in CO2-FFI due to improvements in energy intensity of GDP and carbon intensity of energy, have been less than emissions increases from rising global activity levels in industry, energy supply, transport, agriculture and buildings.",
+      "Generated Summary": "Other GHG emissions have also increased, with energy supply and industrial processes being primary sources. In 2019, the energy sector accounted for about 42% of global CO2 emissions, with significant contributions from transportation, agriculture, and residential buildings.",
+      "ROUGE-1 Precision": 0.7567567567567568,
+      "ROUGE-1 Recall": 0.11023622047244094,
+      "ROUGE-1 F1": 0.19243986254295534,
+      "ROUGE-2 Precision": 0.3055555555555556,
+      "ROUGE-2 Recall": 0.043478260869565216,
+      "ROUGE-2 F1": 0.07612456747404844,
+      "ROUGE-L Precision": 0.5135135135135135,
+      "ROUGE-L Recall": 0.07480314960629922,
+      "ROUGE-L F1": 0.13058419243986255
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.8017293214797974,
+      "BERTScore Recall": 0.5835678577423096,
+      "BERTScore F1": 0.6754701733589172
+    }
+  },
+  {
+    "sub section 4.3": "Global surface temperature data indicate a rise of about 1.1°C since the 1850s, with projections suggesting potential increases up to 4.4°C by the end of the century under high emissions scenarios. These changes pose substantial risks to ecosystems, agriculture, and global health.",
+    "rouge": {
+      "Reference Summary": "Global surface temperature was 1.09 [0.95 to 1.20]°C5 higher in 2011–2020 than 1850–19006, with larger increases  over land than over the ocean. Global surface temperature in the first two decades of the 21st century was 0.99 [0.84 to 1.10]°C higher than 1850–1900. Global surface temperature has increased faster since 1970 than in any other 50-year period over at least the last 2000 years. The likely range of total human-caused global surface temperature increase from 1850–1900 to 2010–20197 is 0.8°C to  1.3°C, with a best estimate of 1.07°C. Over this period, it is likely that well-mixed greenhouse gases contributed a warming of 1.0°C to 2.0°C8, and other human drivers contributed a cooling of 0.0°C to 0.8°C, natural drivers changed global surface temperature by –0.1°C to +0.1°C, and internal variability changed it by –0.2°C to +0.2°C.",
+      "Generated Summary": "Global surface temperature data indicate a rise of about 1.1°C since the 1850s, with projections suggesting potential increases up to 4.4°C by the end of the century under high emissions scenarios. These changes pose substantial risks to ecosystems, agriculture, and global health.",
+      "ROUGE-1 Precision": 0.5217391304347826,
+      "ROUGE-1 Recall": 0.13953488372093023,
+      "ROUGE-1 F1": 0.2201834862385321,
+      "ROUGE-2 Precision": 0.08888888888888889,
+      "ROUGE-2 Recall": 0.023391812865497075,
+      "ROUGE-2 F1": 0.037037037037037035,
+      "ROUGE-L Precision": 0.32608695652173914,
+      "ROUGE-L Recall": 0.0872093023255814,
+      "ROUGE-L F1": 0.13761467889908258
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6706579923629761,
+      "BERTScore Recall": 0.6291301250457764,
+      "BERTScore F1": 0.6492306590080261
+    }
+  }
+]

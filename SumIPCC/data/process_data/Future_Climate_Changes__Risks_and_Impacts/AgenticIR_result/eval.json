@@ -1,0 +1,359 @@
+[
+  {
+    "sub section 1.1": "Climate change trends after 2010 indicate an amplification of existing risks and the emergence of new risks for both natural and human systems. These impacts disproportionately affect disadvantaged communities and are expected to lead to severe, pervasive, and potentially irreversible effects on biodiversity, ecosystem services, and economic development. Key risks include severe impacts on livelihoods, food security, human health, and biodiversity. The increasing rates of climate change may exceed the adaptation limits, leading to regional and global risks that necessitate urgent action for mitigation.",
+    "rouge": {
+      "Reference Summary": "Magnitudes and rates of climate change associated with medium- to high-emission scenarios pose an increased risk of  abrupt and irreversible regional-scale change in the composition, structure and function of marine, terrestrial and freshwater ecosystems, including wetlands. A reduction in permafrost extent is virtually certain with continued rise in global temperatures.",
+      "Generated Summary": "Climate change trends after 2010 indicate an amplification of existing risks and the emergence of new risks for both natural and human systems. These impacts disproportionately affect disadvantaged communities and are expected to lead to severe, pervasive, and potentially irreversible effects on biodiversity, ecosystem services, and economic development. Key risks include severe impacts on livelihoods, food security, human health, and biodiversity. The increasing rates of climate change may exceed the adaptation limits, leading to regional and global risks that necessitate urgent action for mitigation.",
+      "ROUGE-1 Precision": 0.25,
+      "ROUGE-1 Recall": 0.40384615384615385,
+      "ROUGE-1 F1": 0.3088235294117647,
+      "ROUGE-2 Precision": 0.03614457831325301,
+      "ROUGE-2 Recall": 0.058823529411764705,
+      "ROUGE-2 F1": 0.04477611940298508,
+      "ROUGE-L Precision": 0.13095238095238096,
+      "ROUGE-L Recall": 0.21153846153846154,
+      "ROUGE-L F1": 0.16176470588235295
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.625304102897644,
+      "BERTScore Recall": 0.6382505893707275,
+      "BERTScore F1": 0.6317110061645508
+    }
+  },
+  {
+    "sub section 1.2": "Sea level rise is projected to significantly increase, with the RCP8.5 scenario indicating a rise between 8 to 16 mm/yr from 2081 to 2100, compared to the observed rate of 2.0 mm/yr from 1971 to 2010. More than 95% of ocean areas are expected to experience rising sea levels by century's end, with regional disparities. The rate of rise is influenced by CO2 emissions pathways, signifying the need for earlier reductions to mitigate sea level rise effectively.",
+    "rouge": {
+      "Reference Summary": "It is virtually certain that global mean sea level rise will continue for many centuries beyond 2100, with the amount of rise  dependent on future emissions. The threshold for the loss of the Greenland ice sheet over a millennium or more, and an associated sea level rise of up to 7 m, is greater than about 1°C but less than about 4°C of global warming with respect to pre-industrial temperatures. Abrupt and irreversible ice loss from the Antarctic ice sheet is possible, but current evidence and understanding is insufficient to make a quantitative assessment.",
+      "Generated Summary": "Sea level rise is projected to significantly increase, with the RCP8.5 scenario indicating a rise between 8 to 16 mm/yr from 2081 to 2100, compared to the observed rate of 2.0 mm/yr from 1971 to 2010. More than 95% of ocean areas are expected to experience rising sea levels by century's end, with regional disparities. The rate of rise is influenced by CO2 emissions pathways, signifying the need for earlier reductions to mitigate sea level rise effectively.",
+      "ROUGE-1 Precision": 0.35365853658536583,
+      "ROUGE-1 Recall": 0.29896907216494845,
+      "ROUGE-1 F1": 0.3240223463687151,
+      "ROUGE-2 Precision": 0.07407407407407407,
+      "ROUGE-2 Recall": 0.0625,
+      "ROUGE-2 F1": 0.06779661016949153,
+      "ROUGE-L Precision": 0.18292682926829268,
+      "ROUGE-L Recall": 0.15463917525773196,
+      "ROUGE-L F1": 0.16759776536312848
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6368637084960938,
+      "BERTScore Recall": 0.6175261735916138,
+      "BERTScore F1": 0.6270458698272705
+    }
+  },
+  {
+    "sub section 1.3": "Climate stabilization techniques include afforestation, sustainable forest management, and improved agricultural practices, with a focus on reducing emissions efficiently. Demand-side measures, like dietary changes and reducing food supply losses, present additional opportunities for mitigation. Building adaptive capacity is essential, particularly in vulnerable communities, and achieving effective adaptation requires addressing complex governance challenges.",
+    "rouge": {
+      "Reference Summary": "Stabilization of global average surface temperature does not imply stabilization for all aspects of the climate system. Shifting  biomes, soil carbon, ice sheets, ocean temperatures and associated sea level rise all have their own intrinsic long timescales which will result in changes lasting hundreds to thousands of years after global surface temperature is stabilized.  There is high confidence that ocean acidification will increase for centuries if CO2 emissions continue, and will strongly affect marine ecosystems.",
+      "Generated Summary": "Climate stabilization techniques include afforestation, sustainable forest management, and improved agricultural practices, with a focus on reducing emissions efficiently. Demand-side measures, like dietary changes and reducing food supply losses, present additional opportunities for mitigation. Building adaptive capacity is essential, particularly in vulnerable communities, and achieving effective adaptation requires addressing complex governance challenges.",
+      "ROUGE-1 Precision": 0.16981132075471697,
+      "ROUGE-1 Recall": 0.12,
+      "ROUGE-1 F1": 0.14062500000000003,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.09433962264150944,
+      "ROUGE-L Recall": 0.06666666666666667,
+      "ROUGE-L F1": 0.078125
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5753673315048218,
+      "BERTScore Recall": 0.5418848395347595,
+      "BERTScore F1": 0.5581244230270386
+    }
+  },
+  {
+    "sub section 1.4": "The global ocean is expected to continue warming through the 21st century, with notable warming at the surface especially in tropical and Northern Hemisphere subtropical regions. Higher global temperatures are projected, influencing ecosystems and weather patterns, though precise surface temperature data since 2010 is not specified in provided reports.",
+    "rouge": {
+      "Reference Summary": "Warming will continue beyond 2100 under all RCP scenarios except RCP2.6. Surface temperatures will remain approximately  constant at elevated levels for many centuries after a complete cessation of net anthropogenic CO2 emissions. A large fraction of anthropogenic climate change resulting from CO2 emissions is irreversible on a multi-century to millennial timescale, except in the case of a large net removal of CO2 from the atmosphere over a sustained period.",
+      "Generated Summary": "The global ocean is expected to continue warming through the 21st century, with notable warming at the surface especially in tropical and Northern Hemisphere subtropical regions. Higher global temperatures are projected, influencing ecosystems and weather patterns, though precise surface temperature data since 2010 is not specified in provided reports.",
+      "ROUGE-1 Precision": 0.22448979591836735,
+      "ROUGE-1 Recall": 0.15492957746478872,
+      "ROUGE-1 F1": 0.18333333333333332,
+      "ROUGE-2 Precision": 0.020833333333333332,
+      "ROUGE-2 Recall": 0.014285714285714285,
+      "ROUGE-2 F1": 0.01694915254237288,
+      "ROUGE-L Precision": 0.10204081632653061,
+      "ROUGE-L Recall": 0.07042253521126761,
+      "ROUGE-L F1": 0.08333333333333333
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6011399030685425,
+      "BERTScore Recall": 0.5413401126861572,
+      "BERTScore F1": 0.5696750283241272
+    }
+  },
+  {
+    "sub section 2.1": "Future risks of climate change include significant threats to biodiversity and potential widespread animal extinction. Higher global temperatures will exacerbate existing vulnerabilities, with the extinction risk becoming critical at temperature increases of 4°C or higher. This situation jeopardizes food security and disrupts normal human activities.",
+    "rouge": {
+      "Reference Summary": "A large fraction of species faces increased extinction risk due to climate change during and beyond the 21st century, espe-  cially as climate change interacts with other stressors. Most plant species cannot naturally shift their geographical ranges sufficiently fast to keep up with current and high projected rates of climate change in most landscapes; most small mammals and freshwater molluscs will not be able to keep up at the rates projected under RCP4.5 and above in flat landscapes in this century. Future risk is indicated to be high by the observation that natural global climate change at rates lower than current anthropogenic climate change caused significant ecosystem shifts and species extinctions during the past millions of years. Marine organisms will face progressively lower oxygen levels and high rates and magnitudes of ocean acidification, with associated risks exacerbated by rising ocean temperature extremes . Coral reefs and polar ecosystems are highly vulnerable. Coastal systems and low-lying areas are at risk from sea level rise, which will continue for centuries even if the global mean temperature is stabilized.",
+      "Generated Summary": "Future risks of climate change include significant threats to biodiversity and potential widespread animal extinction. Higher global temperatures will exacerbate existing vulnerabilities, with the extinction risk becoming critical at temperature increases of 4°C or higher. This situation jeopardizes food security and disrupts normal human activities.",
+      "ROUGE-1 Precision": 0.5217391304347826,
+      "ROUGE-1 Recall": 0.13559322033898305,
+      "ROUGE-1 F1": 0.21524663677130046,
+      "ROUGE-2 Precision": 0.08888888888888889,
+      "ROUGE-2 Recall": 0.022727272727272728,
+      "ROUGE-2 F1": 0.03619909502262444,
+      "ROUGE-L Precision": 0.2608695652173913,
+      "ROUGE-L Recall": 0.06779661016949153,
+      "ROUGE-L F1": 0.10762331838565023
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7039578557014465,
+      "BERTScore Recall": 0.5816076993942261,
+      "BERTScore F1": 0.6369605660438538
+    }
+  },
+  {
+    "sub section 2.2": "Climate change’s economic impacts are considerable, with lost income projected between 0.2% to 2.0% of income at a 2.5°C warming over pre-industrial levels. Disadvantaged communities are more severely affected, facing reduced agricultural productivity and increased food prices, fostering greater economic disparities.",
+    "rouge": {
+      "Reference Summary": "Aggregate economic losses accelerate with increasing temperature , but global economic  impacts from climate change are currently difficult to estimate. From a poverty perspective, climate change impacts are projected to slow down economic growth, make poverty reduction more difficult, further erode food security and prolong existing and create new poverty traps, the latter particularly in urban areas and emerging hotspots of hunger . International dimensions such as trade and relations among states are also important for understanding the risks of climate change at regional scales.",
+      "Generated Summary": "Climate change’s economic impacts are considerable, with lost income projected between 0.2% to 2.0% of income at a 2.5°C warming over pre-industrial levels. Disadvantaged communities are more severely affected, facing reduced agricultural productivity and increased food prices, fostering greater economic disparities.",
+      "ROUGE-1 Precision": 0.3617021276595745,
+      "ROUGE-1 Recall": 0.20481927710843373,
+      "ROUGE-1 F1": 0.2615384615384615,
+      "ROUGE-2 Precision": 0.06521739130434782,
+      "ROUGE-2 Recall": 0.036585365853658534,
+      "ROUGE-2 F1": 0.046875,
+      "ROUGE-L Precision": 0.1702127659574468,
+      "ROUGE-L Recall": 0.0963855421686747,
+      "ROUGE-L F1": 0.12307692307692307
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5818885564804077,
+      "BERTScore Recall": 0.5957659482955933,
+      "BERTScore F1": 0.5887454748153687
+    }
+  },
+  {
+    "sub section 2.3": "Food security is significantly threatened by climate change through impacts on crop yields and increased food demand. Climate-related disruptions caused by extreme weather events can reduce water quality and food production, heightening vulnerabilities for disadvantaged communities who lack resource access needed to adapt.",
+    "rouge": {
+      "Reference Summary": "Climate change is projected to undermine food security . Due to projected climate change by the mid-21st century  and beyond, global marine species redistribution and marine biodiversity reduction in sensitive regions will challenge the sustained provision of fisheries productivity and other ecosystem services. For wheat, rice and maize in tropical and temperate regions, climate change without adaptation is projected to negatively impact production for local temperature increases of 2°C or more above late 20th century levels, although individual locations may benefit. Global temperature increases of ~4°C or more above late 20th century levels, combined with increasing food demand, would pose large risks to food security globally. Climate change is projected to reduce renewable surface water and groundwater resources in most dry subtropical regions, intensifying competition for water among sectors. Rural areas are expected to experience major impacts on water availability and supply, food security, infrastructure and  agricultural incomes, including shifts in the production areas of food and non-food crops around the world.",
+      "Generated Summary": "Food security is significantly threatened by climate change through impacts on crop yields and increased food demand. Climate-related disruptions caused by extreme weather events can reduce water quality and food production, heightening vulnerabilities for disadvantaged communities who lack resource access needed to adapt.",
+      "ROUGE-1 Precision": 0.5227272727272727,
+      "ROUGE-1 Recall": 0.1393939393939394,
+      "ROUGE-1 F1": 0.22009569377990432,
+      "ROUGE-2 Precision": 0.11627906976744186,
+      "ROUGE-2 Recall": 0.03048780487804878,
+      "ROUGE-2 F1": 0.048309178743961345,
+      "ROUGE-L Precision": 0.3409090909090909,
+      "ROUGE-L Recall": 0.09090909090909091,
+      "ROUGE-L F1": 0.14354066985645933
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7332833409309387,
+      "BERTScore Recall": 0.6080418229103088,
+      "BERTScore F1": 0.6648156046867371
+    }
+  },
+  {
+    "sub section 2.4": "Main risks of climate change include the amplification of existing vulnerabilities, severe impacts on ecosystem services, and socio-economic inequalities. Irreversible losses in biodiversity and extreme weather events can compromise food and human security, particularly affecting rural livelihoods.",
+    "rouge": {
+      "Reference Summary": "Risk of climate-related impacts results from the interaction of climate-related hazards  with the vulnerability and exposure of human and natural systems, including their ability to adapt. Rising rates and magnitudes of warming and other changes in the climate system, accompanied by ocean acidification, increase the risk of severe, pervasive and in some cases irreversible detrimental impacts. Some risks are particularly relevant for individual regions, while others are global. The overall risks of future climate change impacts can be reduced by limiting the rate and magnitude of climate change, including ocean acidification. The precise levels of climate change sufficient to trigger abrupt and irreversible change remain uncertain, but the risk associated with crossing such thresholds increases with rising temperature. For risk assessment, it is important to evaluate the widest possible range of impacts, including low-probability outcomes with large consequences.",
+      "Generated Summary": "Main risks of climate change include the amplification of existing vulnerabilities, severe impacts on ecosystem services, and socio-economic inequalities. Irreversible losses in biodiversity and extreme weather events can compromise food and human security, particularly affecting rural livelihoods.",
+      "ROUGE-1 Precision": 0.47368421052631576,
+      "ROUGE-1 Recall": 0.1276595744680851,
+      "ROUGE-1 F1": 0.20111731843575414,
+      "ROUGE-2 Precision": 0.10810810810810811,
+      "ROUGE-2 Recall": 0.02857142857142857,
+      "ROUGE-2 F1": 0.04519774011299434,
+      "ROUGE-L Precision": 0.2894736842105263,
+      "ROUGE-L Recall": 0.07801418439716312,
+      "ROUGE-L F1": 0.1229050279329609
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6709173917770386,
+      "BERTScore Recall": 0.6023392677307129,
+      "BERTScore F1": 0.6347814798355103
+    }
+  },
+  {
+    "sub section 2.5": "The societal impacts of climate change are profound, creating increased vulnerabilities for marginalized communities and exacerbating social inequalities. Economic consequences from climate-related hazards threaten livelihoods and can lead to conflicts, further undermining adaptation efforts.",
+    "rouge": {
+      "Reference Summary": "Climate change is projected to increase displacement of people . Populations that lack  the resources for planned migration experience higher exposure to extreme weather events, particularly in developing countries with low income. Climate change can indirectly increase risks of violent conflicts by amplifying well-documented drivers of these conflicts such as poverty and economic shocks.",
+      "Generated Summary": "The societal impacts of climate change are profound, creating increased vulnerabilities for marginalized communities and exacerbating social inequalities. Economic consequences from climate-related hazards threaten livelihoods and can lead to conflicts, further undermining adaptation efforts.",
+      "ROUGE-1 Precision": 0.34285714285714286,
+      "ROUGE-1 Recall": 0.2222222222222222,
+      "ROUGE-1 F1": 0.2696629213483146,
+      "ROUGE-2 Precision": 0.029411764705882353,
+      "ROUGE-2 Recall": 0.018867924528301886,
+      "ROUGE-2 F1": 0.022988505747126436,
+      "ROUGE-L Precision": 0.2,
+      "ROUGE-L Recall": 0.12962962962962962,
+      "ROUGE-L F1": 0.15730337078651685
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6571086645126343,
+      "BERTScore Recall": 0.6403876543045044,
+      "BERTScore F1": 0.6486403942108154
+    }
+  },
+  {
+    "sub section 3.1": "Anthropogenic emissions stem from activities such as deforestation, agricultural practices, energy production, and industrial processes. These activities significantly contribute to greenhouse gas emissions, leading to extensive climate change implications.",
+    "rouge": {
+      "Reference Summary": "Anthropogenic GHG emissions are mainly driven by population size, economic activity, lifestyle, energy use, land use patterns,  technology and climate policy. The Representative Concentration Pathways, which are used for making projections based on these factors, describe four different 21st century pathways of GHG emissions and atmospheric concentrations, air pollutant emissions and land use. The RCPs include a stringent mitigation scenario, two intermediate scenarios and one scenario with very high GHG emissions. Scenarios without additional efforts to constrain emissions lead to pathways ranging between RCP6.0 and RCP8.5. RCP2.6 is representative of a scenario that aims to keep global warming likely below 2°C above pre-industrial temperatures. The RCPs are consistent with the wide range of scenarios in the literature as assessed by WGIII5.",
+      "Generated Summary": "Anthropogenic emissions stem from activities such as deforestation, agricultural practices, energy production, and industrial processes. These activities significantly contribute to greenhouse gas emissions, leading to extensive climate change implications.",
+      "ROUGE-1 Precision": 0.4482758620689655,
+      "ROUGE-1 Recall": 0.10317460317460317,
+      "ROUGE-1 F1": 0.16774193548387095,
+      "ROUGE-2 Precision": 0.07142857142857142,
+      "ROUGE-2 Recall": 0.016,
+      "ROUGE-2 F1": 0.0261437908496732,
+      "ROUGE-L Precision": 0.3448275862068966,
+      "ROUGE-L Recall": 0.07936507936507936,
+      "ROUGE-L F1": 0.12903225806451613
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7252120971679688,
+      "BERTScore Recall": 0.5282057523727417,
+      "BERTScore F1": 0.6112266778945923
+    }
+  },
+  {
+    "sub section 3.2": "There is a strong correlation between CO2 levels and global warming. Rising atmospheric CO2, primarily from human activities, corresponds to increases in global temperatures. Limiting warming to below 2°C necessitates keeping cumulative CO2 emissions below 3650 GtCO2, a threshold already surpassed.",
+    "rouge": {
+      "Reference Summary": "Multiple lines of evidence indicate a strong, consistent, almost linear relationship between cumulative CO2 emissions and  projected global temperature change to the year 2100 in both the RCPs and the wider set of mitigation scenarios analysed in WGIII. Any given level of warming is associated with a range of cumulative CO2 emissions, and therefore, e.g., higher emissions in earlier decades imply lower emissions later.",
+      "Generated Summary": "There is a strong correlation between CO2 levels and global warming. Rising atmospheric CO2, primarily from human activities, corresponds to increases in global temperatures. Limiting warming to below 2°C necessitates keeping cumulative CO2 emissions below 3650 GtCO2, a threshold already surpassed.",
+      "ROUGE-1 Precision": 0.38095238095238093,
+      "ROUGE-1 Recall": 0.24615384615384617,
+      "ROUGE-1 F1": 0.29906542056074764,
+      "ROUGE-2 Precision": 0.0975609756097561,
+      "ROUGE-2 Recall": 0.0625,
+      "ROUGE-2 F1": 0.0761904761904762,
+      "ROUGE-L Precision": 0.2857142857142857,
+      "ROUGE-L Recall": 0.18461538461538463,
+      "ROUGE-L F1": 0.22429906542056074
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6706860661506653,
+      "BERTScore Recall": 0.5903451442718506,
+      "BERTScore F1": 0.6279563307762146
+    }
+  },
+  {
+    "sub section 3.3": "Strategies to reduce global warming include afforestation, sustainable agricultural practices, food waste reduction, and enhancing energy efficiency across all sectors. Integrated approaches that combine multiple strategies can achieve significant greenhouse gas reductions and promote sustainable development.",
+    "rouge": {
+      "Reference Summary": "Multi-model results show that limiting total human-induced warming to less than 2°C relative to the period 1861–1880 with  a probability of >66%7 would require cumulative CO2 emissions from all anthropogenic sources since 1870 to remain below about 2900 GtCO2. About 1900 GtCO28 had already been emitted by 2011. For additional context see Table 2.2.",
+      "Generated Summary": "Strategies to reduce global warming include afforestation, sustainable agricultural practices, food waste reduction, and enhancing energy efficiency across all sectors. Integrated approaches that combine multiple strategies can achieve significant greenhouse gas reductions and promote sustainable development.",
+      "ROUGE-1 Precision": 0.1111111111111111,
+      "ROUGE-1 Recall": 0.06666666666666667,
+      "ROUGE-1 F1": 0.08333333333333334,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.05555555555555555,
+      "ROUGE-L Recall": 0.03333333333333333,
+      "ROUGE-L F1": 0.04166666666666667
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5254713296890259,
+      "BERTScore Recall": 0.4399104714393616,
+      "BERTScore F1": 0.4788993299007416
+    }
+  },
+  {
+    "sub section 4.1": "Projected changes in ocean acidification foresee a substantial decrease in surface ocean pH across all RCP scenarios, affecting marine species and ecosystems, with more significant acidification linked to higher greenhouse gas emissions.",
+    "rouge": {
+      "Reference Summary": "Earth System Models project a global increase in ocean acidification for all RCP scenarios by the end of the 21st century, with  a slow recovery after mid-century under RCP2.6. The decrease in surface ocean pH is in the range of 0.06 to 0.07  for RCP2.6, 0.14 to 0.15 for RCP4.5, 0.20 to 0.21 for RCP6.0 and 0.30 to 0.32 for RCP8.5.",
+      "Generated Summary": "Projected changes in ocean acidification foresee a substantial decrease in surface ocean pH across all RCP scenarios, affecting marine species and ecosystems, with more significant acidification linked to higher greenhouse gas emissions.",
+      "ROUGE-1 Precision": 0.5,
+      "ROUGE-1 Recall": 0.21333333333333335,
+      "ROUGE-1 F1": 0.29906542056074764,
+      "ROUGE-2 Precision": 0.25806451612903225,
+      "ROUGE-2 Recall": 0.10810810810810811,
+      "ROUGE-2 F1": 0.1523809523809524,
+      "ROUGE-L Precision": 0.375,
+      "ROUGE-L Recall": 0.16,
+      "ROUGE-L F1": 0.22429906542056072
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7222293615341187,
+      "BERTScore Recall": 0.537062406539917,
+      "BERTScore F1": 0.6160323619842529
+    }
+  },
+  {
+    "sub section 4.2": "Changes in precipitation patterns will vary, with increases in high latitudes and certain equatorial areas while mid-latitude and subtropical regions may see decreases. Extreme precipitation events are expected to increase in frequency and intensity, impacting water resources and agriculture.",
+    "rouge": {
+      "Reference Summary": "Changes in precipitation will not be uniform. The high latitudes and the equatorial Pacific are likely to experience an increase  in annual mean precipitation under the RCP8.5 scenario. In many mid-latitude and subtropical dry regions, mean precipitation will likely decrease, while in many mid-latitude wet regions, mean precipitation will likely increase under the RCP8.5 scenario. Extreme precipitation events over most of the mid-latitude land masses and over wet tropical regions will very likely become more intense and more frequent.",
+      "Generated Summary": "Changes in precipitation patterns will vary, with increases in high latitudes and certain equatorial areas while mid-latitude and subtropical regions may see decreases. Extreme precipitation events are expected to increase in frequency and intensity, impacting water resources and agriculture.",
+      "ROUGE-1 Precision": 0.675,
+      "ROUGE-1 Recall": 0.32142857142857145,
+      "ROUGE-1 F1": 0.435483870967742,
+      "ROUGE-2 Precision": 0.2564102564102564,
+      "ROUGE-2 Recall": 0.12048192771084337,
+      "ROUGE-2 F1": 0.1639344262295082,
+      "ROUGE-L Precision": 0.5,
+      "ROUGE-L Recall": 0.23809523809523808,
+      "ROUGE-L F1": 0.3225806451612903
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7959226369857788,
+      "BERTScore Recall": 0.7051884531974792,
+      "BERTScore F1": 0.7478134036064148
+    }
+  },
+  {
+    "sub section 4.3": "Ice melting in polar regions is anticipated to continue, contributing to rising sea levels and disrupting global climate systems. Projections suggest significant reductions in glacier volume and near-surface permafrost, with implications for greenhouse gas emissions and climate stability.",
+    "rouge": {
+      "Reference Summary": "Year-round reductions in Arctic sea ice are projected for all RCP scenarios. A nearly ice-free11 Arctic Ocean in the summer sea-  ice minimum in September before mid-century is likely for RCP8.512. It is virtually certain that near-surface permafrost extent at high northern latitudes will be reduced as global mean surface  temperature increases, with the area of permafrost near the surface projected to decrease by 37% to 81% for the multi-model average. The global glacier volume, excluding glaciers on the periphery of Antarctica , is projected to decrease by 15 to 55% for RCP2.6 and by 35 to 85% for RCP8.5.",
+      "Generated Summary": "Ice melting in polar regions is anticipated to continue, contributing to rising sea levels and disrupting global climate systems. Projections suggest significant reductions in glacier volume and near-surface permafrost, with implications for greenhouse gas emissions and climate stability.",
+      "ROUGE-1 Precision": 0.46153846153846156,
+      "ROUGE-1 Recall": 0.16822429906542055,
+      "ROUGE-1 F1": 0.24657534246575338,
+      "ROUGE-2 Precision": 0.10526315789473684,
+      "ROUGE-2 Recall": 0.03773584905660377,
+      "ROUGE-2 F1": 0.05555555555555556,
+      "ROUGE-L Precision": 0.2564102564102564,
+      "ROUGE-L Recall": 0.09345794392523364,
+      "ROUGE-L F1": 0.136986301369863
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6719738245010376,
+      "BERTScore Recall": 0.5746138095855713,
+      "BERTScore F1": 0.6194918751716614
+    }
+  },
+  {
+    "sub section 4.4": "Ocean warming is expected throughout the 21st century, particularly at the surface. Changes in temperature will impact ocean circulation patterns, ecosystem dynamics, and overall marine biodiversity.",
+    "rouge": {
+      "Reference Summary": "The global ocean will continue to warm during the 21st century, with the strongest warming projected for the surface in  tropical and Northern Hemisphere subtropical regions.",
+      "Generated Summary": "Ocean warming is expected throughout the 21st century, particularly at the surface. Changes in temperature will impact ocean circulation patterns, ecosystem dynamics, and overall marine biodiversity.",
+      "ROUGE-1 Precision": 0.38461538461538464,
+      "ROUGE-1 Recall": 0.38461538461538464,
+      "ROUGE-1 F1": 0.38461538461538464,
+      "ROUGE-2 Precision": 0.12,
+      "ROUGE-2 Recall": 0.12,
+      "ROUGE-2 F1": 0.12,
+      "ROUGE-L Precision": 0.34615384615384615,
+      "ROUGE-L Recall": 0.34615384615384615,
+      "ROUGE-L F1": 0.34615384615384615
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7047276496887207,
+      "BERTScore Recall": 0.6857329607009888,
+      "BERTScore F1": 0.6951005458831787
+    }
+  },
+  {
+    "sub section 4.5": "In sum, sea levels will continue to rise significantly due to the melting ice sheets and glaciers, contributing to coastal flooding and habitat loss, with severe implications for human settlements and marine regions.",
+    "rouge": {
+      "Reference Summary": "Summary for Policymakers13SPM  There has been significant improvement in understanding and projection of sea level change since the AR4. Global mean sea level rise will continue during the 21st century, very likely at a faster rate than observed from 1971 to 2010. For the period 2081–2100 relative to 1986–2005, the rise will likely be in the ranges of 0.26 to 0.55 m for RCP2.6, and of 0.45 to 0.82 m for RCP8.5 10. Sea level rise will not be uniform across regions. By the end of the 21st century, it is very likely that sea level will rise in more than about 95% of the ocean area. About 70% of the coastlines worldwide are projected to experience a sea level change within ±20% of the global mean.",
+      "Generated Summary": "In sum, sea levels will continue to rise significantly due to the melting ice sheets and glaciers, contributing to coastal flooding and habitat loss, with severe implications for human settlements and marine regions.",
+      "ROUGE-1 Precision": 0.42424242424242425,
+      "ROUGE-1 Recall": 0.1037037037037037,
+      "ROUGE-1 F1": 0.16666666666666666,
+      "ROUGE-2 Precision": 0.09375,
+      "ROUGE-2 Recall": 0.022388059701492536,
+      "ROUGE-2 F1": 0.03614457831325301,
+      "ROUGE-L Precision": 0.36363636363636365,
+      "ROUGE-L Recall": 0.08888888888888889,
+      "ROUGE-L F1": 0.14285714285714285
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6299645900726318,
+      "BERTScore Recall": 0.4909985661506653,
+      "BERTScore F1": 0.5518677830696106
+    }
+  }
+]

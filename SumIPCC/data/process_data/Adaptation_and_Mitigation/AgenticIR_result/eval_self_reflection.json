@@ -1,0 +1,401 @@
+[
+  {
+    "sub section 1.1": "The primary enabling factors for climate change mitigation include effective institutions and governance, which are essential for implementing and enforcing climate policies and regulations. Innovations and investments in environmentally sound technologies play a crucial role, as transitioning to low-carbon energy sources could potentially reduce global greenhouse gas emissions significantly by 2050. Promoting sustainable livelihoods also contributes to both adaptation and mitigation efforts. Encouraging behavioral and lifestyle changes can significantly impact emissions reduction. Analysis and decision-making processes that integrate climate risks into economic planning are vital too. Finally, incorporating climate considerations into broader development strategies ensures that mitigation efforts align with sustainable development goals.",
+    "rouge": {
+      "Reference Summary": "Adaptation and mitigation responses are underpinned by common enabling factors. These  include effective institutions and governance, innovation and investments in environmentally sound technologies and infrastructure, sustainable livelihoods and behavioural and lifestyle choices. For many regions and sectors, enhanced capacities to mitigate and adapt are part of the foundation essential for managing  climate change risks. Improving institutions as well as coordination and cooperation in governance can help overcome regional constraints associated with mitigation, adaptation and disaster risk reduction.",
+      "Generated Summary": "The primary enabling factors for climate change mitigation include effective institutions and governance, which are essential for implementing and enforcing climate policies and regulations. Innovations and investments in environmentally sound technologies play a crucial role, as transitioning to low-carbon energy sources could potentially reduce global greenhouse gas emissions significantly by 2050. Promoting sustainable livelihoods also contributes to both adaptation and mitigation efforts. Encouraging behavioral and lifestyle changes can significantly impact emissions reduction. Analysis and decision-making processes that integrate climate risks into economic planning are vital too. Finally, incorporating climate considerations into broader development strategies ensures that mitigation efforts align with sustainable development goals.",
+      "ROUGE-1 Precision": 0.3904761904761905,
+      "ROUGE-1 Recall": 0.5324675324675324,
+      "ROUGE-1 F1": 0.4505494505494505,
+      "ROUGE-2 Precision": 0.16346153846153846,
+      "ROUGE-2 Recall": 0.2236842105263158,
+      "ROUGE-2 F1": 0.18888888888888888,
+      "ROUGE-L Precision": 0.21904761904761905,
+      "ROUGE-L Recall": 0.2987012987012987,
+      "ROUGE-L F1": 0.25274725274725274
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6964154243469238,
+      "BERTScore Recall": 0.7484958171844482,
+      "BERTScore F1": 0.721517026424408
+    }
+  },
+  {
+    "sub section 1.2": "The socio-economic factors contributing to vulnerability include reliance on climate-sensitive sectors like agriculture, which affects approximately 1.3 billion people globally. Low income levels in developing nations limit their capacity for climate resilience. Increased energy consumption patterns exacerbate vulnerability, as global energy demand is projected to rise by 25% by 2040. The effectiveness of institutions and governance plays a critical role; countries with robust frameworks manage climate risks better. Cultural attitudes influence acceptance and effectiveness of policies, while access to vital information and resources is often limited for vulnerable groups. Active engagement of local governments in adaptation measures and community involvement is essential as well.",
+    "rouge": {
+      "Reference Summary": "Vulnerability to climate change, GHG emissions and the capacity for adaptation and mitigation are strongly influenced by  livelihoods, lifestyles, behaviour and culture. Also, the social acceptability and/or effectiveness of climate policies are influenced by the extent to which they incentivize or depend on regionally appropriate changes in lifestyles or behaviours.",
+      "Generated Summary": "The socio-economic factors contributing to vulnerability include reliance on climate-sensitive sectors like agriculture, which affects approximately 1.3 billion people globally. Low income levels in developing nations limit their capacity for climate resilience. Increased energy consumption patterns exacerbate vulnerability, as global energy demand is projected to rise by 25% by 2040. The effectiveness of institutions and governance plays a critical role; countries with robust frameworks manage climate risks better. Cultural attitudes influence acceptance and effectiveness of policies, while access to vital information and resources is often limited for vulnerable groups. Active engagement of local governments in adaptation measures and community involvement is essential as well.",
+      "ROUGE-1 Precision": 0.2336448598130841,
+      "ROUGE-1 Recall": 0.49019607843137253,
+      "ROUGE-1 F1": 0.31645569620253167,
+      "ROUGE-2 Precision": 0.02830188679245283,
+      "ROUGE-2 Recall": 0.06,
+      "ROUGE-2 F1": 0.038461538461538464,
+      "ROUGE-L Precision": 0.1308411214953271,
+      "ROUGE-L Recall": 0.27450980392156865,
+      "ROUGE-L F1": 0.17721518987341772
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6000698804855347,
+      "BERTScore Recall": 0.6884268522262573,
+      "BERTScore F1": 0.6412188410758972
+    }
+  },
+  {
+    "sub section 1.3": "Recent innovations in climate adaptation and mitigation reflect a strong governmental commitment as over 100 countries work on national adaptation plans, indicating an increase in adaptation efforts. Investments in climate projects are estimated at USD 343 to 385 billion annually, with the private sector contributing significantly to this landscape, emphasizing the need for supportive regulations to encourage further investment.",
+    "rouge": {
+      "Reference Summary": "Inertia in many aspects of the socio-economic system constrains adaptation and mitigation options . Innovation and investments in environmentally sound infrastructure and technologies can reduce GHG emissions and enhance resilience to climate change.",
+      "Generated Summary": "Recent innovations in climate adaptation and mitigation reflect a strong governmental commitment as over 100 countries work on national adaptation plans, indicating an increase in adaptation efforts. Investments in climate projects are estimated at USD 343 to 385 billion annually, with the private sector contributing significantly to this landscape, emphasizing the need for supportive regulations to encourage further investment.",
+      "ROUGE-1 Precision": 0.1694915254237288,
+      "ROUGE-1 Recall": 0.30303030303030304,
+      "ROUGE-1 F1": 0.21739130434782608,
+      "ROUGE-2 Precision": 0.05172413793103448,
+      "ROUGE-2 Recall": 0.09375,
+      "ROUGE-2 F1": 0.06666666666666667,
+      "ROUGE-L Precision": 0.11864406779661017,
+      "ROUGE-L Recall": 0.21212121212121213,
+      "ROUGE-L F1": 0.15217391304347827
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5811083316802979,
+      "BERTScore Recall": 0.647262692451477,
+      "BERTScore F1": 0.6124041080474854
+    }
+  },
+  {
+    "sub section 2.1": "The main arguments for implementing a carbon tax include its cost-effectiveness to achieve emissions reductions, revenue generation for governments, encouragement of innovation, and its compatibility with other policies like renewable energy subsidies. However, challenges exist, including political resistance, economic impact concerns, effectiveness concerns if the tax is too low, and equity issues relating to low-income households.",
+    "rouge": {
+      "Reference Summary": "• In principle, mechanisms that set a carbon price, including cap and trade systems and carbon taxes, can achieve mitiga-  tion in a cost-effective way but have been implemented with diverse effects due in part to national circumstances as well as policy design. The short-run effects of cap and trade systems have been limited as a result of loose caps or caps that have not proved to be constraining. In some countries, tax-based policies specifically aimed at reducing GHG emissions—alongside technology and other policies—have helped to weaken the link between GHG emissions and GDP. In addition, in a large group of countries, fuel taxes  have had effects that are akin to sectoral carbon taxes.",
+      "Generated Summary": "The main arguments for implementing a carbon tax include its cost-effectiveness to achieve emissions reductions, revenue generation for governments, encouragement of innovation, and its compatibility with other policies like renewable energy subsidies. However, challenges exist, including political resistance, economic impact concerns, effectiveness concerns if the tax is too low, and equity issues relating to low-income households.",
+      "ROUGE-1 Precision": 0.3620689655172414,
+      "ROUGE-1 Recall": 0.17796610169491525,
+      "ROUGE-1 F1": 0.23863636363636362,
+      "ROUGE-2 Precision": 0.07017543859649122,
+      "ROUGE-2 Recall": 0.03418803418803419,
+      "ROUGE-2 F1": 0.04597701149425288,
+      "ROUGE-L Precision": 0.22413793103448276,
+      "ROUGE-L Recall": 0.11016949152542373,
+      "ROUGE-L F1": 0.14772727272727273
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6327686309814453,
+      "BERTScore Recall": 0.5965644121170044,
+      "BERTScore F1": 0.6141334176063538
+    }
+  },
+  {
+    "sub section 2.2": "The co-benefits of climate policies include driving sustainable development, addressing equity and justice issues, enhancing governance, and improving local public health outcomes by reducing air pollution. Moreover, effective climate strategies yield increased ecosystem resilience and present new economic opportunities while managing risks associated with climate impacts.",
+    "rouge": {
+      "Reference Summary": "Co-benefits and adverse side effects of mitigation could affect achievement of other objectives such as those related to  human health, food security, biodiversity, local environmental quality, energy access, livelihoods and equitable sustainable development. The potential for co-benefits for energy end-use measures outweighs the potential for adverse side effects whereas the evidence suggests this may not be the case for all energy supply and agriculture, forestry and other land use measures. Some mitigation policies raise the prices for some energy services and could hamper the ability of societies to expand access to modern energy services to underserved populations. These potential adverse side effects on energy access can be avoided with the adoption of complementary policies such as income tax rebates or other benefit transfer mechanisms. Whether or not side effects materialize, and to what extent side effects materialize, will be case- and site-specific, and depend on local circumstances and the scale, scope and pace of implementation. Many co-benefits and adverse side effects have not been well-quantified.",
+      "Generated Summary": "The co-benefits of climate policies include driving sustainable development, addressing equity and justice issues, enhancing governance, and improving local public health outcomes by reducing air pollution. Moreover, effective climate strategies yield increased ecosystem resilience and present new economic opportunities while managing risks associated with climate impacts.",
+      "ROUGE-1 Precision": 0.2978723404255319,
+      "ROUGE-1 Recall": 0.08187134502923976,
+      "ROUGE-1 F1": 0.12844036697247707,
+      "ROUGE-2 Precision": 0.043478260869565216,
+      "ROUGE-2 Recall": 0.011764705882352941,
+      "ROUGE-2 F1": 0.018518518518518517,
+      "ROUGE-L Precision": 0.19148936170212766,
+      "ROUGE-L Recall": 0.05263157894736842,
+      "ROUGE-L F1": 0.08256880733944955
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6565276384353638,
+      "BERTScore Recall": 0.5626256465911865,
+      "BERTScore F1": 0.6059603691101074
+    }
+  },
+  {
+    "sub section 2.3": "Financing mechanisms for climate mitigation and adaptation include public climate finance, which flows into developing countries in significant amounts, private climate finance from the sector contributing substantially to mitigation initiatives, and public-private partnerships that lower investment risks. Incorporating climate strategies into development plans is critical for mobilizing additional funding.",
+    "rouge": {
+      "Reference Summary": "Substantial reductions in emissions would require large changes in investment patterns . For mitigation  scenarios that stabilize concentrations in the range of 430 to 530 ppm CO2-eq by 210019, annual investments in low carbon electricity supply and energy efficiency in key sectors are projected in the scenarios to rise by several hundred billion dollars per year before 2030. Within appropriate enabling environments, the private sector, along with the public sector, can play important roles in financing mitigation and adaptation . Financial resources for adaptation have become available more slowly than for mitigation in both developed and developing  countries. Limited evidence indicates that there is a gap between global adaptation needs and the funds available for adaptation. There is a need for better assessment of global adaptation costs, funding and investment. Potential synergies between international finance for disaster risk management and adaptation have not yet been fully realized .",
+      "Generated Summary": "Financing mechanisms for climate mitigation and adaptation include public climate finance, which flows into developing countries in significant amounts, private climate finance from the sector contributing substantially to mitigation initiatives, and public-private partnerships that lower investment risks. Incorporating climate strategies into development plans is critical for mobilizing additional funding.",
+      "ROUGE-1 Precision": 0.48,
+      "ROUGE-1 Recall": 0.1643835616438356,
+      "ROUGE-1 F1": 0.24489795918367346,
+      "ROUGE-2 Precision": 0.061224489795918366,
+      "ROUGE-2 Recall": 0.020689655172413793,
+      "ROUGE-2 F1": 0.030927835051546393,
+      "ROUGE-L Precision": 0.26,
+      "ROUGE-L Recall": 0.08904109589041095,
+      "ROUGE-L F1": 0.13265306122448978
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6758995056152344,
+      "BERTScore Recall": 0.5781735777854919,
+      "BERTScore F1": 0.6232287883758545
+    }
+  },
+  {
+    "sub section 2.4": "International cooperation is primarily guided by frameworks like the UNFCCC, which provides a platform for collective action on climate change. The Kyoto Protocol set binding emission reduction targets, while the Paris Agreement encourages countries to determine their contributions to mitigate emissions by mid-century.",
+    "rouge": {
+      "Reference Summary": "International cooperation is critical for effective mitigation, even though mitigation can also have local co-benefits. Adapta-  tion focuses primarily on local to national scale outcomes, but its effectiveness can be enhanced through coordination across governance scales, including international cooperation: • The United Nations Framework Convention on Climate Change  is the main multilateral forum focused on  addressing climate change, with nearly universal participation. Other institutions organized at different levels of governance have resulted in diversifying international climate change cooperation. • The Kyoto Protocol offers lessons towards achieving the ultimate objective of the UNFCCC, particularly with respect to  participation, implementation, flexibility mechanisms and environmental effectiveness . • Policy linkages among regional, national and sub-national climate policies offer potential climate change mitigation ben-  efits. Potential advantages include lower mitigation costs, decreased emission leakage and increased market liquidity. International cooperation for supporting adaptation planning and implementation has received less attention histori-  cally than mitigation but is increasing and has assisted in the creation of adaptation strategies, plans and actions at the national, sub-national and local level.",
+      "Generated Summary": "International cooperation is primarily guided by frameworks like the UNFCCC, which provides a platform for collective action on climate change. The Kyoto Protocol set binding emission reduction targets, while the Paris Agreement encourages countries to determine their contributions to mitigate emissions by mid-century.",
+      "ROUGE-1 Precision": 0.45454545454545453,
+      "ROUGE-1 Recall": 0.11695906432748537,
+      "ROUGE-1 F1": 0.18604651162790695,
+      "ROUGE-2 Precision": 0.16279069767441862,
+      "ROUGE-2 Recall": 0.041176470588235294,
+      "ROUGE-2 F1": 0.06572769953051644,
+      "ROUGE-L Precision": 0.36363636363636365,
+      "ROUGE-L Recall": 0.0935672514619883,
+      "ROUGE-L F1": 0.14883720930232555
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6999721527099609,
+      "BERTScore Recall": 0.5724478960037231,
+      "BERTScore F1": 0.6298196911811829
+    }
+  },
+  {
+    "sub section 2.5": "National strategies for climate change adaptation involve a range of approaches, such as establishing National Adaptation Plans (NAPs), emphasizing co-benefits in adaptation strategies, and integrating these considerations into broader development plans to maximize resource use and address local vulnerabilities.",
+    "rouge": {
+      "Reference Summary": "There has been a considerable increase in national and sub-national plans and strategies on both adaptation and mitigation  since the AR4, with an increased focus on policies designed to integrate multiple objectives, increase co-benefits and reduce adverse side effects: • National governments play key roles in adaptation planning and implementation   through coordinating actions and providing frameworks and support. While local government and the private sector have different functions, which vary regionally, they are increasingly recognized as critical to progress in adaptation, given their roles in scaling up adaptation of communities, households and civil society and in managing risk information and financing. • Institutional dimensions of adaptation governance, including the integration of adaptation into planning and decision-  making, play a key role in promoting the transition from planning to implementation of adaptation. Examples of institutional approaches to adaptation involving multiple actors include economic options , laws and regulations and national and government policies and programmes.",
+      "Generated Summary": "National strategies for climate change adaptation involve a range of approaches, such as establishing National Adaptation Plans (NAPs), emphasizing co-benefits in adaptation strategies, and integrating these considerations into broader development plans to maximize resource use and address local vulnerabilities.",
+      "ROUGE-1 Precision": 0.575,
+      "ROUGE-1 Recall": 0.1503267973856209,
+      "ROUGE-1 F1": 0.23834196891191706,
+      "ROUGE-2 Precision": 0.1282051282051282,
+      "ROUGE-2 Recall": 0.03289473684210526,
+      "ROUGE-2 F1": 0.05235602094240837,
+      "ROUGE-L Precision": 0.35,
+      "ROUGE-L Recall": 0.0915032679738562,
+      "ROUGE-L F1": 0.14507772020725387
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7113823890686035,
+      "BERTScore Recall": 0.6035985350608826,
+      "BERTScore F1": 0.6530731320381165
+    }
+  },
+  {
+    "sub section 2.6": "Current regulatory approaches to climate change reflect a blend of adaptation and mitigation strategies, with various policy instruments being employed at global and sub-national levels. The challenge remains in assessing and enhancing their effectiveness amid rising greenhouse gas emissions and climate impacts.",
+    "rouge": {
+      "Reference Summary": "• Regulatory approaches and information measures are widely used and are often environmentally effective . Examples of regulatory approaches include energy efficiency standards; examples of information programmes include labelling programmes that can help consumers make better-informed decisions.",
+      "Generated Summary": "Current regulatory approaches to climate change reflect a blend of adaptation and mitigation strategies, with various policy instruments being employed at global and sub-national levels. The challenge remains in assessing and enhancing their effectiveness amid rising greenhouse gas emissions and climate impacts.",
+      "ROUGE-1 Precision": 0.13953488372093023,
+      "ROUGE-1 Recall": 0.16666666666666666,
+      "ROUGE-1 F1": 0.1518987341772152,
+      "ROUGE-2 Precision": 0.023809523809523808,
+      "ROUGE-2 Recall": 0.02857142857142857,
+      "ROUGE-2 F1": 0.025974025974025976,
+      "ROUGE-L Precision": 0.11627906976744186,
+      "ROUGE-L Recall": 0.1388888888888889,
+      "ROUGE-L F1": 0.12658227848101267
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5863794088363647,
+      "BERTScore Recall": 0.6042771339416504,
+      "BERTScore F1": 0.5951937437057495
+    }
+  },
+  {
+    "sub section 2.7": "Sector-specific policies have been developed to address both mitigation and adaptation challenges, focusing on areas like disaster risk management, ecosystem-based strategies, and technological innovations. Such policies also acknowledge the need for social and institutional measures to enhance resilience.",
+    "rouge": {
+      "Reference Summary": "• Sector-specific mitigation policies have been more widely used than economy-wide policies . Sector-specific policies may be better suited to address sector-specific barriers or market failures and may be bundled in packages of complementary policies. Although theoretically more cost-effective, administrative and political barriers may make economy-wide policies harder to implement. Interactions between or among mitigation policies may be synergistic or may have no additive effect on reducing emissions. • Economic instruments in the form of subsidies may be applied across sectors, and include a variety of policy designs, such  as tax rebates or exemptions, grants, loans and credit lines. An increasing number and variety of renewable energy policies including subsidies—motivated by many factors—have driven escalated growth of RE technologies in recent years. At the same time, reducing subsidies for GHG-related activities in various sectors can achieve emission reductions, depending on the social and economic context.",
+      "Generated Summary": "Sector-specific policies have been developed to address both mitigation and adaptation challenges, focusing on areas like disaster risk management, ecosystem-based strategies, and technological innovations. Such policies also acknowledge the need for social and institutional measures to enhance resilience.",
+      "ROUGE-1 Precision": 0.475,
+      "ROUGE-1 Recall": 0.12582781456953643,
+      "ROUGE-1 F1": 0.19895287958115185,
+      "ROUGE-2 Precision": 0.15384615384615385,
+      "ROUGE-2 Recall": 0.04,
+      "ROUGE-2 F1": 0.0634920634920635,
+      "ROUGE-L Precision": 0.4,
+      "ROUGE-L Recall": 0.10596026490066225,
+      "ROUGE-L F1": 0.16753926701570682
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6733995079994202,
+      "BERTScore Recall": 0.5762726068496704,
+      "BERTScore F1": 0.6210616230964661
+    }
+  },
+  {
+    "sub section 2.8": "Technological solutions for climate mitigation include forestry solutions that focus on sustainable forest management and afforestation, agricultural practices that enhance soil carbon sequestration, and innovations in bioenergy that reduce lifecycle emissions. Transitioning to renewable energy sources is also a critical aspect of this landscape.",
+    "rouge": {
+      "Reference Summary": "Technology policy  complements other mitigation policies across all scales, from international to sub-national; many adaptation efforts also critically rely on diffusion and transfer of technologies and management practices. Policies exist to address market failures in R&D, but the effective use of technologies can also depend on capacities to adopt technologies appropriate to local circumstances.",
+      "Generated Summary": "Technological solutions for climate mitigation include forestry solutions that focus on sustainable forest management and afforestation, agricultural practices that enhance soil carbon sequestration, and innovations in bioenergy that reduce lifecycle emissions. Transitioning to renewable energy sources is also a critical aspect of this landscape.",
+      "ROUGE-1 Precision": 0.2727272727272727,
+      "ROUGE-1 Recall": 0.21428571428571427,
+      "ROUGE-1 F1": 0.23999999999999996,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.1590909090909091,
+      "ROUGE-L Recall": 0.125,
+      "ROUGE-L F1": 0.14
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5953729748725891,
+      "BERTScore Recall": 0.5933794379234314,
+      "BERTScore F1": 0.5943745374679565
+    }
+  },
+  {
+    "sub section 3.1": "The factors influencing the adoption of adaptation strategies include increasing incentives for participation, effective technology transfer, strengthening policy frameworks, and integrating these strategies into broader development plans, which enhances organizational capacity.",
+    "rouge": {
+      "Reference Summary": "Adaptation experience is accumulating across regions in the public and private sectors and within communities. There is  increasing recognition of the value of social, institutional, and ecosystem-based measures and of the extent of constraints to adaptation. Adaptation is becoming embedded in some planning processes, with more limited implementation of responses.",
+      "Generated Summary": "The factors influencing the adoption of adaptation strategies include increasing incentives for participation, effective technology transfer, strengthening policy frameworks, and integrating these strategies into broader development plans, which enhances organizational capacity.",
+      "ROUGE-1 Precision": 0.22580645161290322,
+      "ROUGE-1 Recall": 0.13725490196078433,
+      "ROUGE-1 F1": 0.17073170731707318,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.16129032258064516,
+      "ROUGE-L Recall": 0.09803921568627451,
+      "ROUGE-L F1": 0.1219512195121951
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6269680857658386,
+      "BERTScore Recall": 0.6024022102355957,
+      "BERTScore F1": 0.6144396662712097
+    }
+  },
+  {
+    "sub section 3.2": "Adaptation options best practices include diversifying livelihoods, implementing community-driven water conservation strategies, and enhancing local governance capacities to address climate-related risks effectively.",
+    "rouge": {
+      "Reference Summary": "Adaptation options exist in all sectors, but their context for implementation and potential to  reduce climate-related risks differs across sectors and regions. Some adaptation responses involve significant co-benefits, synergies and trade-offs. Increasing climate change will increase challenges for many adaptation options.",
+      "Generated Summary": "Adaptation options best practices include diversifying livelihoods, implementing community-driven water conservation strategies, and enhancing local governance capacities to address climate-related risks effectively.",
+      "ROUGE-1 Precision": 0.3333333333333333,
+      "ROUGE-1 Recall": 0.18181818181818182,
+      "ROUGE-1 F1": 0.23529411764705885,
+      "ROUGE-2 Precision": 0.13043478260869565,
+      "ROUGE-2 Recall": 0.06976744186046512,
+      "ROUGE-2 F1": 0.09090909090909091,
+      "ROUGE-L Precision": 0.3333333333333333,
+      "ROUGE-L Recall": 0.18181818181818182,
+      "ROUGE-L F1": 0.23529411764705885
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.658380389213562,
+      "BERTScore Recall": 0.623754620552063,
+      "BERTScore F1": 0.6405999660491943
+    }
+  },
+  {
+    "sub section 3.3": "The urgent need for adaptation strategies is underscored by current climate trends indicating a 1.1°C rise in global average temperatures, coupled with projections that suggest a potential rise of 1.5°C to 2.0°C by 2050, heightening the risks associated with climate variability.",
+    "rouge": {
+      "Reference Summary": "The need for adaptation along with associated challenges is expected to increase with climate change .  Adaptation options exist in all sectors and regions, with diverse potential and approaches depending on their context in vulnerability reduction, disaster risk management or proactive adaptation planning. Effective strategies and actions consider the potential for co-benefits and opportunities within wider strategic goals and development plans.",
+      "Generated Summary": "The urgent need for adaptation strategies is underscored by current climate trends indicating a 1.1°C rise in global average temperatures, coupled with projections that suggest a potential rise of 1.5°C to 2.0°C by 2050, heightening the risks associated with climate variability.",
+      "ROUGE-1 Precision": 0.3191489361702128,
+      "ROUGE-1 Recall": 0.2459016393442623,
+      "ROUGE-1 F1": 0.2777777777777778,
+      "ROUGE-2 Precision": 0.06521739130434782,
+      "ROUGE-2 Recall": 0.05,
+      "ROUGE-2 F1": 0.05660377358490566,
+      "ROUGE-L Precision": 0.2127659574468085,
+      "ROUGE-L Recall": 0.16393442622950818,
+      "ROUGE-L F1": 0.18518518518518517
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.561488687992096,
+      "BERTScore Recall": 0.6001065373420715,
+      "BERTScore F1": 0.5801556706428528
+    }
+  },
+  {
+    "sub section 4.1": "Human behavior substantially influences climate change; approximately 70% of global GHG emissions result from energy production and consumption, with lifestyle choices directly impacting emissions and shaping policy responses.",
+    "rouge": {
+      "Reference Summary": "Behaviour, lifestyle and culture have a considerable influence on energy use and associated emissions, with high mitigation  potential in some sectors, in particular when complementing technological and structural change . Emissions can be substantially lowered through changes in consumption patterns, adoption of energy savings measures, dietary change and reduction in food wastes.",
+      "Generated Summary": "Human behavior substantially influences climate change; approximately 70% of global GHG emissions result from energy production and consumption, with lifestyle choices directly impacting emissions and shaping policy responses.",
+      "ROUGE-1 Precision": 0.42857142857142855,
+      "ROUGE-1 Recall": 0.23529411764705882,
+      "ROUGE-1 F1": 0.30379746835443033,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.21428571428571427,
+      "ROUGE-L Recall": 0.11764705882352941,
+      "ROUGE-L F1": 0.15189873417721517
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.674075186252594,
+      "BERTScore Recall": 0.6135953068733215,
+      "BERTScore F1": 0.642414927482605
+    }
+  },
+  {
+    "sub section 4.2": "Effective mitigation options currently available include transitioning to clean energy technologies, energy efficiency improvements, and reducing emissions through land use practices like reforestation and sustainable agriculture.",
+    "rouge": {
+      "Reference Summary": "Mitigation options are available in every major sector. Mitigation can be more cost-effective  if using an integrated approach that combines measures to reduce energy use and the greenhouse gas intensity of end-use sectors, decarbonize energy supply, reduce net emissions and enhance carbon sinks in land-based sectors.  Well-designed systemic and cross-sectoral mitigation strategies are more cost-effective in cutting emissions than a focus on individual technologies and sectors, with efforts in one sector affecting the need for mitigation in others . Mitigation measures intersect with other societal goals, creating the possibility of co-benefits or adverse side effects. These intersections, if well-managed, can strengthen the basis for undertaking climate action. Near-term reductions in energy demand are an important element of cost-effective mitigation strategies, provide more  flexibility for reducing carbon intensity in the energy supply sector, hedge against related supply-side risks, avoid lock-in to carbon-intensive infrastructures, and are associated with important co-benefits. The most cost-effective mitigation options in forestry are afforestation, sustainable forest management and reducing deforestation, with large differences in their relative importance across regions; and in agriculture, cropland management, grazing land management and restoration of organic soils.",
+      "Generated Summary": "Effective mitigation options currently available include transitioning to clean energy technologies, energy efficiency improvements, and reducing emissions through land use practices like reforestation and sustainable agriculture.",
+      "ROUGE-1 Precision": 0.6153846153846154,
+      "ROUGE-1 Recall": 0.08040201005025126,
+      "ROUGE-1 F1": 0.14222222222222222,
+      "ROUGE-2 Precision": 0.12,
+      "ROUGE-2 Recall": 0.015151515151515152,
+      "ROUGE-2 F1": 0.02690582959641256,
+      "ROUGE-L Precision": 0.46153846153846156,
+      "ROUGE-L Recall": 0.06030150753768844,
+      "ROUGE-L F1": 0.10666666666666665
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7411457300186157,
+      "BERTScore Recall": 0.5574568510055542,
+      "BERTScore F1": 0.636309802532196
+    }
+  },
+  {
+    "sub section 4.3": "Potential future mitigation scenarios suggest that without significant action, global temperatures could rise substantially, leading to severe consequences for ecosystems, economies, and human health.",
+    "rouge": {
+      "Reference Summary": "Emissions ranges for baseline scenarios and mitigation scenarios that limit CO2-equivalent concentrations to low levels  are shown for different sectors and gases in Figure SPM.14. Key measures to achieve such mitigation goals include decarbonizing electricity generation as well as efficiency enhancements and behavioural changes, in order to reduce energy demand compared to baseline scenarios without compromising development . In scenarios reaching 450 ppm CO2-eq concentrations by 2100, global CO2 emissions from the energy supply sector are projected to decline over the next decade and are characterized by reductions of 90% or more below 2010 levels between 2040 and 2070. In the majority of low-concentration stabilization scenarios , the share of low-carbon electricity supply , nuclear and carbon dioxide capture and storage including bioenergy with carbon dioxide capture and storage ) increases from the current share of approximately 30% to more than 80% by 2050, and fossil fuel power generation without CCS is phased out almost entirely by 2100.",
+      "Generated Summary": "Potential future mitigation scenarios suggest that without significant action, global temperatures could rise substantially, leading to severe consequences for ecosystems, economies, and human health.",
+      "ROUGE-1 Precision": 0.3333333333333333,
+      "ROUGE-1 Recall": 0.050314465408805034,
+      "ROUGE-1 F1": 0.08743169398907105,
+      "ROUGE-2 Precision": 0.043478260869565216,
+      "ROUGE-2 Recall": 0.006329113924050633,
+      "ROUGE-2 F1": 0.011049723756906077,
+      "ROUGE-L Precision": 0.2916666666666667,
+      "ROUGE-L Recall": 0.0440251572327044,
+      "ROUGE-L F1": 0.07650273224043716
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6154010891914368,
+      "BERTScore Recall": 0.4715081453323364,
+      "BERTScore F1": 0.5339297652244568
+    }
+  },
+  {
+    "sub section 5.1": "Accepted climate change projections for the next century indicate potential temperature increases of 1.5°C to 4.0°C, along with sea-level rise and more frequent extreme weather events, necessitating proactive adaptation and mitigation strategies.",
+    "rouge": {
+      "Reference Summary": "Climate change is a threat to sustainable development. Nonetheless, there are many opportu-  nities to link mitigation, adaptation and the pursuit of other societal objectives through integrated responses. Successful implementation relies on relevant tools, suitable governance structures and enhanced capacity to respond.",
+      "Generated Summary": "Accepted climate change projections for the next century indicate potential temperature increases of 1.5°C to 4.0°C, along with sea-level rise and more frequent extreme weather events, necessitating proactive adaptation and mitigation strategies.",
+      "ROUGE-1 Precision": 0.24324324324324326,
+      "ROUGE-1 Recall": 0.21428571428571427,
+      "ROUGE-1 F1": 0.2278481012658228,
+      "ROUGE-2 Precision": 0.05555555555555555,
+      "ROUGE-2 Recall": 0.04878048780487805,
+      "ROUGE-2 F1": 0.05194805194805195,
+      "ROUGE-L Precision": 0.13513513513513514,
+      "ROUGE-L Recall": 0.11904761904761904,
+      "ROUGE-L F1": 0.12658227848101267
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5413658618927002,
+      "BERTScore Recall": 0.5686697959899902,
+      "BERTScore F1": 0.5546820163726807
+    }
+  },
+  {
+    "sub section 5.2": "Tackling climate change involves recognizing the synergies between climate action and sustainable development goals, necessitating comprehensive strategies to address the interlinked nature of climate and socio-economic challenges.",
+    "rouge": {
+      "Reference Summary": "Climate change exacerbates other threats to social and natural systems, placing additional burdens particularly on the poor  . Aligning climate policy with sustainable development requires attention to both adaptation and mitigation . Delaying global mitigation actions may reduce options for climate-resilient pathways and adaptation in the future. Opportunities to take advantage of positive synergies between adaptation and mitigation may decrease with time, particularly if limits to adaptation are exceeded. Increasing efforts to mitigate and adapt to climate change imply an increasing complexity of interactions, encompassing connections among human health, water, energy, land use and biodiversity .",
+      "Generated Summary": "Tackling climate change involves recognizing the synergies between climate action and sustainable development goals, necessitating comprehensive strategies to address the interlinked nature of climate and socio-economic challenges.",
+      "ROUGE-1 Precision": 0.5714285714285714,
+      "ROUGE-1 Recall": 0.1702127659574468,
+      "ROUGE-1 F1": 0.2622950819672131,
+      "ROUGE-2 Precision": 0.1111111111111111,
+      "ROUGE-2 Recall": 0.03225806451612903,
+      "ROUGE-2 F1": 0.049999999999999996,
+      "ROUGE-L Precision": 0.39285714285714285,
+      "ROUGE-L Recall": 0.11702127659574468,
+      "ROUGE-L F1": 0.18032786885245902
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.743959903717041,
+      "BERTScore Recall": 0.6007207632064819,
+      "BERTScore F1": 0.6647112369537354
+    }
+  }
+]

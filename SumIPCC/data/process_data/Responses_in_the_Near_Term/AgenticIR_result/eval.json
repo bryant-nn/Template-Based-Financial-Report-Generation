@@ -1,0 +1,674 @@
+[
+  {
+    "sub section 1.1": "The key aspects of equity in climate action include the prioritization of equity and justice, where actions focus on climate justice and social considerations that lead to more sustainable outcomes. Adaptation and mitigation strategies should address specific vulnerabilities related to gender, ethnicity, disability, age, location, and income. Implementing redistributive policies and ensuring inclusive decision-making involving diverse stakeholders enhances the effectiveness of climate policies. Institutional capacity is vital for supporting equity-focused actions, and fostering partnerships helps to build social trust and broader participation in climate governance.",
+    "rouge": {
+      "Reference Summary": "Equity remains a central element in the UN climate regime, notwithstanding shifts in differentiation between states  over time and challenges in assessing fair shares. Ambitious mitigation pathways imply large and sometimes disruptive changes in economic structure, with significant distributional consequences, within and between countries. Distributional consequences within and between countries include shifting of income and employment during the transition from high- to low-emissions activities.",
+      "Generated Summary": "The key aspects of equity in climate action include the prioritization of equity and justice, where actions focus on climate justice and social considerations that lead to more sustainable outcomes. Adaptation and mitigation strategies should address specific vulnerabilities related to gender, ethnicity, disability, age, location, and income. Implementing redistributive policies and ensuring inclusive decision-making involving diverse stakeholders enhances the effectiveness of climate policies. Institutional capacity is vital for supporting equity-focused actions, and fostering partnerships helps to build social trust and broader participation in climate governance.",
+      "ROUGE-1 Precision": 0.1839080459770115,
+      "ROUGE-1 Recall": 0.24615384615384617,
+      "ROUGE-1 F1": 0.21052631578947367,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.12643678160919541,
+      "ROUGE-L Recall": 0.16923076923076924,
+      "ROUGE-L F1": 0.14473684210526316
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.5990371108055115,
+      "BERTScore Recall": 0.5838844180107117,
+      "BERTScore F1": 0.5913637280464172
+    }
+  },
+  {
+    "sub section 1.2": "Regulations around equity in climate action emphasize the importance of inclusive decision-making processes, where diverse stakeholders, including Indigenous Peoples and local communities, are involved. Frameworks that prioritize climate justice and corresponding laws and executive orders aim to ensure fair and just climate action. Adaptation and mitigation strategies should address the needs of the most vulnerable populations through redistributive policies, while climate-related litigation trends are also influencing governance and accountability for equitable climate action.",
+    "rouge": {
+      "Reference Summary": "The design of regulatory instruments and economic instruments and consumption-based approaches, can advance equity.  Individuals with high socio-economic status contribute disproportionately to emissions, and have the highest potential for emissions reductions. Many options are available for reducing emission-intensive consumption while improving societal well-being. Socio-cultural options, behaviour and lifestyle changes supported by policies, infrastructure, and technology can help end-users shift to low-emissions-intensive consumption, with multiple co-benefits. A substantial share of the population in low-emitting countries lack access to modern energy services. Technology development, transfer, capacity building and financing can support developing countries / regions leapfrogging or transitioning to low-emissions transport systems thereby providing multiple co-benefits. Climate resilient development is advanced when actors work in equitable, just and inclusive ways to reconcile divergent interests, values and worldviews, toward equitable and just outcomes.",
+      "Generated Summary": "Regulations around equity in climate action emphasize the importance of inclusive decision-making processes, where diverse stakeholders, including Indigenous Peoples and local communities, are involved. Frameworks that prioritize climate justice and corresponding laws and executive orders aim to ensure fair and just climate action. Adaptation and mitigation strategies should address the needs of the most vulnerable populations through redistributive policies, while climate-related litigation trends are also influencing governance and accountability for equitable climate action.",
+      "ROUGE-1 Precision": 0.30666666666666664,
+      "ROUGE-1 Recall": 0.16312056737588654,
+      "ROUGE-1 F1": 0.21296296296296297,
+      "ROUGE-2 Precision": 0.02702702702702703,
+      "ROUGE-2 Recall": 0.014285714285714285,
+      "ROUGE-2 F1": 0.018691588785046728,
+      "ROUGE-L Precision": 0.17333333333333334,
+      "ROUGE-L Recall": 0.09219858156028368,
+      "ROUGE-L F1": 0.12037037037037035
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6475297212600708,
+      "BERTScore Recall": 0.5874844789505005,
+      "BERTScore F1": 0.6160474419593811
+    }
+  },
+  {
+    "sub section 1.3": "Sustainable outcomes associated with equity in climate actions include enhanced climate resilience for vulnerable populations, co-benefits that improve social cohesion and economic opportunities, and transformative changes in societal engagement. Implementing just transitions ensures that shifts toward sustainable practices do not disproportionately burden vulnerable communities, promoting a fair distribution of resources and greater institutional capacity to handle context-specific inequities.",
+    "rouge": {
+      "Reference Summary": "Adaptation and mitigation actions that prioritise equity, social justice, climate justice, rights-based approaches, and  inclusivity, lead to more sustainable outcomes, reduce trade-offs, support transformative change and advance climate resilient development. Redistributive policies across sectors and regions that shield the poor and vulnerable, social safety nets, equity, inclusion and just transitions, at all scales can enable deeper societal ambitions and resolve tradeoffs with sustainable development goals. Attention to equity and broad and meaningful participation of all relevant actors in decision making at all scales can build social trust which builds on equitable sharing of benefits and burdens of mitigation that deepen and widen support for transformative changes.",
+      "Generated Summary": "Sustainable outcomes associated with equity in climate actions include enhanced climate resilience for vulnerable populations, co-benefits that improve social cohesion and economic opportunities, and transformative changes in societal engagement. Implementing just transitions ensures that shifts toward sustainable practices do not disproportionately burden vulnerable communities, promoting a fair distribution of resources and greater institutional capacity to handle context-specific inequities.",
+      "ROUGE-1 Precision": 0.45,
+      "ROUGE-1 Recall": 0.25,
+      "ROUGE-1 F1": 0.32142857142857145,
+      "ROUGE-2 Precision": 0.06779661016949153,
+      "ROUGE-2 Recall": 0.037383177570093455,
+      "ROUGE-2 F1": 0.048192771084337345,
+      "ROUGE-L Precision": 0.21666666666666667,
+      "ROUGE-L Recall": 0.12037037037037036,
+      "ROUGE-L F1": 0.15476190476190477
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6973498463630676,
+      "BERTScore Recall": 0.65115886926651,
+      "BERTScore F1": 0.6734632253646851
+    }
+  },
+  {
+    "sub section 1.4": "The vulnerable regions affected by climate change include areas like Africa, particularly West, Central, and East Africa, where human vulnerability is highest. Small Island Developing States (SIDS) and regions in Asia, especially South Asia, face significant climate risks. Additionally, populations in Least Developed Countries (LDCs) and those affected by violent conflict or reliant on climate-sensitive livelihoods are particularly at risk. Approximately 3.3 to 3.6 billion people live in contexts that are highly vulnerable to climate change.",
+    "rouge": {
+      "Reference Summary": "Regions and people  with considerable development constraints have high vulnerability to  climatic hazards. Adaptation outcomes for the most vulnerable within and across countries and regions are enhanced through approaches focusing on equity, inclusivity and rights-based approaches. Vulnerability is exacerbated by inequity and marginalisation linked to e.g., gender, ethnicity, low incomes, informal settlements, disability, age, and historical and ongoing patterns of inequity such as colonialism, especially for many Indigenous Peoples and local communities. Integrating climate adaptation into social protection programs, including cash transfers and public works programs, is highly feasible and increases resilience to climate change, especially when supported by basic services and infrastructure. The greatest gains in well-being in urban areas can be achieved by prioritising access to finance to reduce climate risk for low-income and marginalised communities including people living in informal settlements.",
+      "Generated Summary": "The vulnerable regions affected by climate change include areas like Africa, particularly West, Central, and East Africa, where human vulnerability is highest. Small Island Developing States (SIDS) and regions in Asia, especially South Asia, face significant climate risks. Additionally, populations in Least Developed Countries (LDCs) and those affected by violent conflict or reliant on climate-sensitive livelihoods are particularly at risk. Approximately 3.3 to 3.6 billion people live in contexts that are highly vulnerable to climate change.",
+      "ROUGE-1 Precision": 0.4177215189873418,
+      "ROUGE-1 Recall": 0.2391304347826087,
+      "ROUGE-1 F1": 0.30414746543778803,
+      "ROUGE-2 Precision": 0.10256410256410256,
+      "ROUGE-2 Recall": 0.058394160583941604,
+      "ROUGE-2 F1": 0.07441860465116278,
+      "ROUGE-L Precision": 0.21518987341772153,
+      "ROUGE-L Recall": 0.12318840579710146,
+      "ROUGE-L F1": 0.1566820276497696
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6342990398406982,
+      "BERTScore Recall": 0.5917117595672607,
+      "BERTScore F1": 0.6122657060623169
+    }
+  },
+  {
+    "sub section 2.1": "Current financing mechanisms for climate initiatives combine public and private finance, with public funding serving as a crucial enabler for both adaptation and mitigation efforts. Enhanced international cooperation is essential to mobilize resources, while investment in technology innovation systems supports climate-friendly practices. Public sector mechanisms can leverage private investments by overcoming barriers related to regulatory costs and market access.",
+    "rouge": {
+      "Reference Summary": "Improved availability of and access to finance55 would enable accelerated climate action .  Addressing needs and gaps and broadening equitable access to domestic and international finance, when combined with other supportive actions, can act as a catalyst for accelerating adaptation and mitigation, and enabling climate resilient development. If climate goals are to be achieved, and to address rising risks and accelerate investments in emissions reductions, both adaptation and mitigation finance would need to increase many-fold . Increased access to finance can build capacity and address soft limits to adaptation and avert rising risks, especially for  developing countries, vulnerable groups, regions and sectors. Public finance is an important enabler of adaptation and mitigation, and can also leverage private finance. Average annual modelled mitigation investment requirements for 2020 to 2030 in scenarios that limit warming to 2°C or 1.5°C are a factor of three to six greater than current levels, and total mitigation investments would need to increase across all sectors and regions. Even if extensive global mitigation efforts are implemented, there will be a need for financial, technical, and human resources for adaptation.",
+      "Generated Summary": "Current financing mechanisms for climate initiatives combine public and private finance, with public funding serving as a crucial enabler for both adaptation and mitigation efforts. Enhanced international cooperation is essential to mobilize resources, while investment in technology innovation systems supports climate-friendly practices. Public sector mechanisms can leverage private investments by overcoming barriers related to regulatory costs and market access.",
+      "ROUGE-1 Precision": 0.5666666666666667,
+      "ROUGE-1 Recall": 0.18478260869565216,
+      "ROUGE-1 F1": 0.2786885245901639,
+      "ROUGE-2 Precision": 0.13559322033898305,
+      "ROUGE-2 Recall": 0.04371584699453552,
+      "ROUGE-2 F1": 0.06611570247933884,
+      "ROUGE-L Precision": 0.3333333333333333,
+      "ROUGE-L Recall": 0.10869565217391304,
+      "ROUGE-L F1": 0.16393442622950818
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7439708709716797,
+      "BERTScore Recall": 0.6311964392662048,
+      "BERTScore F1": 0.6829594373703003
+    }
+  },
+  {
+    "sub section 2.2": "The gaps in financing for climate initiatives arise from institutional barriers, regulatory challenges, and limited access to financial markets, especially in developing countries. High economic vulnerability and insufficient public finance hinder effective investment in climate actions. Significant disparities in access exacerbate the challenges faced by vulnerable regions and populations, underlining the need for improved international cooperation and supportive governance structures.",
+    "rouge": {
+      "Reference Summary": "Tracked financial flows fall short of the levels needed for adaptation and to achieve mitigation goals across all sectors  and regions. These gaps create many opportunities and the challenge of closing gaps is largest in developing countries. Accelerated financial support for developing countries from developed countries and other sources is a critical enabler to enhance adaptation and mitigation actions and address inequities in access to finance, including its costs, terms and conditions, and economic vulnerability to climate change for developing countries. Scaled-up public grants for mitigation and adaptation funding for vulnerable regions, especially in Sub-Saharan Africa, would be cost-effective and have high social returns in terms of access to basic energy. Options for scaling up mitigation in developing countries include: increased levels of public finance and publicly mobilised private finance flows from developed to developing countries in the context of the USD 100 billion-a-year goal; increased use of public guarantees to reduce risks and leverage private flows at lower cost; local capital markets development; and building greater trust in international cooperation processes. A coordinated effort to make the post-pandemic recovery sustainable over the longer-term can accelerate climate action, including in developing regions and countries facing high debt costs, debt distress and macroeconomic uncertainty.",
+      "Generated Summary": "The gaps in financing for climate initiatives arise from institutional barriers, regulatory challenges, and limited access to financial markets, especially in developing countries. High economic vulnerability and insufficient public finance hinder effective investment in climate actions. Significant disparities in access exacerbate the challenges faced by vulnerable regions and populations, underlining the need for improved international cooperation and supportive governance structures.",
+      "ROUGE-1 Precision": 0.6833333333333333,
+      "ROUGE-1 Recall": 0.19523809523809524,
+      "ROUGE-1 F1": 0.30370370370370375,
+      "ROUGE-2 Precision": 0.22033898305084745,
+      "ROUGE-2 Recall": 0.06220095693779904,
+      "ROUGE-2 F1": 0.09701492537313432,
+      "ROUGE-L Precision": 0.35,
+      "ROUGE-L Recall": 0.1,
+      "ROUGE-L F1": 0.15555555555555556
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7675260305404663,
+      "BERTScore Recall": 0.638016939163208,
+      "BERTScore F1": 0.6968048810958862
+    }
+  },
+  {
+    "sub section 2.3": "Investment gaps primarily stem from the necessity for substantially increased financing in both adaptation and mitigation efforts. Regulatory and market access barriers hinder investment in climate projects. Enhanced international collaboration and improved access to financing are vital for addressing the challenges that developing regions face in securing necessary funds for climate action.",
+    "rouge": {
+      "Reference Summary": "There is sufficient global capital and liquidity to close global investment gaps, given the size of the global financial  system, but there are barriers to redirect capital to climate action both within and outside the global financial sector and in the context of economic vulnerabilities and indebtedness facing developing countries. Reducing financing barriers for scaling up financial flows would require clear signalling and support by governments, including a stronger alignment of public finances in order to lower real and perceived regulatory, cost and market barriers and risks and improving the risk-return profile of investments. At the same time, depending on national contexts, financial actors, including investors, financial intermediaries, central banks and financial regulators can shift the systemic underpricing of climaterelated risks, and reduce sectoral and regional mismatches between available capital and investment needs.",
+      "Generated Summary": "Investment gaps primarily stem from the necessity for substantially increased financing in both adaptation and mitigation efforts. Regulatory and market access barriers hinder investment in climate projects. Enhanced international collaboration and improved access to financing are vital for addressing the challenges that developing regions face in securing necessary funds for climate action.",
+      "ROUGE-1 Precision": 0.4807692307692308,
+      "ROUGE-1 Recall": 0.1865671641791045,
+      "ROUGE-1 F1": 0.26881720430107525,
+      "ROUGE-2 Precision": 0.09803921568627451,
+      "ROUGE-2 Recall": 0.03759398496240601,
+      "ROUGE-2 F1": 0.05434782608695652,
+      "ROUGE-L Precision": 0.28846153846153844,
+      "ROUGE-L Recall": 0.11194029850746269,
+      "ROUGE-L F1": 0.16129032258064516
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6920949220657349,
+      "BERTScore Recall": 0.6114622354507446,
+      "BERTScore F1": 0.6492847800254822
+    }
+  },
+  {
+    "sub section 2.4": "Emerging technological innovations in climate change include digital technologies such as IoT and AI, renewable energy advancements in solar and wind power, and sustainable agricultural practices that improve resilience. Electrification and innovations in urban infrastructure are crucial for reducing emissions in cities, while promoting energy efficiency across various sectors significantly contributes to mitigating climate impacts.",
+    "rouge": {
+      "Reference Summary": "Enhancing technology innovation systems can provide opportunities to lower emissions growth, create social and  environmental co-benefits, and achieve other SDGs. Policy packages tailored to national contexts and technological characteristics have been effective in supporting low-emission innovation and technology diffusion. Public policies can support training and R&D, complemented by both regulatory and market-based instruments that create incentives and market opportunities. Technological innovation can have trade-offs such as new and greater environmental impacts, social inequalities, overdependence on foreign knowledge and providers, distributional impacts and rebound effects, requiring appropriate governance and policies to enhance potential and reduce trade-offs. Innovation and adoption of low-emission technologies lags in most developing countries, particularly least developed ones, due in part to weaker enabling conditions, including limited finance, technology development and transfer, and capacity building.",
+      "Generated Summary": "Emerging technological innovations in climate change include digital technologies such as IoT and AI, renewable energy advancements in solar and wind power, and sustainable agricultural practices that improve resilience. Electrification and innovations in urban infrastructure are crucial for reducing emissions in cities, while promoting energy efficiency across various sectors significantly contributes to mitigating climate impacts.",
+      "ROUGE-1 Precision": 0.34545454545454546,
+      "ROUGE-1 Recall": 0.1417910447761194,
+      "ROUGE-1 F1": 0.20105820105820107,
+      "ROUGE-2 Precision": 0.037037037037037035,
+      "ROUGE-2 Recall": 0.015037593984962405,
+      "ROUGE-2 F1": 0.0213903743315508,
+      "ROUGE-L Precision": 0.2545454545454545,
+      "ROUGE-L Recall": 0.1044776119402985,
+      "ROUGE-L F1": 0.14814814814814814
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6303644776344299,
+      "BERTScore Recall": 0.5949628949165344,
+      "BERTScore F1": 0.6121522784233093
+    }
+  },
+  {
+    "sub section 3.1": "Effective decision processes in climate governance emphasize inclusive and participatory approaches, engaging diverse stakeholders to ensure various perspectives are considered. Institutional capacity is essential to implement and monitor climate actions effectively. Emphasizing just transitions ensures that adaptation strategies address the needs of vulnerable populations.",
+    "rouge": {
+      "Reference Summary": "Effective multilevel governence for mitigation, adaptation, risk management, and climate resilient development is  enabled by inclusive decision processes that prioritise equity and justice in planning and implementation, allocation of appropriate resources, institutional review, and monitoring and evaluation. Vulnerabilities and climate risks are often reduced through carefully designed and implemented laws, policies, participatory processes, and interventions that address context specific inequities such as those based on gender, ethnicity, disability, age, location and income.",
+      "Generated Summary": "Effective decision processes in climate governance emphasize inclusive and participatory approaches, engaging diverse stakeholders to ensure various perspectives are considered. Institutional capacity is essential to implement and monitor climate actions effectively. Emphasizing just transitions ensures that adaptation strategies address the needs of vulnerable populations.",
+      "ROUGE-1 Precision": 0.4772727272727273,
+      "ROUGE-1 Recall": 0.2916666666666667,
+      "ROUGE-1 F1": 0.3620689655172414,
+      "ROUGE-2 Precision": 0.046511627906976744,
+      "ROUGE-2 Recall": 0.028169014084507043,
+      "ROUGE-2 F1": 0.03508771929824561,
+      "ROUGE-L Precision": 0.25,
+      "ROUGE-L Recall": 0.1527777777777778,
+      "ROUGE-L F1": 0.18965517241379312
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7016276717185974,
+      "BERTScore Recall": 0.6370259523391724,
+      "BERTScore F1": 0.6677680015563965
+    }
+  },
+  {
+    "sub section 3.2": "Diversity and local knowledge enhance climate governance by enabling context-specific solutions and improving the inclusivity of decision-making processes. Collaboration and partnerships among different societal groups foster shared responsibility for climate initiatives, while recognizing interdependencies encourages integrated approaches across various sectors.",
+    "rouge": {
+      "Reference Summary": "Drawing on diverse knowledges and cultural values, meaningful participation and inclusive engagement processes—  including Indigenous Knowledge, local knowledge, and scientific knowledge—facilitates climate resilient development, builds capacity and allows locally appropriate and socially acceptable solutions.",
+      "Generated Summary": "Diversity and local knowledge enhance climate governance by enabling context-specific solutions and improving the inclusivity of decision-making processes. Collaboration and partnerships among different societal groups foster shared responsibility for climate initiatives, while recognizing interdependencies encourages integrated approaches across various sectors.",
+      "ROUGE-1 Precision": 0.23809523809523808,
+      "ROUGE-1 Recall": 0.2857142857142857,
+      "ROUGE-1 F1": 0.25974025974025977,
+      "ROUGE-2 Precision": 0.024390243902439025,
+      "ROUGE-2 Recall": 0.029411764705882353,
+      "ROUGE-2 F1": 0.02666666666666667,
+      "ROUGE-L Precision": 0.16666666666666666,
+      "ROUGE-L Recall": 0.2,
+      "ROUGE-L F1": 0.1818181818181818
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.658166229724884,
+      "BERTScore Recall": 0.6785035133361816,
+      "BERTScore F1": 0.6681801676750183
+    }
+  },
+  {
+    "sub section 3.3": "The current state of governance related to climate action emphasizes the necessity for inclusive processes, partnerships, and adequate institutional capacity to implement effective laws and policies. Climate-related litigation in developed countries is increasingly influencing governance outcomes and ambitions, driving accountability for equitable climate actions.",
+    "rouge": {
+      "Reference Summary": "Effective climate governance enables mitigation and adaptation. Effective governance provides overall direction on  setting targets and priorities and mainstreaming climate action across policy domains and levels, based on national circumstances and in the context of international cooperation. It enhances monitoring and evaluation and regulatory certainty, prioritising inclusive, transparent and equitable decision-making, and improves access to finance and technology.",
+      "Generated Summary": "The current state of governance related to climate action emphasizes the necessity for inclusive processes, partnerships, and adequate institutional capacity to implement effective laws and policies. Climate-related litigation in developed countries is increasingly influencing governance outcomes and ambitions, driving accountability for equitable climate actions.",
+      "ROUGE-1 Precision": 0.35555555555555557,
+      "ROUGE-1 Recall": 0.2711864406779661,
+      "ROUGE-1 F1": 0.3076923076923077,
+      "ROUGE-2 Precision": 0.022727272727272728,
+      "ROUGE-2 Recall": 0.017241379310344827,
+      "ROUGE-2 F1": 0.0196078431372549,
+      "ROUGE-L Precision": 0.17777777777777778,
+      "ROUGE-L Recall": 0.13559322033898305,
+      "ROUGE-L F1": 0.15384615384615385
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.664675235748291,
+      "BERTScore Recall": 0.6493154168128967,
+      "BERTScore F1": 0.6569055914878845
+    }
+  },
+  {
+    "sub section 3.4": "Institutions play a crucial role in climate initiatives by building capacity, influencing climate policy, managing resource allocation, and facilitating international cooperation. Their involvement strengthens responses to climate change and enhances participation from diverse societal actors.",
+    "rouge": {
+      "Reference Summary": "Effective local, municipal, national and subnational institutions build consensus for climate action among diverse  interests, enable coordination and inform strategy setting but require adequate institutional capacity. Policy support is influenced by actors in civil society, including businesses, youth, women, labour, media, Indigenous Peoples, and local communities. Effectiveness is enhanced by political commitment and partnerships between different groups in society.",
+      "Generated Summary": "Institutions play a crucial role in climate initiatives by building capacity, influencing climate policy, managing resource allocation, and facilitating international cooperation. Their involvement strengthens responses to climate change and enhances participation from diverse societal actors.",
+      "ROUGE-1 Precision": 0.37142857142857144,
+      "ROUGE-1 Recall": 0.22033898305084745,
+      "ROUGE-1 F1": 0.2765957446808511,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.17142857142857143,
+      "ROUGE-L Recall": 0.1016949152542373,
+      "ROUGE-L F1": 0.12765957446808512
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7059279680252075,
+      "BERTScore Recall": 0.6336449384689331,
+      "BERTScore F1": 0.6678362488746643
+    }
+  },
+  {
+    "sub section 3.5": "Economic instruments used in climate policies include carbon pricing mechanisms that account for over 20% of global GHG emissions. These instruments help generate revenue that can support low-income households, while other mechanisms like public R&D funding and deployment subsidies promote renewable energy.",
+    "rouge": {
+      "Reference Summary": "Regulatory and economic instruments could support deep emissions reductions if scaled up and applied more widely  . Scaling up and enhancing the use of regulatory instruments can improve mitigation outcomes in sectoral applications, consistent with national circumstances. Where implemented, carbon pricing instruments have incentivized low-cost emissions reduction measures but have been less effective, on their own and at prevailing prices during the assessment period, to promote higher-cost measures necessary for further reductions . Equity and distributional impacts of such carbon pricing instruments, e.g., carbon taxes and emissions trading, can be addressed by using revenue to support low-income households, among other approaches. Removing fossil fuel subsidies would reduce emissions and yield benefits such as improved public revenue, macroeconomic and sustainability performance; subsidy removal can have adverse distributional impacts, especially on the most economically vulnerable groups which, in some cases can be mitigated by measures such as redistributing revenue saved, all of which depend on national circumstances. Economy-wide policy packages, such as public spending commitments and pricing reforms, can meet short-term economic goals while reducing emissions and shifting development pathways towards sustainability. Effective policy packages would be comprehensive, consistent, balanced across objectives, and tailored to national circumstances.",
+      "Generated Summary": "Economic instruments used in climate policies include carbon pricing mechanisms that account for over 20% of global GHG emissions. These instruments help generate revenue that can support low-income households, while other mechanisms like public R&D funding and deployment subsidies promote renewable energy.",
+      "ROUGE-1 Precision": 0.5227272727272727,
+      "ROUGE-1 Recall": 0.11557788944723618,
+      "ROUGE-1 F1": 0.18930041152263377,
+      "ROUGE-2 Precision": 0.11627906976744186,
+      "ROUGE-2 Recall": 0.025252525252525252,
+      "ROUGE-2 F1": 0.04149377593360996,
+      "ROUGE-L Precision": 0.4090909090909091,
+      "ROUGE-L Recall": 0.09045226130653267,
+      "ROUGE-L F1": 0.14814814814814817
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.721356987953186,
+      "BERTScore Recall": 0.5945626497268677,
+      "BERTScore F1": 0.651851236820221
+    }
+  },
+  {
+    "sub section 4.1": "Mitigation and adaptation options for agriculture and land use include sustainable practices such as agroforestry, cultivar improvements, community-based adaptation, and diverse cropping. Effective governance and financial mechanisms are essential for successful implementation of these strategies.",
+    "rouge": {
+      "Reference Summary": "Many agriculture, forestry, and other land use  options provide adaptation and mitigation benefits that could  be upscaled in the near term across most regions. Conservation, improved management, and restoration of forests and other ecosystems offer the largest share of economic mitigation potential, with reduced deforestation in tropical regions having the highest total mitigation potential. Ecosystem restoration, reforestation, and afforestation can lead to trade-offs due to competing demands on land. Minimizing trade-offs requires integrated approaches to meet multiple objectives including food security. Demand-side measures  and sustainable agricultural intensification can reduce ecosystem conversion, and methane and nitrous oxide emissions, and free up land for reforestation and ecosystem restoration. Sustainably sourced agricultural and forest products, including long-lived wood products, can be used instead of more GHG-intensive products in other sectors. Effective adaptation options include cultivar improvements, agroforestry, community-based adaptation, farm and landscape diversification, and urban agriculture. These AFOLU response options require integration of biophysical, socioeconomic and other enabling factors. Some options, such as conservation of high-carbon ecosystems , deliver immediate benefits, while others, such as restoration of high-carbon ecosystems, take decades to deliver measurable results.",
+      "Generated Summary": "Mitigation and adaptation options for agriculture and land use include sustainable practices such as agroforestry, cultivar improvements, community-based adaptation, and diverse cropping. Effective governance and financial mechanisms are essential for successful implementation of these strategies.",
+      "ROUGE-1 Precision": 0.6666666666666666,
+      "ROUGE-1 Recall": 0.12698412698412698,
+      "ROUGE-1 F1": 0.21333333333333335,
+      "ROUGE-2 Precision": 0.22857142857142856,
+      "ROUGE-2 Recall": 0.0425531914893617,
+      "ROUGE-2 F1": 0.07174887892376682,
+      "ROUGE-L Precision": 0.4166666666666667,
+      "ROUGE-L Recall": 0.07936507936507936,
+      "ROUGE-L F1": 0.13333333333333333
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.8121850490570068,
+      "BERTScore Recall": 0.6108307838439941,
+      "BERTScore F1": 0.6972622871398926
+    }
+  },
+  {
+    "sub section 4.2": "Conservation strategies for ecosystems and biodiversity involve protecting natural areas, restoring degraded ecosystems, and implementing sustainable land management practices. Integrating climate action with broader development goals yields greater benefits for ecosystems and communities.",
+    "rouge": {
+      "Reference Summary": "Maintaining the resilience of biodiversity and ecosystem services at a global scale depends on effective and equitable  conservation of approximately 30% to 50% of Earth’s land, freshwater and ocean areas, including currently nearnatural ecosystems. Conservation, protection and restoration of terrestrial, freshwater, coastal and ocean ecosystems, together with targeted management to adapt to unavoidable impacts of climate change reduces the vulnerability of biodiversity and ecosystem services to climate change, reduces coastal erosion and flooding, and could increase carbon uptake and storage if global warming is limited . Rebuilding overexploited or depleted fisheries reduces negative climate change impacts on fisheries and supports food security, biodiversity, human health and well-being. Land restoration contributes to climate change mitigation and adaptation with synergies via enhanced ecosystem services and with economically positive returns and co-benefits for poverty reduction and improved livelihoods. Cooperation, and inclusive decision making, with Indigenous Peoples and local communities, as well as recognition of inherent rights of Indigenous Peoples, is integral to successful adaptation and mitigation across forests and other ecosystems.",
+      "Generated Summary": "Conservation strategies for ecosystems and biodiversity involve protecting natural areas, restoring degraded ecosystems, and implementing sustainable land management practices. Integrating climate action with broader development goals yields greater benefits for ecosystems and communities.",
+      "ROUGE-1 Precision": 0.5757575757575758,
+      "ROUGE-1 Recall": 0.11176470588235295,
+      "ROUGE-1 F1": 0.187192118226601,
+      "ROUGE-2 Precision": 0.03125,
+      "ROUGE-2 Recall": 0.005917159763313609,
+      "ROUGE-2 F1": 0.009950248756218905,
+      "ROUGE-L Precision": 0.3939393939393939,
+      "ROUGE-L Recall": 0.07647058823529412,
+      "ROUGE-L F1": 0.12807881773399016
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7287302017211914,
+      "BERTScore Recall": 0.5987428426742554,
+      "BERTScore F1": 0.6573722958564758
+    }
+  },
+  {
+    "sub section 4.3": "Climate change impacts human health through increased mortality from heat events, the incidence of climate-related diseases, and deterioration of food and water security. Urban areas, in particular, experience worsened air quality and infrastructure challenges due to climate effects.",
+    "rouge": {
+      "Reference Summary": "Human health will benefit from integrated mitigation and adaptation options that mainstream health into food,  infrastructure, social protection, and water policies. Effective adaptation options exist to help protect human health and well-being, including: strengthening public health programs related to climate-sensitive diseases, increasing health systems resilience, improving ecosystem health, improving access to potable water, reducing exposure of water and sanitation systems to flooding, improving surveillance and early warning systems, vaccine development, improving access to mental healthcare, and Heat Health Action Plans that include early warning and response systems. Adaptation strategies which reduce food loss and waste or support balanced, sustainable healthy diets contribute to nutrition, health, biodiversity and other environmental benefits.",
+      "Generated Summary": "Climate change impacts human health through increased mortality from heat events, the incidence of climate-related diseases, and deterioration of food and water security. Urban areas, in particular, experience worsened air quality and infrastructure challenges due to climate effects.",
+      "ROUGE-1 Precision": 0.4358974358974359,
+      "ROUGE-1 Recall": 0.15178571428571427,
+      "ROUGE-1 F1": 0.22516556291390727,
+      "ROUGE-2 Precision": 0.07894736842105263,
+      "ROUGE-2 Recall": 0.02702702702702703,
+      "ROUGE-2 F1": 0.04026845637583893,
+      "ROUGE-L Precision": 0.2564102564102564,
+      "ROUGE-L Recall": 0.08928571428571429,
+      "ROUGE-L F1": 0.1324503311258278
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6884403824806213,
+      "BERTScore Recall": 0.6119257211685181,
+      "BERTScore F1": 0.6479319334030151
+    }
+  },
+  {
+    "sub section 4.4": "Key policies for climate mitigation and adaptation stress the importance of increasing financing, enhancing public-private partnerships, and integrating sustainable development objectives with climate strategies. Robust international cooperation and technology innovation systems are essential.",
+    "rouge": {
+      "Reference Summary": "Policy mixes that include weather and health insurance, social protection and adaptive social safety nets, contingent  finance and reserve funds, and universal access to early warning systems combined with effective contingency plans, can reduce vulnerability and exposure of human systems. Disaster risk management, early warning systems, climate services and risk spreading and sharing approaches have broad applicability across sectors. Increasing education including capacity building, climate literacy, and information provided through climate services and community approaches can facilitate heightened risk perception and accelerate behavioural changes and planning.",
+      "Generated Summary": "Key policies for climate mitigation and adaptation stress the importance of increasing financing, enhancing public-private partnerships, and integrating sustainable development objectives with climate strategies. Robust international cooperation and technology innovation systems are essential.",
+      "ROUGE-1 Precision": 0.35294117647058826,
+      "ROUGE-1 Recall": 0.13953488372093023,
+      "ROUGE-1 F1": 0.2,
+      "ROUGE-2 Precision": 0.030303030303030304,
+      "ROUGE-2 Recall": 0.011764705882352941,
+      "ROUGE-2 F1": 0.01694915254237288,
+      "ROUGE-L Precision": 0.23529411764705882,
+      "ROUGE-L Recall": 0.09302325581395349,
+      "ROUGE-L F1": 0.13333333333333333
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6326256990432739,
+      "BERTScore Recall": 0.5982096195220947,
+      "BERTScore F1": 0.6149364709854126
+    }
+  },
+  {
+    "sub section 4.5": "Pathways to reaching net-zero CO2 emissions involve transitioning to low-carbon energy sources, improving energy efficiency, and reducing non-CO2 GHG emissions. Technologies for carbon dioxide removal and changes in consumer behavior can support these efforts.",
+    "rouge": {
+      "Reference Summary": "Net zero CO2 energy systems entail: a substantial reduction in overall fossil fuel use, minimal use of unabated fossil  fuels, and use of carbon capture and storage in the remaining fossil fuel systems; electricity systems that emit no net CO2; widespread electrification; alternative energy carriers in applications less amenable to electrification; energy conservation and efficiency; and greater integration across the energy system. Large contributions to emissions reductions with costs less than USD 20 tCO2-eq-1 come from solar and wind energy, energy efficiency improvements, and methane emissions reductions. There are feasible adaptation options that support infrastructure resilience, reliable power systems and efficient water use for existing and new energy generation systems. Energy generation diversification  and demand-side management can increase energy reliability and reduce vulnerabilities to climate change. Climate responsive energy markets, updated design standards on energy assets according to current and projected climate change, smart-grid technologies, robust transmission systems and improved capacity to respond to supply deficits have high feasibility in the medium to long term, with mitigation co-benefits.",
+      "Generated Summary": "Pathways to reaching net-zero CO2 emissions involve transitioning to low-carbon energy sources, improving energy efficiency, and reducing non-CO2 GHG emissions. Technologies for carbon dioxide removal and changes in consumer behavior can support these efforts.",
+      "ROUGE-1 Precision": 0.5945945945945946,
+      "ROUGE-1 Recall": 0.12716763005780346,
+      "ROUGE-1 F1": 0.20952380952380953,
+      "ROUGE-2 Precision": 0.1388888888888889,
+      "ROUGE-2 Recall": 0.029069767441860465,
+      "ROUGE-2 F1": 0.04807692307692308,
+      "ROUGE-L Precision": 0.35135135135135137,
+      "ROUGE-L Recall": 0.07514450867052024,
+      "ROUGE-L F1": 0.12380952380952381
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7497974634170532,
+      "BERTScore Recall": 0.6057099103927612,
+      "BERTScore F1": 0.6700956225395203
+    }
+  },
+  {
+    "sub section 4.6": "Effective methods for reducing GHG emissions include implementing economic and regulatory instruments, improving energy efficiency, and transitioning to renewable energy sources. Sustained mitigation policies have led to significant emissions reductions in specific countries.",
+    "rouge": {
+      "Reference Summary": "Reducing industry GHG emissions entails coordinated action throughout value chains to promote all mitigation  options, including demand management, energy and materials efficiency, circular material flows, as well as abatement technologies and transformational changes in production processes. In transport, sustainable biofuels, low-emissions hydrogen, and derivatives can support mitigation of CO2 emissions from shipping, aviation, and heavy-duty land transport but require production process improvements and cost reductions. Sustainable biofuels can offer additional mitigation benefits in land-based transport in the short and medium term. Electric vehicles powered by low-GHG emissions electricity have large potential to reduce land-based transport GHG emissions, on a life cycle basis. Advances in battery technologies could facilitate the electrification of heavy-duty trucks and compliment conventional electric rail systems. The environmental footprint of battery production and growing concerns about critical minerals can be addressed by material and supply diversification strategies, energy and material efficiency improvements, and circular material flows.",
+      "Generated Summary": "Effective methods for reducing GHG emissions include implementing economic and regulatory instruments, improving energy efficiency, and transitioning to renewable energy sources. Sustained mitigation policies have led to significant emissions reductions in specific countries.",
+      "ROUGE-1 Precision": 0.5454545454545454,
+      "ROUGE-1 Recall": 0.11612903225806452,
+      "ROUGE-1 F1": 0.19148936170212766,
+      "ROUGE-2 Precision": 0.03125,
+      "ROUGE-2 Recall": 0.006493506493506494,
+      "ROUGE-2 F1": 0.010752688172043012,
+      "ROUGE-L Precision": 0.3939393939393939,
+      "ROUGE-L Recall": 0.08387096774193549,
+      "ROUGE-L F1": 0.13829787234042554
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7002009153366089,
+      "BERTScore Recall": 0.5973153710365295,
+      "BERTScore F1": 0.6446789503097534
+    }
+  },
+  {
+    "sub section 4.7": "The scale of change required for effective climate action is significant. Immediate reductions in GHG emissions are essential to limit global warming to 1.5°C, while actions taken in this decade will critically influence future pathways toward climate-resilient development.",
+    "rouge": {
+      "Reference Summary": "The systemic change required to achieve rapid and deep emissions reductions and transformative adaptation to climate  change is unprecedented in terms of scale, but not necessarily in terms of speed. Systems transitions include: deployment of low- or zero-emission technologies; reducing and changing demand through infrastructure design and access, socio-cultural and behavioural changes, and increased technological efficiency and adoption; social protection, climate services or other services; and protecting and restoring ecosystems. Feasible, effective, and low-cost options for mitigation and adaptation are already available. The availability, feasibility and potential of mitigation and adaptation options in the near term differs across systems and regions .",
+      "Generated Summary": "The scale of change required for effective climate action is significant. Immediate reductions in GHG emissions are essential to limit global warming to 1.5°C, while actions taken in this decade will critically influence future pathways toward climate-resilient development.",
+      "ROUGE-1 Precision": 0.4146341463414634,
+      "ROUGE-1 Recall": 0.16346153846153846,
+      "ROUGE-1 F1": 0.23448275862068962,
+      "ROUGE-2 Precision": 0.025,
+      "ROUGE-2 Recall": 0.009708737864077669,
+      "ROUGE-2 F1": 0.013986013986013984,
+      "ROUGE-L Precision": 0.21951219512195122,
+      "ROUGE-L Recall": 0.08653846153846154,
+      "ROUGE-L F1": 0.12413793103448274
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6659863591194153,
+      "BERTScore Recall": 0.576107382774353,
+      "BERTScore F1": 0.6177949905395508
+    }
+  },
+  {
+    "sub section 4.8": "Urban systems can mitigate climate change through integrated planning, compact urban forms, electrification, and improved water and waste management. Enhancing green infrastructure and focusing on lifecycle management of buildings contribute to emissions reductions and sustainability.",
+    "rouge": {
+      "Reference Summary": "Urban systems are critical for achieving deep emissions reductions and advancing climate resilient development . Key adaptation and mitigation elements in cities include considering climate change impacts and risks in the design and planning of settlements and infrastructure; land use planning to achieve compact urban form, co-location of jobs and housing; supporting public transport and active mobility ; the efficient design, construction, retrofit, and use of buildings; reducing and changing energy and material consumption; sufficiency; material substitution; and electrification in combination with low emissions sources. Urban transitions that offer benefits for mitigation, adaptation, human health and wellbeing, ecosystem services, and vulnerability reduction for low-income communities are fostered by inclusive long-term planning that takes an integrated approach to physical, natural and social infrastructure. Green/ natural and blue infrastructure supports carbon uptake and storage and either singly or when combined with grey infrastructure can reduce energy use and risk from extreme events such as heatwaves, flooding, heavy precipitation and droughts, while generating co-benefits for health, well-being and livelihoods.",
+      "Generated Summary": "Urban systems can mitigate climate change through integrated planning, compact urban forms, electrification, and improved water and waste management. Enhancing green infrastructure and focusing on lifecycle management of buildings contribute to emissions reductions and sustainability.",
+      "ROUGE-1 Precision": 0.6571428571428571,
+      "ROUGE-1 Recall": 0.13609467455621302,
+      "ROUGE-1 F1": 0.22549019607843135,
+      "ROUGE-2 Precision": 0.20588235294117646,
+      "ROUGE-2 Recall": 0.041666666666666664,
+      "ROUGE-2 F1": 0.0693069306930693,
+      "ROUGE-L Precision": 0.4857142857142857,
+      "ROUGE-L Recall": 0.10059171597633136,
+      "ROUGE-L F1": 0.16666666666666669
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7857125997543335,
+      "BERTScore Recall": 0.6288579106330872,
+      "BERTScore F1": 0.6985887885093689
+    }
+  },
+  {
+    "sub section 5.1": "Taking climate action provides co-benefits such as synergies with Sustainable Development Goals, economic growth through job creation, improved well-being for vulnerable populations, and enhanced resilience against climate impacts.",
+    "rouge": {
+      "Reference Summary": "Implementing both mitigation and adaptation actions together and taking trade-offs into account supports co-benefits  and synergies for human health and well-being. For example, improved access to clean energy sources and technologies generates health benefits especially for women and children; electrification combined with low-GHG energy, and shifts to active mobility and public transport can enhance air quality, health, employment, and can elicit energy security and deliver equity.",
+      "Generated Summary": "Taking climate action provides co-benefits such as synergies with Sustainable Development Goals, economic growth through job creation, improved well-being for vulnerable populations, and enhanced resilience against climate impacts.",
+      "ROUGE-1 Precision": 0.4,
+      "ROUGE-1 Recall": 0.17142857142857143,
+      "ROUGE-1 F1": 0.24000000000000002,
+      "ROUGE-2 Precision": 0.10344827586206896,
+      "ROUGE-2 Recall": 0.043478260869565216,
+      "ROUGE-2 F1": 0.06122448979591836,
+      "ROUGE-L Precision": 0.3,
+      "ROUGE-L Recall": 0.12857142857142856,
+      "ROUGE-L F1": 0.18
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6925281882286072,
+      "BERTScore Recall": 0.6166725158691406,
+      "BERTScore F1": 0.6524027585983276
+    }
+  },
+  {
+    "sub section 5.2": "Synergies with different national contexts allow climate initiatives to align with local needs and priorities, fostering broader support and participation from diverse groups. This inclusivity leads to more effective governance and policy outcomes.",
+    "rouge": {
+      "Reference Summary": "Mitigation efforts embedded within the wider development context can increase the pace, depth and breadth of emission  reductions. Countries at all stages of economic development seek to improve the well-being of people, and their development priorities reflect different starting points and contexts. Different contexts include but are not limited to social, economic, environmental, cultural, political circumstances, resource endowment, capabilities, international environment, and prior development. In regions with high dependency on fossil fuels for, among other things, revenue and employment generation, mitigating risk for sustainable development requires policies that promote economic and energy sector diversification and considerations of just transitions principles, processes and practices. Eradicating extreme poverty, energy poverty, and providing decent living standards in low-emitting countries / regions in the context of achieving sustainable development objectives, in the near term, can be achieved without significant global emissions growth.",
+      "Generated Summary": "Synergies with different national contexts allow climate initiatives to align with local needs and priorities, fostering broader support and participation from diverse groups. This inclusivity leads to more effective governance and policy outcomes.",
+      "ROUGE-1 Precision": 0.30303030303030304,
+      "ROUGE-1 Recall": 0.07194244604316546,
+      "ROUGE-1 F1": 0.11627906976744186,
+      "ROUGE-2 Precision": 0.0,
+      "ROUGE-2 Recall": 0.0,
+      "ROUGE-2 F1": 0.0,
+      "ROUGE-L Precision": 0.24242424242424243,
+      "ROUGE-L Recall": 0.05755395683453238,
+      "ROUGE-L F1": 0.0930232558139535
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6335740089416504,
+      "BERTScore Recall": 0.5323268175125122,
+      "BERTScore F1": 0.5785542726516724
+    }
+  },
+  {
+    "sub section 5.3": "Climate initiatives align with Sustainable Development Goals by creating synergies that enhance sustainable development while addressing climate change, leading to improved resilience and equitable development outcomes.",
+    "rouge": {
+      "Reference Summary": "Many mitigation and adaptation actions have multiple synergies with Sustainable Development Goals  and  sustainable development generally, but some actions can also have trade-offs. Potential synergies with SDGs exceed potential trade-offs; synergies and trade-offs depend on the pace and magnitude of change and the development context including inequalities with consideration of climate justice. Trade-offs can be evaluated and minimised by giving emphasis to capacity building, finance, governance, technology transfer, investments, development, context specific gender-based and other social equity considerations with meaningful participation of Indigenous Peoples, local communities and vulnerable populations.",
+      "Generated Summary": "Climate initiatives align with Sustainable Development Goals by creating synergies that enhance sustainable development while addressing climate change, leading to improved resilience and equitable development outcomes.",
+      "ROUGE-1 Precision": 0.5,
+      "ROUGE-1 Recall": 0.13829787234042554,
+      "ROUGE-1 F1": 0.21666666666666667,
+      "ROUGE-2 Precision": 0.16,
+      "ROUGE-2 Recall": 0.043010752688172046,
+      "ROUGE-2 F1": 0.06779661016949154,
+      "ROUGE-L Precision": 0.34615384615384615,
+      "ROUGE-L Recall": 0.09574468085106383,
+      "ROUGE-L F1": 0.15000000000000002
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7097505927085876,
+      "BERTScore Recall": 0.5680115222930908,
+      "BERTScore F1": 0.631019651889801
+    }
+  },
+  {
+    "sub section 6.1": "The benefits of near-term adaptation and mitigation actions include improved well-being for vulnerable populations, cost reduction in future adaptational demands, and sustainable development co-benefits linked to broader SDGs.",
+    "rouge": {
+      "Reference Summary": "Deep, rapid, and sustained mitigation and accelerated implementation of adaptation actions in this decade would  reduce future losses and damages related to climate change for humans and ecosystems. As adaptation options often have long implementation times, accelerated implementation of adaptation in this decade is important to close adaptation gaps. Comprehensive, effective, and innovative responses integrating adaptation and mitigation can harness synergies and reduce trade-offs between adaptation and mitigation .",
+      "Generated Summary": "The benefits of near-term adaptation and mitigation actions include improved well-being for vulnerable populations, cost reduction in future adaptational demands, and sustainable development co-benefits linked to broader SDGs.",
+      "ROUGE-1 Precision": 0.3870967741935484,
+      "ROUGE-1 Recall": 0.17391304347826086,
+      "ROUGE-1 F1": 0.24,
+      "ROUGE-2 Precision": 0.1,
+      "ROUGE-2 Recall": 0.04411764705882353,
+      "ROUGE-2 F1": 0.06122448979591837,
+      "ROUGE-L Precision": 0.22580645161290322,
+      "ROUGE-L Recall": 0.10144927536231885,
+      "ROUGE-L F1": 0.13999999999999999
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6529662609100342,
+      "BERTScore Recall": 0.6195709705352783,
+      "BERTScore F1": 0.6358304023742676
+    }
+  },
+  {
+    "sub section 6.2": "Co-benefits from climate actions encompass economic development opportunities, improved health outcomes through reduced emissions, and enhanced biodiversity and ecosystem services, all contributing to societal well-being.",
+    "rouge": {
+      "Reference Summary": "Accelerated climate action can also provide co-benefits  . Many mitigation actions would  have benefits for health through lower air pollution, active mobility, and shifts to sustainable healthy diets. Strong, rapid and sustained reductions in methane emissions can limit near-term warming and improve air quality by reducing global surface ozone. Adaptation can generate multiple additional benefits such as improving agricultural productivity, innovation, health and well-being, food security, livelihood, and biodiversity conservation.",
+      "Generated Summary": "Co-benefits from climate actions encompass economic development opportunities, improved health outcomes through reduced emissions, and enhanced biodiversity and ecosystem services, all contributing to societal well-being.",
+      "ROUGE-1 Precision": 0.5555555555555556,
+      "ROUGE-1 Recall": 0.20833333333333334,
+      "ROUGE-1 F1": 0.30303030303030304,
+      "ROUGE-2 Precision": 0.11538461538461539,
+      "ROUGE-2 Recall": 0.04225352112676056,
+      "ROUGE-2 F1": 0.06185567010309278,
+      "ROUGE-L Precision": 0.37037037037037035,
+      "ROUGE-L Recall": 0.1388888888888889,
+      "ROUGE-L F1": 0.20202020202020202
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7384267449378967,
+      "BERTScore Recall": 0.6519520282745361,
+      "BERTScore F1": 0.6925002932548523
+    }
+  },
+  {
+    "sub section 6.3": "A cost-benefit analysis of climate initiatives highlights the avoided emissions from regulations and the increasing economic burden of adaptation, necessitating significant financing for effective climate actions.",
+    "rouge": {
+      "Reference Summary": "Cost-benefit analysis remains limited in its ability to represent all avoided damages from climate change . The economic benefits for human health from air quality improvement arising from mitigation action can be of the same order of magnitude as mitigation costs, and potentially even larger. Even without accounting for all the benefits of avoiding potential damages, the global economic and social benefit of limiting global warming to 2°C exceeds the cost of mitigation in most of the assessed literature 50. More rapid climate change mitigation, with emissions peaking earlier, increases co-benefits and reduces feasibility risks and costs in the long-term, but requires higher up-front investments.",
+      "Generated Summary": "A cost-benefit analysis of climate initiatives highlights the avoided emissions from regulations and the increasing economic burden of adaptation, necessitating significant financing for effective climate actions.",
+      "ROUGE-1 Precision": 0.6296296296296297,
+      "ROUGE-1 Recall": 0.1559633027522936,
+      "ROUGE-1 F1": 0.25,
+      "ROUGE-2 Precision": 0.07692307692307693,
+      "ROUGE-2 Recall": 0.018518518518518517,
+      "ROUGE-2 F1": 0.029850746268656716,
+      "ROUGE-L Precision": 0.4074074074074074,
+      "ROUGE-L Recall": 0.10091743119266056,
+      "ROUGE-L F1": 0.16176470588235295
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7342575788497925,
+      "BERTScore Recall": 0.5776897668838501,
+      "BERTScore F1": 0.6466312408447266
+    }
+  },
+  {
+    "sub section 6.4": "Economic changes expected from climate action include job creation, increased investment in low-emission infrastructure, enhanced access to finance and technology, and strengthened social protection programs for transitioning economies.",
+    "rouge": {
+      "Reference Summary": "Ambitious mitigation pathways imply large and sometimes disruptive changes in existing economic structures, with  significant distributional consequences within and between countries. To accelerate climate action, the adverse consequences of these changes can be moderated by fiscal, financial, institutional and regulatory reforms and by integrating climate actions with macroeconomic policies through economy-wide packages, consistent with national circumstances, supporting sustainable low-emission growth paths; climate resilient safety nets and social protection; and improved access to finance for low-emissions infrastructure and technologies, especially in developing countries.",
+      "Generated Summary": "Economic changes expected from climate action include job creation, increased investment in low-emission infrastructure, enhanced access to finance and technology, and strengthened social protection programs for transitioning economies.",
+      "ROUGE-1 Precision": 0.6206896551724138,
+      "ROUGE-1 Recall": 0.21176470588235294,
+      "ROUGE-1 F1": 0.3157894736842105,
+      "ROUGE-2 Precision": 0.25,
+      "ROUGE-2 Recall": 0.08333333333333333,
+      "ROUGE-2 F1": 0.125,
+      "ROUGE-L Precision": 0.3793103448275862,
+      "ROUGE-L Recall": 0.12941176470588237,
+      "ROUGE-L F1": 0.1929824561403509
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7820090651512146,
+      "BERTScore Recall": 0.6286051273345947,
+      "BERTScore F1": 0.696965754032135
+    }
+  },
+  {
+    "sub section 6.5": "The risks of delayed climate mitigation are severe, leading to increased global warming, reduced effectiveness of adaptation, and rising climate risks. These delays threaten sustainable development and future resilience.",
+    "rouge": {
+      "Reference Summary": "Delayed mitigation action will further increase global warming and losses and damages will rise and additional human  and natural systems will reach adaptation limits. Challenges from delayed adaptation and mitigation actions include the risk of cost escalation, lock-in of infrastructure, stranded assets, and reduced feasibility and effectiveness of adaptation and mitigation options. Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.",
+      "Generated Summary": "The risks of delayed climate mitigation are severe, leading to increased global warming, reduced effectiveness of adaptation, and rising climate risks. These delays threaten sustainable development and future resilience.",
+      "ROUGE-1 Precision": 0.6206896551724138,
+      "ROUGE-1 Recall": 0.19148936170212766,
+      "ROUGE-1 F1": 0.2926829268292683,
+      "ROUGE-2 Precision": 0.2857142857142857,
+      "ROUGE-2 Recall": 0.08602150537634409,
+      "ROUGE-2 F1": 0.1322314049586777,
+      "ROUGE-L Precision": 0.41379310344827586,
+      "ROUGE-L Recall": 0.1276595744680851,
+      "ROUGE-L F1": 0.19512195121951217
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.753953218460083,
+      "BERTScore Recall": 0.621587872505188,
+      "BERTScore F1": 0.6814019083976746
+    }
+  },
+  {
+    "sub section 7.1": "Effective climate action requires institutional measures such as increased financing, reducing barriers to investment, enhancing international cooperation, and promoting technological innovations.",
+    "rouge": {
+      "Reference Summary": "Government actions at sub-national, national and international levels, with civil society and the private sector, play a  crucial role in enabling and accelerating shifts in development pathways towards sustainability and climate resilient development. Climate resilient development is enabled when governments, civil society and the private sector make inclusive development choices that prioritize risk reduction, equity and justice, and when decision-making processes, finance and actions are integrated across governance levels, sectors, and timeframes . Enabling conditions are differentiated by national, regional and local circumstances and geographies, according to capabilities, and include: political commitment and follow-through, coordinated policies, social and international cooperation, ecosystem stewardship, inclusive governance, knowledge diversity, technological innovation, monitoring and evaluation, and improved access to adequate financial resources, especially for vulnerable regions, sectors and communities.",
+      "Generated Summary": "Effective climate action requires institutional measures such as increased financing, reducing barriers to investment, enhancing international cooperation, and promoting technological innovations.",
+      "ROUGE-1 Precision": 0.42857142857142855,
+      "ROUGE-1 Recall": 0.07086614173228346,
+      "ROUGE-1 F1": 0.12162162162162163,
+      "ROUGE-2 Precision": 0.1,
+      "ROUGE-2 Recall": 0.015873015873015872,
+      "ROUGE-2 F1": 0.0273972602739726,
+      "ROUGE-L Precision": 0.3333333333333333,
+      "ROUGE-L Recall": 0.05511811023622047,
+      "ROUGE-L F1": 0.0945945945945946
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.7388991117477417,
+      "BERTScore Recall": 0.5648806095123291,
+      "BERTScore F1": 0.6402765512466431
+    }
+  },
+  {
+    "sub section 7.2": "The risks of continued emissions pose significant threats, including the exhaustion of carbon budgets, increased climate risks, and constrained development pathways. Urgent action is necessary to prevent these outcomes.",
+    "rouge": {
+      "Reference Summary": "Continued emissions will further affect all major climate system components, and many changes will be irreversible on  centennial to millennial time scales and become larger with increasing global warming. Without urgent, effective, and equitable mitigation and adaptation actions, climate change increasingly threatens ecosystems, biodiversity, and the livelihoods, health and well-being of current and future generations.",
+      "Generated Summary": "The risks of continued emissions pose significant threats, including the exhaustion of carbon budgets, increased climate risks, and constrained development pathways. Urgent action is necessary to prevent these outcomes.",
+      "ROUGE-1 Precision": 0.3448275862068966,
+      "ROUGE-1 Recall": 0.17857142857142858,
+      "ROUGE-1 F1": 0.23529411764705882,
+      "ROUGE-2 Precision": 0.03571428571428571,
+      "ROUGE-2 Recall": 0.01818181818181818,
+      "ROUGE-2 F1": 0.024096385542168672,
+      "ROUGE-L Precision": 0.20689655172413793,
+      "ROUGE-L Recall": 0.10714285714285714,
+      "ROUGE-L F1": 0.1411764705882353
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.654737651348114,
+      "BERTScore Recall": 0.5765268802642822,
+      "BERTScore F1": 0.6131482720375061
+    }
+  },
+  {
+    "sub section 7.3": "There is a pressing urgency for immediate climate action, as choices made in this decade will significantly influence the success of future mitigation and adaptation strategies and the overall health of the planet.",
+    "rouge": {
+      "Reference Summary": "Evidence of observed adverse impacts and related losses and damages, projected risks, levels and trends in vulnerability  and adaptation limits, demonstrate that worldwide climate resilient development action is more urgent than previously assessed in AR5. Climate resilient development integrates adaptation and GHG mitigation to advance sustainable development for all. Climate resilient development pathways have been constrained by past development, emissions and climate change and are progressively constrained by every increment of warming, in particular beyond 1.5°C.",
+      "Generated Summary": "There is a pressing urgency for immediate climate action, as choices made in this decade will significantly influence the success of future mitigation and adaptation strategies and the overall health of the planet.",
+      "ROUGE-1 Precision": 0.3333333333333333,
+      "ROUGE-1 Recall": 0.14102564102564102,
+      "ROUGE-1 F1": 0.1981981981981982,
+      "ROUGE-2 Precision": 0.03125,
+      "ROUGE-2 Recall": 0.012987012987012988,
+      "ROUGE-2 F1": 0.01834862385321101,
+      "ROUGE-L Precision": 0.21212121212121213,
+      "ROUGE-L Recall": 0.08974358974358974,
+      "ROUGE-L F1": 0.12612612612612611
+    },
+    "bertscore": {
+      "BERTScore Precision": 0.6057794690132141,
+      "BERTScore Recall": 0.5582471489906311,
+      "BERTScore F1": 0.5810428261756897
+    }
+  }
+]
