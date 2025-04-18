@@ -13,6 +13,7 @@ Thumbs.db
 venv/
 
 # Ignore Python compiled files
+**/__init__.py
 __pycache__/
 *.py[cod]
 *.pyo
