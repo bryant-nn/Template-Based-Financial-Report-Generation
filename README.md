@@ -5,20 +5,32 @@ _To appear in the Proceedings of the 48th International ACM SIGIR Conference on 
 
 ## 👤 Authors
 
-
-<a href="https://github.com/bryant-nn">
-<img src="https://github.com/bryant-nn.png" width="40"/> Yong-En Tian
-</a>
-
-<br>
-
-<a href="https://github.com/tommytyc">
-<img src="https://github.com/tommytyc.png" width="40"/> 
-Yu-Chien Tang
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/bryant-nn">
+        <img src="https://github.com/bryant-nn.png" width="60px"><br>
+        <sub><b>Yong-En Tian</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tommytyc">
+        <img src="https://github.com/tommytyc.png" width="60px"><br>
+        <sub><b>Yu-Chien Tang</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KuangDW">
+        <img src="https://github.com/KuangDW.png" width="60px"><br>
+        <sub><b>Kuang-Da Wang</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 📎 [Paper link coming soon]
+
 
 ---
 
