@@ -1,10 +1,14 @@
 # 📄 Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval
 
-This repository contains the source code, data, and results for our paper:
+**Official Implementation for _Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval_ (SIGIR 2025)**  
+_To appear in the Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)_
 
-    Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval
+**Authors:**  
+Yong-En Tian, Yu-Chien Tang, Kuang-Da Wang, An-Zi Yen, Wen-Chih Peng
 
-    📎 [Paper link coming soon]
+📎 [Paper link coming soon]
+
+---
 
 
 ## 📦 Requirements
