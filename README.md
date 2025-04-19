@@ -3,8 +3,17 @@
 **Official Implementation for _Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval_**  
 _To appear in the Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)_
 
-**Authors:**  
-Yong-En Tian, Yu-Chien Tang, Kuang-Da Wang, An-Zi Yen, Wen-Chih Peng
+## 👤 Authors
+
+<a href="https://github.com/bryant-nn">
+  <img src="https://github.com/bryant-nn.png" width="40"/> Yong-En Tian
+</a>
+
+<a href="https://github.com/tommytyc">
+  <img src="https://github.com/tommytyc.png" width="40"/> 
+  Yu-Chien Tang
+</a>
+
 
 📎 [Paper link coming soon]
 
