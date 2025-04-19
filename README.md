@@ -5,33 +5,31 @@ _To appear in the Proceedings of the 48th International ACM SIGIR Conference on 
 
 ## 👤 Authors
 
-<div align="center" style="display: flex; justify-content: left; flex-wrap: wrap; gap: 20px;">
-
-<div style="text-align: center;">
-  <a href="https://github.com/bryant-nn">
-    <img src="https://github.com/bryant-nn.png" width="80px" style="border-radius: 8px;"><br>
-    <sub><b>Yong-En Tian</b></sub>
-  </a>
-</div>
-
-<div style="text-align: center;">
-  <a href="https://github.com/tommytyc">
-    <img src="https://github.com/tommytyc.png" width="80px" style="border-radius: 8px;"><br>
-    <sub><b>Yu-Chien Tang</b></sub>
-  </a>
-</div>
-
-<div style="text-align: center;">
-  <a href="https://github.com/KuangDW">
-    <img src="https://github.com/KuangDW.png" width="80px" style="border-radius: 8px;"><br>
-    <sub><b>Kuang-Da Wang</b></sub>
-  </a>
-</div>
-
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="130">
+      <a href="https://github.com/bryant-nn">
+        <img src="https://github.com/bryant-nn.png" width="80px"><br>
+        <sub><b>Yong-En Tian</b></sub>
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://github.com/tommytyc">
+        <img src="https://github.com/tommytyc.png" width="80px"><br>
+        <sub><b>Yu-Chien Tang</b></sub>
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://github.com/KuangDW">
+        <img src="https://github.com/KuangDW.png" width="80px"><br>
+        <sub><b>Kuang-Da Wang</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 📎 [Paper link coming soon]
+
 
 
 
