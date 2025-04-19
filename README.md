@@ -5,18 +5,18 @@ _To appear in the Proceedings of the 48th International ACM SIGIR Conference on 
 
 ## 👤 Authors
 
-<div style="margin-bottom: 10px;">
-    <a href="https://github.com/bryant-nn">
-    <img src="https://github.com/bryant-nn.png" width="40"/> Yong-En Tian
-    </a>
-</div>
 
-<div style="margin-bottom: 10px;">
-    <a href="https://github.com/tommytyc">
-    <img src="https://github.com/tommytyc.png" width="40"/> 
-    Yu-Chien Tang
-    </a>
-</div>
+<a href="https://github.com/bryant-nn">
+<img src="https://github.com/bryant-nn.png" width="40"/> Yong-En Tian
+</a>
+
+<br>
+
+<a href="https://github.com/tommytyc">
+<img src="https://github.com/tommytyc.png" width="40"/> 
+Yu-Chien Tang
+</a>
+
 
 📎 [Paper link coming soon]
 
@@ -124,6 +124,10 @@ SumIPCC/data/
         └── report_template.py      # Report template structure
 
 ```
+
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 
 ## 📄 Citation
