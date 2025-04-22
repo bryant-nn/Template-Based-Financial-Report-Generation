@@ -28,7 +28,7 @@ _To appear in the Proceedings of the 48th International ACM SIGIR Conference on 
   </tr>
 </table>
 
-📎 [Paper link coming soon]
+📎 [Paper link](https://arxiv.org/abs/2504.14233)
 
 
 
