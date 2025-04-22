@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2021, SSNLF reported total revenue of KRW 65.4 trillion, which reflects a 6.2% increase compared to Q4 2020. This increase is attributed to strong contributions from smartphone sales, particularly from a sales volume of approximately 81 million handsets and 8 million tablets, leading to a blended average selling price (ASP) of approximately US$243. Year-over-Year, the revenue figures indicate growth, but specific YoY comparison numbers were not detailed. The revenue surpasses guidance provided for Q4 2020 due to strong market demand and successful product lineup.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific wafer sales figures for SSNLF in Q1 2021 were not provided. However, it's noted that the strong performance in related product categories contributed to overall financial health. The breakdown of wafer quantity and ASP is not available from the current context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.33"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2021, the sales figures by segment for SSNLF indicated strong contributions from their mobile business, particularly in smartphones, TVs, and digital appliances. The operating profit for the mobile segment grew significantly, supported by the high-demand environment. Management comments emphasized continued focus on innovation and adaptation to market trends.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Detailed guidance, forecasts, or trends by segment for Q2 2021 or the full year were not listed, though revenue figures suggest continued positive momentum.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

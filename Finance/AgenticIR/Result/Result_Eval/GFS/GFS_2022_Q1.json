@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2022, GFS reported a revenue growth of 37% year-over-year, driven by increased wafer shipments and average selling prices (ASP). The adjusted gross margin improved to 25%. Specific revenue figures were not provided, but compared to guidance from Q4 2021, the results exceeded expectations, reflecting strong demand and operational execution despite challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q1 2022, GFS shipped approximately 625,000 wafers, with an average selling price (ASP) increase of about 19% year-over-year.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales by segment or platform for GFS in Q1 2022 are not specified, but overall revenue grew by 37% year-over-year, with single-source revenue growing 48%, making up about two-thirds of total revenue.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q2 2022, GFS expects total revenue to be between $1.955 and $1.985 billion, with non-wafer revenue around 8.5% of total revenue.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

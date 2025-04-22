@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "For Q4 2022, TSMC reported a total revenue of TWD 625.4 billion, reflecting a year-over-year growth of approximately 10%. The revenue decreased by 1.5% compared to the previous quarter, attributed to end market demand softness and customers' inventory adjustments. The revenue results exceeded the guidance set in Q3 2022, which did not foresee such resilience in growth.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q4 2022, TSMC's wafer sales were driven significantly by advanced technologies, with 54% of wafer revenue generated from 7-nanometer and smaller nodes. The breakdown includes 32% from 5-nanometer technologies and 22% from 7-nanometer technologies. However, specific quantities and average selling prices (ASP) are not detailed in the available context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "TSMC's sales by segment or platform in Q4 2022 indicated a diversified revenue distribution: High-Performance Computing (HPC) accounted for 42%, smartphones for 38%, Internet of Things (IoT) for 8%, Automotive for 6%, and Data Center Equipment (DCE) for 2%. Management commented on the strong technology leadership and differentiation amid inventory corrections in the semiconductor market.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q1 2023, TSMC's sales guidance suggests a slight revenue decrease of approximately 1.5%. The forecast for the full year indicates slight growth in U.S. dollar terms, even as the overall semiconductor market (excluding memory) anticipates a decline of about 4% due to reduced consumer demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

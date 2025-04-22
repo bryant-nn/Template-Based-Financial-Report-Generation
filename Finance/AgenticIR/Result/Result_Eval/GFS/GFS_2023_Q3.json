@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2023, GFS achieved total revenue of approximately $1.852 billion, representing a 24% increase compared to Q2 2023 and a remarkable 219% increase year-over-year. This significant growth was primarily driven by increased volumes, higher average selling prices (ASP), and an advantageous product mix, particularly in automotive applications. The automotive segment constituted about 17% of total revenue, witnessing a sequential revenue increase of approximately 24% and a staggering 219% increase year-over-year. This performance affirms the company’s strong market positioning with forecasts indicating a delivery of around $1 billion in automotive revenue for 2023. Furthermore, compared to the guidance provided in Q2 2023, revenue surpassed expectations due to robust demand fulfillment.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "0.75"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "5.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q3 2023, GFS reported a total shipment of approximately 575,000 wafers, although the average selling price (ASP) saw a decline of about 2% year-over-year due to a shift in product mix. Despite the decrease in ASP, management maintains a positive outlook regarding stable pricing conditions going forward.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q3 2023, GFS's automotive segment was the standout performer, contributing significantly to overall revenue with a gross profit of $541 million and a gross margin of approximately 29.2%. Management emphasized the strong growth driven by increased volumes, ASPs, and a clear focus on supply chain stability.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking ahead to Q4 2023, GFS expects total revenue to be between $1.825 billion and $1.875 billion, reflecting an ongoing strong demand forecast, with non-wafer revenue anticipated to represent around 11% of total revenue.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

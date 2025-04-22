@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2021, SSNLF reported total revenue of approximately W74 trillion (around $63.67 billion), marking a 16.2% increase from Q2 2021 and a 10.5% rise compared to Q3 2020. The growth was driven by robust sales of foldable smartphones, increased memory shipments, and OLED sales, despite facing supply chain disruptions and soft demand for client SSDs. The company aimed to normalize inventory levels which were extremely low at the end of the previous quarter, anticipating a recovery in demand for the upcoming quarters. This positive outlook indicates that annual revenue is expected to exceed previous records.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.67"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific details regarding the breakdown of wafer sales in Q3 2021, including wafer quantity and Average Selling Price (ASP), were not provided. However, it was noted that the overall wafer ASP increased due to strong demand for advanced process SoCs and GPUs, contributing significantly to the total semiconductor revenue of approximately $18.5 billion. This demand is expected to continue growing, particularly with the launch of new 5G smartphones.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales figures and margin levels by segment/platform for Q3 2021 indicated solid performance in foldable smartphones and increased memory shipments, although specific numbers were not provided. Management commented on the effective supply chain management which helped facilitate this growth.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance for Q4 2021 suggests an anticipated decline of about 10% in revenue, potentially influenced by market saturation in certain segments, although continued strength in smartphone sales is expected.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "The total revenue for UMC in Q4 2024 is not specified, but the revenue for Q3 2024 was NT$50.5 billion. The quarter is influenced by strong demand for 22 and 28 nanometer products, alongside rising utility and carbon tax costs. There are no specific YoY or QoQ changes detailed. Guidance from Q3 indicated alignment with performance expectations, but full comparison data for Q4 results is not available.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The total wafer sales quantity for UMC in 2024 Q4 is not specified. The Average Selling Price (ASP) for wafers is expected to remain flat. There is no detailed breakdown of wafer sales figures provided, but it hints at stable wafer shipments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Specific total sales figures by segments for UMC in Q4 2024 are not provided. However, the management has noted performance experiences challenges particularly due to increased costs but maintains an optimistic outlook for long-term profitability.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance for Q1 2025 by segment is not detailed in the provided context, and specific trends or forecasts for the full year 2025 are also absent.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

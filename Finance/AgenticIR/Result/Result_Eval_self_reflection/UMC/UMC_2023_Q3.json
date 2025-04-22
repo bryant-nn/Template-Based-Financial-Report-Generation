@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "UMC's total revenue for Q3 2023 was NT$57.1 billion, reflecting a 1.4% increase from NT$56.3 billion in Q2 2023. This growth is attributed to strong demand in computing and communication segments, particularly for LCD controllers and RF differentiation offerings. The net income for the quarter was NT$16 billion, with earnings per share (EPS) of NT$1.29. Looking ahead, UMC anticipates continued growth driven by favorable market conditions and product demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q3 2023, UMC's total wafer sales amounted to NT$57.1 billion. The quantity of wafers shipped declined by approximately 2%, indicating some stability despite the overall decline in market demand. The average selling price (ASP) per wafer is not explicitly provided in the context, reflecting a cautious inventory management approach by customers amidst challenging market conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The sales figures for UMC in Q3 2023 totaled NT$57.1 billion. The strong performance was driven by demand in the computing segment, particularly for LCD controllers, WiFi, Codec, and Touch IC controllers, as well as increased shipments in the communication segment due to RF front end IC and networking chips. However, specific segment margin levels are not detailed in the context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The context does not provide specific sales guidance or forecast figures for UMC in Q4 2023 or for the full year by segment/platform. However, it indicates that demand has stabilized, particularly in computing and communication segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

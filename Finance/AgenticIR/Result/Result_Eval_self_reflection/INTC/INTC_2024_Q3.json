@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2024, Intel's revenue was $13.3 billion, a 4% increase sequentially from $12.8 billion in Q2 2024. Year-over-year, revenue declined by 8% from $14.5 billion in Q3 2023. This growth was driven primarily by increased demand in the data center segment, particularly for traditional servers, despite challenges such as significant reductions in shipments to China. The revenue results were in the upper half of Intel's guidance provided in August 2024. Analysts expect continued improvements, projecting revenue to reach around $14 billion in Q4 2024 with the introduction of new product lines.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q3 2024, Intel reported wafer sales as part of the Foundry segment, which generated $4.4 billion in revenue. This segment experienced slight sequential growth, attributed to an increased mix of Intel's advanced wafer technologies. The detailed breakdown of wafer quantity and Average Selling Price (ASP) was not available but indicated a positive trend for future growth in wafer sales.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q3 2024, Intel's sales by segment included Intel Products with revenue of $12.2 billion and an operating profit margin of 27%, up 3% sequentially. The Foundry business reported $4.4 billion in revenue but incurred an operating loss of $5.8 billion due to challenges including significant impairment charges. Management expects improvements in the Foundry segment as operational adjustments are made and demand increases.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q4 2024, Intel anticipates overall revenue guidance in the range of $13.3 billion to $14.3 billion, reflecting high-single-digit sequential growth driven by demand stabilization and effective operational initiatives.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

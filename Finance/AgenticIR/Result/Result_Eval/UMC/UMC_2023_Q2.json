@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2023, UMC reported revenue of TWD 56.3 billion, a 3.8% increase QoQ, attributed to an improved product mix and higher average selling prices (ASP). Year-over-year, revenue declined by 18.4%. The results were in line with Q1 guidance, with wafer shipments remaining flat and a slight increase in utilization rate from 70% to 71%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The detailed wafer sales breakdown for UMC in Q2 2023 is not provided in the context. For specific wafer quantity and ASP, please refer to the full report available on UMC's website.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q2 2023, UMC reported consolidated revenue of TWD 56.3 billion with a gross margin of approximately 36%. The revenue from 22/28 nanometer products represented 29% of total sales. Management noted that the improved product mix contributed to revenue growth and that they expect minor increases from their 12A and P6 expansions in Q3.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "UMC's Q3 sales guidance indicates a minor increase due to the P6 expansion, but overall wafer demand outlook remains uncertain. Specific segment forecasts for Q3 or full year 2023 are not detailed in the provided context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

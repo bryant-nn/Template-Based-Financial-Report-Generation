@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2021, Intel reported total revenue of $19.2 billion, a decrease from $19.6 billion in Q3 2020. This represents a year-over-year decline caused primarily by lower demand in the PC segment and industry-wide supply constraints impacting overall performance. The Company achieved significant growth in the data center segment, but challenges in the component supply chain and regulatory issues in China adversely affected other areas. QoQ comparisons are not explicitly available, but guidance previously indicated anticipated revenue around $18.3 billion for Q4 2021, highlighting recovery efforts.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific wafer sales figures, including quantity and average selling price (ASP) for Q3 2021, were not disclosed in the retrieved data. This lack of information may be attributed to ongoing supply chain constraints and varying demand across customer segments, particularly in enterprise solutions and the PC market.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales results by segment for Q3 2021 highlighted a strong performance in the Internet of Things Group (IOTG) with $1 billion in revenue and a significant operating margin increase of 352% year-over-year. The Client Computing Group (CCG) reported $9.7 billion in revenue, while the Data Center Group (DCG) continued to face challenges, primarily due to supply constraints. Management emphasized the resilience of demand in government and enterprise sectors, despite ongoing shipping challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q4 2021, Intel forecasts revenue to be approximately $18.3 billion, slightly higher than Q3 2021 figures. The ongoing demand in the data center segment remains a focal point, though supply challenges are expected to affect performance. The Company anticipates a steady outlook with some growth in the edge business.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

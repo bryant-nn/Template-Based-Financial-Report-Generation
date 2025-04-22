@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2024, UMC reported total revenue of NT$56.8 billion, reflecting a 2.5% increase from Q1 2024, which was NT$54.8 billion. Compared to Q2 2023, revenue remained nearly flat, indicating stable market conditions. The primary drivers behind the QoQ growth included a rise in wafer shipments and improved demand in the consumer segment, with management expecting momentum to continue in the 20 to 28 nanometer segment. There were no specific revenue guidance figures provided for Q1 2024 for direct comparison.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "UMC reported wafer sales quantity for Q2 2024 at 831,000 12-inch wafers. The average selling price (ASP) was not explicitly provided, although the total revenue indicates significant contributions from wafer sales alongside a 2.5% increase in shipments compared to the previous quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "UMC's Q2 2024 sales were segmented by key divisions including strong performance in the consumer segment, which notably increased during this quarter. The 20 to 28 nanometer business contributed approximately 33% to the total revenue, while there was a decline in the 40-nanometer segment, decreasing from 14% to 12%. Management noted that the shift in sales dynamics was due to competitive pressures and changing market demands.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking ahead, UMC expects positive sales trends in Q3 2024, with revenue anticipated to follow a seasonal pattern matched by demand recovery in key segments, particularly consumer communication and computing. Management noted that although the automotive segment faced softer demand, a gradual recovery was expected.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

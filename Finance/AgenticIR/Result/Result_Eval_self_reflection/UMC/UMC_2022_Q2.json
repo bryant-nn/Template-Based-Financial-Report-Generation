@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2022, UMC's revenue reached NT$72 billion, reflecting a 13.6% increase QoQ and a significant 38.2% increase YoY. This growth was primarily driven by strong demand across various end-markets, including the 22/28 nanometer portfolio, which saw a 29% revenue increase sequentially. Management noted that the results were in line with previous guidance from Q1 2022, which anticipated a gross margin in the mid-40% range. Factors influencing the revenue changes included favorable foreign exchange rates and adjusted product mixes due to inventory corrections in the semiconductor industry.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q2 2022, UMC's wafer shipments increased by 4.3% from the previous quarter, although specific figures for total quantity and average selling price (ASP) were not disclosed. Strong demand for UMC's differentiated processes was highlighted, particularly in the 22/28 nanometer category, which contributed significantly to the company's overall growth. Management expects that wafer shipments and ASP will remain stable in light of market conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The sales breakdown for Q2 2022 indicated a slight increase in IDM (Integrated Device Manufacturer) contributions to approximately 14% of overall sales. Although specific segment revenue figures were not disclosed, strong growth was reported across the board due to the increased appeal of the 22/28 nanometer technologies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q3 2022, UMC's guidance indicates that wafer shipments and ASP are expected to remain flat, with gross profit margins projected to continue in the mid-40% range and a capacity utilization rate anticipated at 100%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

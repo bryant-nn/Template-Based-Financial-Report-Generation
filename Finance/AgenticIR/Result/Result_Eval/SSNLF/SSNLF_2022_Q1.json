@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "The revenue results for SSNLF in Q1 2022 are not specified in the retrieved context, thus QoQ and YoY changes cannot be determined. Comparisons with Q4 2021 guidance are not available.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Details of wafer sales quantity and average selling price (ASP) for Q1 2022 have not been provided in the data retrieved.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Segmented sales by platform and respective margin levels have not been captured in the available data for Q1 2022.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Analysts foresee continued uncertainties impacting Q2 2022 sales for SSNLF, especially due to geopolitical tensions and supply chain challenges, while anticipating strong demand in specific domains like high-performance and commercial PCs.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

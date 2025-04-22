@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2024, Intel's revenue reached $12.8 billion, reflecting a 1% increase from Q1 2024 but a 1% decrease year-over-year compared to Q2 2023. The slight QoQ improvement was primarily driven by strong demand in data center segments, while the YoY decline was attributed to competitive pressures and lower client market activity. Intel's guidance from Q1 2024 projected $12.5 billion to $13.5 billion, aligning with actual revenues.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific figures for wafer sales quantity and Average Selling Price (ASP) for Q2 2024 were not detailed. However, it was noted that there is increased interest in advanced packaging technology, indicating potential growth in this area.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "0.50"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales by segment for Q2 2024 showed strong contributions from the data center market, whereas the client segment remained flat to down. Specific segment margins were not disclosed, though management noted increased revenues and margins coming from emerging technologies and advanced manufacturing solutions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q3 2024, Intel anticipates revenue between $12.5 billion and $13.5 billion, predicting growth primarily in the data center and edge markets, while the client business is expected to remain flat to down.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

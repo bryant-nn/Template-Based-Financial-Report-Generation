@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2021, Intel (INTC) reported revenue of $18.5 billion, surpassing guidance by $700 million, representing a 6% year-over-year increase. The growth was mainly driven by strong performance in the PC business and recovery in the IoTG and enterprise data center segments. QoQ changes were attributed to increased demand amid industry constraints.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific figures for wafer sales, quantity, or average selling price (ASP) for INTC in Q2 2021 were not provided. It was noted that INTC is ramping up 10-nanometer wafer production, which has lower costs year-over-year, in response to increased demand in the overall semiconductor market.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales by segment in Q2 2021 included revenues of $6.5 billion from the Data Center Group, with an operating margin that saw a decrease year-over-year due to lowered revenue and increased R&D investments. The Internet of Things Group reported $984 million in revenue, reflecting recovery from COVID-related losses. Overall performance was challenged by market conditions but indicated strong demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Detailed sales guidance and trends for Q3 2021 were not provided, but the outlook for the Data Center sector remains positive, driven by expected growth in cloud services and competitive product offerings.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

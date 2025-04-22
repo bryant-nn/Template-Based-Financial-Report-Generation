@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2021, UMC reported consolidated revenue of TWD 50.91 billion, reflecting an 8.1% increase QoQ. The year-over-year growth was also significant, attributed to a 3% increase in wafer shipments and higher average selling prices driven by strong demand from 5G adoption and digital transformation. UMC maintained a 100% utilization rate in its manufacturing facilities, contributing to this revenue growth. The company anticipates continued demand and potential capacity increases in the upcoming quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "UMC's wafer sales quantity for Q2 2021 was 2.44 million 8-inch equivalents, with an average selling price (ASP) reflecting an increase of about 6% compared to the previous quarter. This increase in ASP was driven by robust semiconductor demand amid ongoing supply chain challenges, contributing to total revenue of TWD 50.91 billion for the quarter. UMC expects continued growth in wafer sales as market demand remains strong.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Details on the sales by segment or platform for UMC in Q2 2021 are somewhat unspecified but management emphasized strong demand driven by 5G and clean energy. They noted the impact of operational efficiency reflected in a 100% utilization rate and ongoing cost reduction efforts.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q3 2021, UMC anticipates a 1% to 2% increase in wafer shipments along with a 6% rise in ASP, continuing the strong performance seen in the previous quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

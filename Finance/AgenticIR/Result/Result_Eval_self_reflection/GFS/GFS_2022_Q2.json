@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2022, GFS reported revenue growth of 23% year-over-year, reflecting increased wafer shipments and higher average selling prices. Although specific revenue figures were not disclosed, the automotive market grew 34% year-over-year, while communications and data center segments saw a 50% increase, indicating strong demand and market share gains. This growth is supported by robust demand in sectors like IoT and automotive, leading to above guidance expectations, particularly an earnings per share of $0.58, which exceeded guidance by $0.10.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific details regarding wafer sales, including the breakdown of wafer quantity and ASP, were not provided. However, it is noted that the revenue growth was largely driven by an increase in wafer shipments and ASP, contributing to the overall strong financial performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "GFS provided strong performance across various segments in Q2 2022. The automotive segment represented approximately 4% of total revenue and grew by 34% year-over-year, while the communications infrastructure and data center segment accounted for around 17% of revenue, showing a growth of 50%. This segment performance underscores GFS's strong positioning in high-demand markets.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "GFS anticipates Q3 2022 revenue to be between $2.035 billion and $2.065 billion, with an expectation for continued robust performance, particularly driven by growth in the automotive and communications infrastructure segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

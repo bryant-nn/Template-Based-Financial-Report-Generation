@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2022, TSMC reported a revenue of TWD 1.3 trillion, representing an increase of 8.8% quarter-over-quarter and 3.4% year-over-year. This growth was driven by strong demand across sectors including high-performance computing, IoT, and automotive. The revenue results slightly exceeded the guidance provided in the Q1 earnings call, which anticipated a sequential increase of approximately 11.2% for Q3. Reasons for the positive performance included favorable foreign exchange rates, cost improvements, and robust demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific wafer sales results, including wafer quantity and ASP, were not explicitly reported in the context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Details regarding sales figures by segment or platform for TSMC in Q2 2022 were not explicitly covered in the context. Management noted sustained demand in the data center and automotive segments, despite softness in the consumer markets.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "TSMC anticipated Q3 2022 revenue to be between $19.8 billion and $20.6 billion, with mid-30% growth projected for the year, driven by robust customer demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2023, SSNLF reported total revenue of KRW 63.7 trillion, reflecting a 9.5% decline QoQ. The revenue drop was primarily driven by decreased demand in the Memory business and other components, influenced by weakening consumer sentiment amid global economic uncertainties. However, the DX division saw increased revenue due to strong sales of new flagship smartphone models. Looking ahead, the company aims for annual revenue growth in 2023 by improving product mix and operational efficiencies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not provide specific figures for wafer sales quantity and Average Selling Price (ASP) for SSNLF in Q1 2023. Additionally, the overall demand for semiconductors has contracted due to macroeconomic uncertainties, impacting sales. There is no guidance or expectations mentioned for future performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "SSNLF's consolidated revenue was KRW 63.7 trillion, with the DX division benefiting from strong flagship smartphone sales. The overall market faced challenges due to weakening consumer sentiment and economic uncertainties, impacting the Memory and component businesses significantly. Sales figures by segment/platform were not detailed in the provided context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance for Q2 2023 indicates expected revenue recovery in the low to mid smartphone segment, driven by improved demand and the success of the S23 series. However, the TV market is projected to experience negative growth due to ongoing market contraction.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

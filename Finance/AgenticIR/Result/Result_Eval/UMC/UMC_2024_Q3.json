@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2024, UMC reported total revenue of NT$50.5 billion, reflecting a QoQ increase of 7.8% in wafer shipments. This growth was primarily driven by strong demand for 22 and 28 nanometer products, alongside record-high revenues from their specialty technology portfolio, which accounted for 53.1% of total sales. The revenue results for Q3 2024 were in line with the revenue guidance provided in Q2 2024.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific figures for total wafer sales and the breakdown of wafer quantity sold by UMC in Q3 2024 were not provided. However, the Average Selling Price (ASP) for wafers is expected to remain flat in U.S. dollars for this period.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "0.50"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q3 2024, UMC's revenue was predominantly derived from their specialty portfolio, accounting for 53.1%. Specific details regarding sales by segment/platform and margin levels were not provided.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "0.50"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "UMC's Q4 2024 guidance anticipates that wafer shipments and ASP in U.S. dollars will remain flat. However, the appreciation of the NT dollar may lead to a decline in reported NT dollar revenue with gross margins expected to drop to about 30%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

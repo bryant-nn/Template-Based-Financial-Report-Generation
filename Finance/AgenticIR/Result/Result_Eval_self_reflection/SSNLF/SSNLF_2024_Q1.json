@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2024, SSNLF reported revenue of KRW 71.9 trillion, reflecting a 6% increase quarter-on-quarter (QoQ). The growth was primarily driven by strong sales of the Galaxy S24 smartphone series and higher average selling prices (ASPs) in the memory segment, supported by improved market conditions. Year-on-year (YoY) changes were not specified. Additionally, the operating profit rose to KRW 6.6 trillion, with a gross profit of KRW 26 trillion, indicating overall strong financial performance despite increased SG&A expenses.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.75"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not provide specific figures for wafer sales quantity or Average Selling Price (ASP) for SSNLF in Q1 2024. However, SSNLF reported strong overall purchase demand in the memory market, particularly driven by applications in generative AI, suggesting a robust market outlook despite the lack of detailed figures.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The specific sales data by segment or platform for SSNLF in 2024 Q1 were not detailed. However, sales were driven significantly by the Galaxy S24 smartphone series and improved conditions in the memory market, suggesting varied margin contributions across segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The context does not provide specific sales guidance or forecast for SSNLF by segment for 2024 Q2 or the full year.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

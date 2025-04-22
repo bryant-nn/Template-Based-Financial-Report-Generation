@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "For Q2 2023, TSMC reported total revenue of approximately $15.43 billion, which reflects a quarterly decrease of 5.5% from Q1 2023 and a year-over-year decrease of 6.2%. The decline in revenue is attributed to global economic conditions affecting end market demand and customers adjusting their inventory levels. Additionally, lower capacity utilization and increased costs of electricity contributed to this decline. Although there was no specific revenue guidance from Q1 2023, the updated outlook for the second half of 2023 indicates a potential revenue growth of 10% to 12% compared to the first half.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "TSMC's wafer sales for Q2 2023 totaled approximately $15.43 billion. Unfortunately, detailed figures on the breakdown of wafer quantity sold and the Average Selling Price (ASP) for wafers were not provided in the context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.50"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Specific details regarding sales figures by segment/platform for TSMC in Q2 2023 were not available. However, it was noted that overall market demand is weak, except for AI applications, which are seeing stronger performance. Management did not provide explicit sales figures for individual segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.33"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "No specific sales guidance was provided for Q3 2023 by segment, but TSMC anticipates a 10% to 12% revenue increase in the second half of 2023 compared to the first half due to improving market conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

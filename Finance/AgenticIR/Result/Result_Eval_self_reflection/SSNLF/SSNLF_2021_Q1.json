@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2021, SSNLF reported total revenue of KRW 65.4 trillion, reflecting a 6.2% increase QoQ and an 18.2% increase YoY. This growth was primarily driven by strong smartphone sales and heightened demand for PC and mobile LED memory, despite challenges in the display business. The operating profit rose to KRW 9.4 trillion, supported by improved profitability in the consumer electronics division. The display business faced weak seasonality, impacting overall performance, but increased utilization of mobile OLEDs contributed positively. Looking ahead, the company remains focused on navigating market challenges while capitalizing on strong product demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.40"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.20"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The total wafer sales revenue for SSNLF in Q1 2021 was included in the overall revenue figure of KRW 65.4 trillion. Specific figures regarding wafer quantity sold and Average Selling Price (ASP) are not provided in the context. The strong revenue was driven by solid smartphone sales and demand for PC and mobile LED memory, despite challenges like COVID-19 and production disruptions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2021, SSNLF's sales figures by segment included strong contributions from the IM division, primarily through strong smartphone sales, while other sectors like display and semiconductor faced declines. Specific margin levels for each segment are not clearly defined, and management comments focused on ongoing challenges from COVID-19 impacts but expressed optimism for future performance driven by demand in key segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q2 2021, SSNLF anticipates semiconductor earnings to grow due to improving memory market conditions, projecting revenue growth of approximately 10%. However, the IM Division is projected to see a decline in revenue by around 5% as new product effects weaken.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2024, SSNLF reported total revenue of KRW 71.9 trillion, which was an increase of 6% compared to Q4 2023. The revenue growth was primarily driven by strong sales of the Galaxy S24 smartphone series, higher average selling prices in memory due to improved market conditions, and a profitable memory business addressing demand for high-value added products. The year-on-year revenue change from Q1 2023 to Q1 2024 was not specified, and revenue guidance from Q4 2023 was also not provided in the context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific wafer sales volume and the average selling price (ASP) of wafers for SSNLF in Q1 2024 were not provided in the context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The sales figures by segment/platform for SSNLF in Q1 2024 were not detailed in the provided context. However, overall revenue reached KRW 71.9 trillion, with significant sales volumes in smartphones, including 60 million shipments of the Galaxy S24 series. The management commented on the strong performance across segments, with improved profitability in the Mobile eXperience and Memory businesses, despite challenges in the display segment.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance for segments in Q2 2024 indicates a decrease in smartphone shipments and ASP due to typical seasonal patterns, while tablet shipments are expected to remain stable. Overall market demand is projected to decline, particularly in the TV segment.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

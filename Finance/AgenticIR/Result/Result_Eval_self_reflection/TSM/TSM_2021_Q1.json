@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2021, TSMC reported revenue of approximately NT$ 362.4 billion (about USD 12.92 billion), which reflects a 0.2% increase QoQ in NT dollars and a 1.9% increase in USD. This growth was primarily driven by strong demand in high-performance computing (HPC) and 5G sectors, despite a milder smartphone seasonality. Compared to the guidance from Q4 2020, the revenue outlook was revised upward, indicating healthy demand across various applications.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific wafer sales data for TSMC in Q1 2021 is not explicitly detailed in the context provided. However, it was mentioned that 5-nanometer technology contributed 14% of wafer revenue, and 7-nanometer technology accounted for 35%. Advanced technologies (7-nanometer and below) collectively made up 49% of wafer revenue, underlining the company's focus on next-generation nodes.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2021, the performance by segment was robust with high HPC demand supporting revenue growth. The advanced technology nodes were the primary contributors to direct revenue streams, averaging 49% of total revenue. Management comments highlighted efforts to address tighter supply conditions caused by increasing global demand for semiconductors.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Although specific guidance or forecasts by segment for Q2 or the full year were not detailed, TSMC mentioned that demand would likely remain strong, supported by its production capabilities and customer commitments due to ongoing trends in technology adoption.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

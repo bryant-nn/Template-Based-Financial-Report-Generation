@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2024, SSNLF reported total revenue of KRW 74.1 trillion, a 3% increase from KRW 72 trillion in Q1 2024. Year-over-year, revenue showed a substantial rise compared to KRW 18.5 trillion in Q2 2023, reflecting a fourfold growth. This increase was mainly driven by a 23% growth in the Device Solutions (DS) Division, thanks to a recovery in the Memory business, alongside a remarkable 42% increase in Displays revenue due to strong OLED sales. However, the Mobile Experience (MX) division experienced a 19% decline due to weak smartphone demand. The anticipated growth in revenues is attributed to solid demand for high-value segments, despite challenges in the MX division. Comparatively, the guidance from Q1 2024 anticipated a steadier growth which was achieved, underlining the strength in the DS sector.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.60"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "5.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific wafer sales data for Q2 2024 was not provided. However, it is noted that continued strong demand in the Memory sector, particularly for DDR5 and HBM products, contributes significantly to overall revenue growth.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales by segment in Q2 2024 indicated SSNLF shipped 54 million smartphones and 7 million tablets. The average selling price for smartphones was pegged at $279, reflecting total smartphone revenue of approximately $15.06 billion. Despite the MX division's 19% revenue decline compared to Q1, the growth of the S24 Series showcased double-digit year-on-year revenue increases. Segment management comments emphasized strong growth in server SSD revenue and a favorable competitive landscape enhancing overall performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance by segment for Q3 2024 suggests further strengthening driven by robust demand for semiconductors, particularly within the Memory and IT OLED sectors. Management anticipates continued growth in revenue due to expected rebounds in mobile demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

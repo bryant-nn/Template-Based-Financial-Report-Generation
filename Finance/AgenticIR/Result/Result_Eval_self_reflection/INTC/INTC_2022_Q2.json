@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2022, Intel reported significant revenue challenges, generating $18.6 billion, a decrease from $19.6 billion in Q1 2022, and nearly 25% below expectations mainly due to difficulties in the PC market and data center segment. Year-over-year comparisons are not available. Management highlighted that they faced substantial inventory adjustments described as a \"once in 10-year\" occurrence as customers aligned their inventories with shifting demand. Despite these hurdles, they announced over 10 new revenue-generating product lines expected to launch in the latter half of 2022 and into 2023. Management remains optimistic about recovery, noting a strong replacement cycle for over 600 million PCs older than four years.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "0.75"
+            },
+            {
+                "Reasoning correctness": "0.75"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Details regarding wafer sales metrics, including the quantity sold and Average Selling Price (ASP) for Intel in Q2 2022, are not specified in the retrieved context. Challenges in supply chain and market conditions impacted performance, affecting the company’s ability to provide detailed financial performance metrics.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Specific sales figures by segment or platform, including their respective margins and management comments for Q2 2022, were not included. However, management acknowledged a significant shortfall in data center revenue, emphasizing ongoing adjustments to market conditions and cost reductions in response to a weakening PC market.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "0.50"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance or forecasts for Q3 2022 or the full year were not specified, but Intel indicated a strong potential for market recovery given the aging PC market and plans to improve product offerings in upcoming quarters.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

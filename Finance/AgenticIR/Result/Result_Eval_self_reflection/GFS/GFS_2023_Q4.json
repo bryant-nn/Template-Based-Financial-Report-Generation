@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2023, GFS reported revenue of $1.854 billion, reflecting a sequential increase from Q3 2023 where revenue was approximately $1.7 billion, and a year-over-year decrease of about 12% from Q4 2022, which was around $1.5 billion. The growth is attributed to improved demand and effective inventory management amidst ongoing semiconductor industry dynamics. While specific Q3 guidance was not detailed, management indicated expectations for continued revenue growth in 2024, driven by strong consumer demand and strategic initiatives.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q4 2023, GFS shipped approximately 552,300 millimeter equivalent wafers, generating total wafer revenue of about $1.854 billion. The average selling price (ASP) per wafer decreased by approximately 7% year-over-year, primarily due to changes in the product mix. This decline in ASP reflects ongoing inventory dynamics and competitive pressures in the semiconductor market. Despite this, GFS expects to see sequential revenue growth in 2024, indicating a cautious but optimistic outlook for wafer sales.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2023, GFS reported total revenue segmented by its various platforms. While the specific breakdown by segment/platform was not detailed, the management acknowledged the challenges posed by inflation and high interest rates. They expect to navigate these issues and anticipate a recovery in demand as inventory correction progresses into 2024. Non-wafer revenue for the quarter comprised around 11% of total revenue.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "0.33"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q1 2024, GFS expects total revenue to be between $1.5 billion and $1.54 billion, with a focus on cost management and stable demand in the semiconductor market despite ongoing inventory challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

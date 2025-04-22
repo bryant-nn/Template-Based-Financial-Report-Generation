@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2023, GFS reported revenue of $1.854 billion. This reflects a sequential increase from Q3 2023, although specific QoQ and YoY changes were not detailed. The growth in revenue can be attributed to inventory corrections and anticipated demand recovery in 2024, despite ongoing economic uncertainties. This aligns with the Q1 2024 guidance expecting revenue between $1.5 billion and $1.54 billion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "During Q4 2023, GFS shipped approximately 552,300 millimeter equivalent wafers. The average selling price (ASP) per wafer decreased by about 7% year-over-year, primarily due to changes in the product mix. Wafer revenues constituted about 88% of total revenue for the quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "GFS’s report shows significant revenue growth particularly in the automotive sector, with over $1 billion in revenue for the year attributed to expanding product offerings and multiple design wins. The management noted challenges arising from high inventory levels and interest rates but remained confident in sequential revenue growth for 2024.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "GFS expects sequential revenue growth in Q1 2024 with cautious optimism for the entire year, primarily driven by inventory corrections and improving demand trends, although uncertainties persist.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

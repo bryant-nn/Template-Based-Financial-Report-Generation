@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2023, UMC reported consolidated revenue of NT54.96 billion, indicating a 3.7% decline quarter-over-quarter (QoQ) and a substantial increase of 34.9% year-over-year (YoY). The decrease in revenue was primarily driven by ongoing macroeconomic challenges, resulting in a 2.5% drop in wafer shipments and a reduced fab utilization rate of 66%. These results fell short of Q3 2023 guidance, which had anticipated stronger revenue performance due to improved market conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "UMC's wafer sales for Q4 2023 were approximately $1.79 billion, with a noted decrease of 2.5% in wafer shipments compared to the previous quarter. The Average Selling Price (ASP) showed a single-digit percentage increase, and specifically, the 22/28 nanometer technology accounted for 36% of wafer revenue, reflecting robust demand in that segment.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2023, sales by segment reflected critical performance dynamics, with particular strengths seen in the 22/28 nm technology segment, which accounted for 36% of wafer revenue. Management comments indicated a commitment to improving production processes and enhancing capacity usage going forward.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance for Q1 2024 suggests a mild increase in wafer demand, particularly in the 22/28 nm nodes, while also noting that pricing adjustments might be necessary to align with market dynamics.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

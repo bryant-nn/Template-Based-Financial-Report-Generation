@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2023, UMC's total revenue was TWD 54.2 billion, down 20.1% from TWD 67.9 billion in Q4 2022 and a decrease from TWD 60.5 billion in Q1 2022. The decline was primarily due to sluggish wafer demand and elevated inventory levels as customers adjusted to market conditions. Despite stable average selling prices, the overall semiconductor market faced challenges, impacting UMC's performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q1 2023, UMC's wafer shipments totaled 126,000 equivalent wafers, representing a 17.5% decline quarter-over-quarter. The consolidated revenue from these shipments was TWD 54.2 billion, with a gross margin of 35.5%. The specific average selling price (ASP) value was not disclosed, but it remained firm amidst the revenue decline.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2023, UMC's consolidated revenue was TWD 54.2 billion with a gross margin of 35.5%. Automotive sales accounted for 17% of total revenue, indicating growth in that segment, while other segments faced declines due to sluggish wafer demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Missing",
+        "decomp_score": [
+            {
+                "Financial takeaways": 0.0
+            },
+            {
+                "Financial context": 0.0
+            },
+            {
+                "Reasoning correctness": 0.0
+            },
+            {
+                "Management expectation": 0.0
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

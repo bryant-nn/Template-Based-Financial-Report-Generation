@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2021, SSNLF reported total revenue of KRW 76.6 trillion. The revenue experienced fluctuations compared to previous quarters, with influences being the overall market landscape and fluctuations in memory prices. Comparison with Q3 2021 guidance indicates slight discrepancies influenced by unexpected demand shifts.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The data on wafer sales quantity for Q4 2021 is not specifically provided. However, the overall wafer Average Selling Price (ASP) for SSNLF in Q4 2021 saw a significant improvement year-on-year, driven by solid demand and increases in higher-end node offerings despite a decline from the previous quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The segment sales figures for Q4 2021 are not specifically detailed, but the overall revenue of KRW 76.6 trillion was largely driven by finished product segments such as premium smartphones, TVs, and home appliances. Feedback from management alluded to strong performance in these areas.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "In Q1 2022, SSNLF's Semiconductor Businesses anticipate a recovery in memory demand. For the Foundry segment, a focus on stabilizing yield and increasing supply is paramount, with finished product businesses emphasizing profit maintenance but lacking detailed sales guidance by segment.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2021, UMC reported consolidated revenue of TWD 50.91 billion, which represents an increase of 8.1% compared to the previous quarter. This growth was primarily driven by higher wafer shipments and increased average selling prices. The year-over-year comparison was not specifically detailed, and the results exceeded the revenue guidance provided in Q1 2021, indicating a strong demand in the market.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "UMC's total wafer shipments stood at 2.44 million 8-inch equivalent wafers in Q2 2021. The average selling price (ASP) saw an increase, contributing positively to the overall revenue performance of TWD 50.91 billion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In terms of sales by segment for Q2 2021, UMC's business was diversified, with contributions of 47% from communications, 26% from consumer, and a combined 16% from IDM and fabless segments. The overall gross margin was consistent at 31.3%. Management highlighted strong demand propelled by 5G adoption and digital transformation initiatives.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking ahead to Q3 2021, UMC forecasts an increase in wafer shipments by 1% to 2%, alongside a projected 6% rise in ASP and expectations of a gross profit margin within the mid-30% range, with the capacity utilization rate expected to reach 100%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2021, UMC reported revenue of TWD 47.1 billion, reflecting a 4% increase quarter-over-quarter (QoQ) and a significant rise from TWD 12.49 billion in Q1 2020. The revenue increase was driven by robust wafer demand and full capacity utilization. The results were in line with the guidance from Q4 2020, supported by higher average selling prices (ASP) and increased shipments, particularly in 28-nanometer technology, which is crucial for digital TVs and set-top boxes.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "UMC's wafer shipments in Q1 2021 reached 2.37 million 8-inch equivalents, contributing to consolidated revenue of TWD 47.1 billion. The specific average selling price (ASP) details were not provided, but the gross margin was reported at 26.5%, indicating improved profitability compared to previous periods stemming from strong demand for the company's products, particularly in 28-nanometer technology which accounted for a significant portion of the wafer business.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "UMC's consolidated revenue for Q1 2021 was TWD 47.1 billion, reflecting strong sales across segments primarily driven by advances in 28-nanometer technology. The gross margin stood at 26.5%, and management noted the challenges posed by ongoing supply chain issues, yet expressed confidence in maintaining strong operational performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Specific sales guidance for UMC by segment for Q2 2021 or the full year was not detailed in the information sourced. However, the company demonstrated strong performance amid substantial wafer demand in Q1.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2022, UMC reported revenue of NT$72 billion, reflecting a 13.6% increase from Q1 2022 and a 38.2% increase year-over-year. The primary drivers of this growth were strong demand for UMC's differentiated processes, higher average selling prices, and beneficial foreign exchange rates. However, the company experienced a net operating loss of NT$2.58 billion due to investment portfolio impacts from the capital market weaknesses. The diluted EPS for the quarter was NT$1.74, an increase from NT$1.61 in Q1 2022 and NT$0.98 in Q2 2021.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "UMC's wafer shipments rose by 4.3% in Q2 2022 compared to the prior quarter, with a gross margin of 46.5%. While specific quantities and ASP data are not detailed, the revenue from the 22/28 nanometer portfolio surged by 29% sequentially, adding to the overall performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q2 2022, UMC's reported revenue of NT$72 billion came alongside a significant gross margin of 46.5%. The company saw a 4.3% increase in wafer shipments, with the 22/28 nanometer revenue increasing by 29% sequentially. Management noted the impact of strong industry demand and strategic technology offerings in their comments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q3 2022, UMC indicated guidance that wafer shipments and ASP in U.S. dollars would remain flat, while they anticipate a gross profit margin in the mid-40% range and confirmed a utilization rate guiding at 100%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

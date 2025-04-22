@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "Intel's Q3 2022 revenue was $15.3 billion, down 20% year-over-year and up 6% quarter-over-quarter. The decline was primarily due to weak demand in the consumer, education, and small-medium business markets, inventory reductions, and competitive pressures. Macroeconomic factors, including inflation and geopolitical tensions, also contributed to the challenging environment. Compared to Q2 2022 guidance, the results were lower than expected, reflecting ongoing market headwinds and a cautious outlook for Q4.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not provide specific information about Intel's wafer sales, including wafer quantity and average selling price (ASP) for Q3 2022. Additionally, there are no financial figures or insights regarding overall performance, market trends, or future expectations related to wafer sales.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q3 2022, Intel's segment sales and respective margins were as follows: CCG: $8.1 billion, operating profit of $1.7 billion (margin: 21%); DCAI: $4.2 billion, operating profit of $17 million (margin: 0.4%); AXG: $185 million, operating loss of $378 million; Mobileye: $450 million, operating income of $142 million (margin: 31.6%); IFS: $171 million, operating loss of $103 million. Overall, Intel faced significant macroeconomic challenges, impacting year-over-year performance and cautioning guidance for Q4 2022.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q4 2022, Intel indicated cautious guidance due to ongoing market headwinds, although specific sales forecasts were not disclosed.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

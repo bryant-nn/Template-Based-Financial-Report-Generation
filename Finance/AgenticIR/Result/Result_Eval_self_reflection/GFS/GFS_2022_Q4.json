@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "For GFS in Q4 2022, the total revenue figures are estimated at approximately $1.97 billion, reflecting a 14% increase compared to Q4 2021. This growth was primarily driven by a richer product mix and higher average selling prices, particularly in key markets such as smart mobile devices and automotive. However, Q3 2022 revenue figures are not explicitly provided for comparison.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q4 2022, GFS shipped around 2.5 million 300-millimeter equivalent wafers, generating revenue from wafer sales of about $7.5 billion, with an average selling price (ASP) exceeding $3,000 per wafer, representing a 17% year-over-year increase.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The total sales figures by segment/platform for GFS in Q4 2022 are not explicitly detailed. However, it is noted that revenue from the home and industrial IoT market grew by 64% year-over-year, contributing significantly to total revenue.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q1 2023, GFS anticipates total revenue in the range of $1.81 billion to $1.85 billion, with adjusted gross profit expected between $498 million and $527 million. This reflects a cautious outlook influenced by macroeconomic conditions while still aiming for profitability.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "UMC's revenue for Q4 2024 has not been explicitly reported in the provided context, but management projected consolidated revenue to be approximately NT$50.5 billion, which represents a cautious outlook given rising costs in goods and utilities. The company has acknowledged challenges related to carbon taxes and other cost pressures. Without specific revenue data, it's difficult to provide a detailed analysis of QoQ and YoY changes, however, the management expressed confidence in maintaining long-term profitability despite these challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific wafer sales data for UMC in Q4 2024 is not available, but it is noted that wafer shipments and ASP are expected to remain flat during this period. This suggests stability in sales volume and pricing amidst the current market conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The context did not reveal sales figures by separate segments for UMC in Q4 2024, though the information indicated that their specialty technology solutions accounted for over half of total sales in preceding quarters, suggesting a continued trend of strong demand in these categories.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Management did not provide specific sales guidance or forecasts by segment for Q1 2025 or the full year 2025. However, a positive trend is suggested from increased demand for specific technology nodes.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

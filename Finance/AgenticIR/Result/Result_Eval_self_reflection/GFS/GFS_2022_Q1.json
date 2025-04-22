@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "GFS's total revenue for Q1 2022 reached approximately 1.955 billion to 1.985 billion dollars, reflecting a substantial 37% year-over-year growth. This notable increase was driven by a 48% rise in wafer shipments and higher average selling prices (ASP). The favorable demand across various sectors significantly contributed to this performance, alongside effective operational execution, despite some normalization in low-end handsets and PCs. In comparison to guidance from Q4 2021, the revenue results exceeded expectations. The strong revenue growth highlights GFS's robust market position and operational capabilities.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.40"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "While specific wafer sales figures were not disclosed, GFS achieved a 48% year-over-year growth in single-source wafer shipments, indicating strong demand in the semiconductor market. The overall wafer quantity sold experienced a 14% increase year-over-year, contributing to the impressive revenue growth. The average selling price (ASP) for wafers rose by about 15%, surpassing previous expectations and reflecting the positive demand environment. GFS remains fully sold out for 2022 and 2023, indicating further potential for growth in wafer sales.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "GFS's sales by segment in Q1 2022 reflected a significant increase, with notable growth in high-end markets driven by over $3.5 billion in long-term customer agreements. The management emphasized the strong demand across strategic sectors, indicating a solid demand trajectory for upcoming quarters. Further details on specific segment margins indicate a healthy balance between growth and operational efficiency in these targeted markets.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking ahead, GFS expects sales growth to continue, particularly in Q2 2022 and into the full year, driven by demand across several key applications. The guidance suggests a positive outlook, particularly regarding the growth of advanced semiconductors.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

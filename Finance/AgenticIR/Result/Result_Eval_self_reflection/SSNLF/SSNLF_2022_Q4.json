@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "SSNLF reported revenue of KRW 70.5 trillion for Q4 2022, a decline of 8.2% from the previous quarter. This drop was influenced by weak demand amid an economic slowdown and significant inventory adjustments in the Memory business. Despite this, the company achieved a record annual revenue for 2022, driven by strong performance in earlier quarters. Analysts anticipate a recovery in 2023, with expectations for revenue growth as market conditions stabilize.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not provide specific figures for wafer sales, wafer quantity, or ASP for SSNLF in Q4 2022. Overall, the Memory business faced significant challenges, leading to a decline in revenue due to price drops and inventory adjustments. There is no forward guidance or detailed analysis on wafer performance available.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The sales by segment for SSNLF in Q4 2022 included a decline in the Memory segment due to ASP decline and inventory adjustments, record revenue in the Foundry segment, reduced earnings in the Mobile panel business but growth in large panel sales, specifically QD-OLED for TVs. The Mobile Experience segment experienced revenue and profit declines due to weak demand in the mid- to low-end segment, while the Network segment recorded growth driven by domestic 5G demand. The Visual Display segment benefitted from premium products like Neo QLED TVs.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance for SSNLF in Q1 2023 is expected to decline both quarter-on-quarter and year-on-year due to seasonality and the global economic downturn. Specific segment forecasts were not provided, but the Memory business is anticipated to face challenges from inventory adjustments and ASP declines. The Foundry segment, however, is expected to continue performing well.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

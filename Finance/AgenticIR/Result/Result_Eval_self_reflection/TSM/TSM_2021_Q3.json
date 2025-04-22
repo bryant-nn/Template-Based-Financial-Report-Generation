@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2021, TSMC reported revenue of TWD 414.7 billion ($14.9 billion), reflecting an 11.4% increase QoQ and a 12% increase YoY. This growth was primarily driven by robust demand across key sectors, including smartphones, high-performance computing (HPC), Internet of Things (IoT), and automotive applications. The semiconductor market experienced strong demand due to technological advancements and increased consumer reliance on digital solutions, particularly during the ongoing recovery from the pandemic. TSMC's gross margin also improved, indicating effective cost management despite rising depreciation costs and foreign exchange challenges. Looking ahead, TSMC expects continued strong demand and aims for a long-term gross margin of over 50%, positioning itself well for future growth amidst a competitive landscape.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.20"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.40"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific figures for wafer sales quantity and average selling price (ASP) for TSMC in Q3 2021 are not available. However, TSMC reported revenue of TWD 414.7 billion (approximately $14.9 billion) for the quarter, driven by strong demand across various sectors. The overall market conditions and demand for semiconductors were favorable, but specific details on wafer sales quantity and ASP are not available.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q3 2021, TSMC reported revenue driven by strong demand across four core platforms: smartphone, high-performance computing (HPC), Internet of Things (IoT), and automotive-related applications. Although specific revenue breakdowns by segment were not provided, the overall growth indicates robust performance influenced by ongoing global semiconductor demand and supply chain challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "In Q4 2021, TSMC projected revenue of approximately $15.4 billion, reflecting sequential growth driven by strong demand for its 5-nanometer technology, crucial for high-performance computing and mobile applications. This growth is set against a backdrop of increasing global semiconductor demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

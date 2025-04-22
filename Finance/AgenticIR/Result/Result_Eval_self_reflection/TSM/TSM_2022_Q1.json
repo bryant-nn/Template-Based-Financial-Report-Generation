@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "TSMC's revenue for Q1 2022 was approximately USD 17.9 billion, reflecting a year-over-year increase of 25% compared to Q1 2021. This growth was driven by strong demand in the automotive and high-performance computing sectors. The revenue in Q1 2022 compared to Q4 2021 represented a 12.1% increase. The reasons for this revenue increase include a robust demand surge particularly in high-performance computing and automotive sectors. The revenue results for Q1 2022 aligned closely with the guidance provided in Q4 2021, which anticipated a range of about USD 17.6 billion to USD 18.2 billion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The total wafer sales for Q1 2022 are characterized by a significant contribution from advanced technologies, specifically those at 7-nanometer and below, which accounted for approximately 50% of wafer revenue. While specific figures related to wafer quantity and average selling price (ASP) were not disclosed, the strong demand in the high-performance computing and automotive sectors positively influenced sales performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2022, TSMC's sales figures by segment were approximately as follows: Smartphones accounted for 40% of revenue, High-Performance Computing (HPC) comprised 41%, Internet of Things (IoT) contributed 8%, Automotive represented 5%, and Data Center Equipment (DCE) made up 3%. The margins for each segment were expected to range between 56% and 58% gross margin and 45% to 47% operating margin. Management communicated confidence in maintaining market share and profitability despite potential challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q2 2022, TSMC expects revenue to fall between USD 17.6 billion and USD 18.2 billion, reflecting a sequential increase. Management anticipates continued demand in high-performance computing and automotive sectors, supporting the overall positive guidance for the coming quarter amid ongoing macroeconomic challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

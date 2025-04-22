@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "UMC's consolidated revenue for Q1 2024 was NT$54.63 billion, representing a slight decline of 0.6% quarter-over-quarter and an increase of 0.8% year-over-year. The drop in revenue was influenced by muted demand in specific segments, particularly in automotive, while expectations for improved wafer shipments were cited as supportive of future revenue. The revenue results were in line with guidance from Q4 2023, where revenue was reported at NT$54.6 billion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q1 2024, the wafer sales quantity increased by 4.5% quarter-over-quarter, although specific figures were not disclosed. The Average Selling Price (ASP) remains firm, indicating that pricing pressure is minimal despite fluctuations in shipment volumes.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "UMC's sales by segment indicate strong performance in the 12-inch wafer segments, while automotive demand remained subdued. Management commented on the belief that inventory levels will normalize, potentially leading to improved sales performance in subsequent quarters.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking ahead, UMC anticipates an increase in wafer shipments in Q2, as inventory issues resolve, but acknowledges continued weakness in automotive demand. Full-year forecasts reflect hopes for improved inventory situations beginning in 2025.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

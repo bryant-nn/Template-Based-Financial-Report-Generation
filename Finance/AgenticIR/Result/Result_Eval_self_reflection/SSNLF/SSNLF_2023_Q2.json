@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2023, SSNLF reported revenue of KRW 60 trillion, reflecting a 5.9% decrease compared to KRW 63.7 trillion in Q1 2023. Year-on-year, revenue declined due to challenging global economic conditions and customer inventory adjustments, particularly affecting smartphone shipments. This performance was below guidance as the company had anticipated a more stable demand environment for the quarter. Moving forward, SSNLF aims to strengthen relationships with major customers and diversify applications in sectors like automotive to mitigate these challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.67"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific details regarding wafer sales quantity and average selling price (ASP) for 2023 Q2 were not provided. However, it was mentioned that revenue from the foundry business showed a quarter-on-quarter increase despite global economic challenges, indicating a focus on high-value products while dealing with inventory adjustments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q2 2023, specific segment performance details were not outlined. However, overall revenue was approximately KRW 60 trillion, with management highlighting slight recovery in mobile product revenue despite a year-on-year decline. Efforts are being made to secure product performance and expand into automotive applications, although explicit segment margin levels were not detailed.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance for Q3 2023 indicates an expected increase in smartphone and tablet shipments, driven by anticipated market demand recovery and adjustments in customer inventory, although specific figures were not disclosed.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

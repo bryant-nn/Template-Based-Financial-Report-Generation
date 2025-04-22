@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2022, Intel's revenue was $15.3 billion, which represented an increase of 6% QoQ but a decrease of 17% YoY. The year-over-year decline was primarily attributed to reduced customer demand and inventory adjustments. The revenue forecast for Q4 suggested further declines due to expected lower CCG revenue and ongoing macroeconomic challenges, which contrasted with the guidance provided in Q2 2022.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific wafer sales figures, including wafer quantity and Average Selling Price (ASP) for INTC in Q3 2022, could not be retrieved.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales figures by segment for Q3 2022 included: - CCG: $8.1 billion, operating profit of $1.7 billion (down 54% YoY).- DCAI: $4.2 billion, operating profit of $17 million (down significantly YoY).- AXG: $185 million, operating loss of $378 million (worse YoY).- Mobileye: $450 million, operating income of $142 million (up YoY).- IFS: $171 million, operating loss of $103 million (worse YoY). Management noted challenges due to macroeconomic conditions and weakened demand, especially in consumer markets.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q4 2022, INTC guided revenue in the range of $14 billion to $15 billion and forecast a gross margin of 45%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

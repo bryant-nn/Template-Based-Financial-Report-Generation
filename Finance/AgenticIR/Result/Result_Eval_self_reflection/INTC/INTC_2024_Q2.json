@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2024, Intel's total revenue was $12.8 billion, reflecting a 1% decrease year-over-year and a 1% increase sequentially. The decline in revenue was primarily due to export license restrictions impacting the client business in China. Despite this, Intel Products revenue grew by 4% year-over-year. Management guidelines for Q3 forecast revenue between $12.5 billion and $13.5 billion, reflecting cautious expectations due to ongoing challenges in the market. The net loss for Q2 2024 was $1.61 billion, leading to a diluted EPS of -$0.38.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.80"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.20"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific wafer sales volume for Q2 2024 was not disclosed, but Intel Foundry reported a revenue of $4.3 billion, indicating increased wafer volumes driven by production on Intel 7 and advanced EUV nodes. This trend suggests growth in wafer sales, as indicated by the overall segment performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Intel's revenue for different segments in Q2 2024 saw Intel Products contributing significantly with operating profits of $2.9 billion, while Intel Foundry achieved revenues of $4.3 billion, showing a 4% growth year-over-year. Management noted intense market competition affecting profitability across segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance for Q3 2024 is expected to lead to flat to down demand in the client business due to ongoing export restrictions, whereas data center and edge markets are projected to continue experiencing modest growth.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

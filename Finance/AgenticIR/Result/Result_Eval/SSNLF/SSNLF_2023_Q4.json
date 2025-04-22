@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2023, SSNLF reported total revenue of KRW 67.8 trillion, reflecting a quarter-on-quarter increase of 0.6%. The year-on-year revenue change figures were not explicitly provided. The revenue changes were attributed to higher memory prices, strong sales of premium display products, and an overall increase in consolidated revenue despite a decline in smartphone shipments. Compared to the revenue guidance from Q3 2023, details were not specified.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The report did not include specific information regarding wafer sales volume and average selling price (ASP) for Q4 2023.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2023, SSNLF's sales breakdown by segments included DRAM with a mid-30% bit growth and double-digit ASP increase, NAND with a mid-30% bit growth and high single-digit ASP increase, display generating high 90% of revenues from small panels, and MX segment accounting for sales of 53 million smartphones and 7 million tablets. Management comments indicated strong sales in premium products and wearables.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance for SSNLF in Q1 2024 points towards a strategy focused on the premium segment, anticipated to grow compared to the previous year, despite an overall decline in total smartphone demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

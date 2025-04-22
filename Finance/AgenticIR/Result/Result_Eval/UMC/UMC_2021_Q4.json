@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "UMC's total revenue for Q4 2021 was NT$59.1 billion, representing a 5.7% increase quarter-over-quarter and a more than 20% increase year-over-year. The growth was driven by strong demand, particularly in the 28-nanometer segment, which saw a 75% year-over-year revenue increase. This performance exceeded guidance from Q3 2021, reflecting robust chip demand related to 5G, AIoT, and automotive trends.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q4 2021, UMC's wafer shipments were 2.55 million 8-inch equivalents, with a 1.7% increase quarter-over-quarter. The average selling price (ASP) improved due to strong demand, particularly in the 28-nanometer segment, although the exact ASP figure is not available.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The sales breakdown by segment and respective margin levels for UMC in Q4 2021 is not explicitly provided, as detailed segment information was not disclosed in the context. However, it is noted that the consolidated revenue was NT$59.1 billion with a gross margin of 39.1%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "UMC's guidance for Q1 2022 includes flat wafer shipments, a 5% increase in ASP, a gross profit margin of approximately 40%, and a capacity utilization rate of 100%. The cash-based CapEx for 2022 is budgeted at $3 billion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

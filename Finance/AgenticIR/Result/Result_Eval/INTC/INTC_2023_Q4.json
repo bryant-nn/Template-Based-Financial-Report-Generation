@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2023, INTC reported revenue of $15.4 billion, which represents a 9% increase from the previous quarter and a 10% increase year-over-year. The revenue was consistent with guidance provided in Q3 2023, where the company had anticipated revenue between $12.2 billion and $13.2 billion. Revenue changes were primarily influenced by a decline in Integrated Device Manufacturing (IFS) revenue, cyclical weaknesses in wafer equipment purchasing, and strategic exits from certain business lines resulting in an approximately $1 billion impact. Positive demand in the PC segment provided offsetting revenue but was not sufficient to negate decreases anticipated in data centers and inventory corrections in other areas such as Mobileye and PSG.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific figures for wafer sales, including the total quantity sold and average selling price (ASP), were not disclosed in the data retrieved for Q4 2023.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2023, revenue was segmented as follows: Client Computing Group (CCG) reported $8.8 billion, while Data Center and AI (DCAI) generated $4 billion in revenue. This segmentation highlights the continued strength in Client Computing, though overall data center revenues were expected to show weakness.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Guidance for 2024 indicates continued focus on expanding market share, with expectations for a revenue range of $12.2 billion to $13.2 billion for Q1, largely driven by AI and advanced computing opportunities.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

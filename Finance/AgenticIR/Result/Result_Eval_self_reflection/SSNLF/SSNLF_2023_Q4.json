@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2023, SSNLF reported total revenue of KRW 67.8 trillion, reflecting a sequential increase of 0.6% compared to the previous quarter. This growth was primarily driven by higher memory prices and strong sales of premium display products, even as smartphone shipments declined due to fierce competition. Year-over-year, this figure also increased from KRW 64.5 trillion in Q4 2022. The company expects ongoing revenue growth in Q1 2024, with guidance indicating a potential increase of 3-4%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.67"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The revenue results for wafer sales in Q4 2023, including the quantity and average selling price (ASP), were not explicitly detailed in the available data. However, overall consolidated revenue of KRW 67.8 trillion was highlighted, driven by high demand for advanced memory products. Future trends may continue to benefit from the recovery of the semiconductor market and inventory normalization among customers.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2023, SSNLF reported sales by segment as follows: DRAM exhibited a bit growth in the mid-30% range, with ASP increasing significantly. NAND also achieved mid-30% bit growth, while the display segment saw a high demand, particularly in small panels, reflecting a growth in sales volume. Management noted a stable demand for these products, with the premium segment contributing notably to revenue.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q1 2024, SSNLF anticipates a decline in total smartphone demand due to seasonal factors but expects healthy growth in the premium segment. The launch of the Galaxy S24 series is projected to be a significant revenue driver.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

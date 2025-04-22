@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2022, TSMC's revenue was TWD 1.3 trillion, representing an 8.8% increase sequentially and a 3.4% increase year-over-year. This growth was supported by strong demand in high-performance computing, IoT, and automotive sectors. The company reported a gross margin of 59.1% and an operating margin of 49.1%. Looking ahead, TSMC anticipates continued growth driven by demand for 5G and AI applications, with guidance for Q3 revenue between $19.8 billion and $20.6 billion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not provide specific figures for TSM's wafer sales volume and average selling price (ASP) for Q2 2022. However, it mentions that advanced technologies (7-nanometer and below) accounted for 51% of wafer revenue, indicating strong demand in high-performance computing and automotive sectors. Future expectations suggest continued tight capacity throughout 2022, with anticipated mid-30% growth in U.S. dollar terms.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "TSMC's sales by segment showed strong interest in high-performance computing, IoT, and automotive applications, accounting for 40% of total revenue, which helped offset softness in consumer markets. Specific margin levels for these segments are not outlined.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "0.50"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "TSMC expects Q3 2022 revenue to be between $19.8 billion and $20.6 billion, reflecting strong demand in data centers and automotive sectors, indicating continued growth driven by dependable market segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

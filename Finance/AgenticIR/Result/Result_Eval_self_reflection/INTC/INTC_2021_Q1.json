@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2021, Intel's revenue was $18.6 billion, which represented an 8% increase year-over-year (YoY). The revenue growth was primarily driven by strong demand in the PC notebook segment and a recovery in the enterprise and government sectors of the data center business. Specific quarter-over-quarter (QoQ) changes were not detailed, and guidance for future performance was not provided.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not provide specific figures for wafer sales, the quantity sold, or average selling price (ASP) for INTC in Q1 2021, leaving a gap in this analysis.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2021, Intel's sales by segment included the Client Computing Group (CCG) with revenue up 8% YoY driven by record notebook unit volumes, and the Data Center Group (DCG) which saw revenue of $5.6 billion, down 20% YoY. Other segments, including IoTG, Mobileye, and PSG, also demonstrated growth, contributing to a total quarterly revenue of $18.6 billion, exceeding guidance by $1.1 billion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Missing",
+        "decomp_score": [
+            {
+                "Financial takeaways": 0.0
+            },
+            {
+                "Financial context": 0.0
+            },
+            {
+                "Reasoning correctness": 0.0
+            },
+            {
+                "Management expectation": 0.0
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

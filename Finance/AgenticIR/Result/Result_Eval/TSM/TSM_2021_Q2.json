@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "TSMC's total revenue for Q2 2021 was TWD 372.1 billion or USD 13.3 billion. This represents a sequential increase of 2.7% in NT dollar terms and 2.9% in USD from the previous quarter. A year-over-year change could not be detailed due to a lack of specific figures for Q2 2020. The increase in revenue was primarily driven by strong demand in the high-performance computing (HPC) and automotive sectors, although there was a decrease in revenue from smartphone and IoT sectors. TSMC’s revenue guidance from Q1 2021 suggested growth above 20% in USD terms for the full year, which the Q2 results indicate was achieved.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "TSMC's total wafer sales in Q2 2021 were aligned with the overall revenue of TWD 372.1 billion (USD 13.3 billion). However, specific data regarding the wafer quantity sold and the Average Selling Price (ASP) were not provided in the received context, limiting a detailed breakdown of wafer performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Information on total sales by segment/platform was described as being driven by strong demand particularly in HPC, IoT, and automotive applications, though specific sales figures per segment were not detailed in the context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance for Q3 2021 was not explicitly stated, but TSMC is anticipating continued growth in revenue characterized by demand for 5-nanometer and 7-nanometer technologies, particularly within automotive and telecommunications.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

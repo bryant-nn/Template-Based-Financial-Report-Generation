@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "TSMC's total revenue for Q2 2021 was TWD 372.1 billion, or USD 13.3 billion, reflecting a year-over-year increase of approximately 28%. This growth was primarily driven by strong demand in high-performance computing (HPC) and automotive sectors. In Q1 2021, the revenue was approximately TWD 362.4 billion (USD 12.0 billion), indicating a QoQ increase of 2.7% in NT dollar terms and 2.9% in U.S. dollar terms. Possible reasons for revenue changes include increased demand in HPC and automotive sectors, although smartphone revenue experienced a decline of 3%. The revenue results in Q2 were slightly above guidance due to strong market conditions, reflecting robust customer needs.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.40"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "TSM's total wafer sales for Q2 2021 were USD 13.3 billion, reflecting a 20% increase compared to Q1 2021. The breakdown of wafer quantity sold indicates that 18% of revenue was derived from 5-nanometer technology and 31% from 7-nanometer technology. Advanced technologies accounted for 49% of wafer revenue, driven by continued strong demand in sectors such as HPC and automotive applications.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "For Q2 2021, the sales figures by segment were as follows: smartphone 42% (down 3% QoQ), HPC 39% (up 12% QoQ), IoT 8% (down 2% QoQ), and automotive 4% (up 12% QoQ). Management comments indicated careful strategic positioning in response to market trends, especially in HPC.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance for Q3 2021 anticipates growth above 20% in U.S. dollar terms, projecting revenue of approximately USD 15.9 billion, reflecting continued strong demand for semiconductor technologies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

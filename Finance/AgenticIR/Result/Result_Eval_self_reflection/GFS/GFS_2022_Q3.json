@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2022, GlobalFoundries' total revenue was approximately $2.074 billion, reflecting a 22% increase year-over-year. Revenue from the communications infrastructure and data center market accounted for about 18% of total revenue, growing approximately 29% from the previous year driven by higher shipments and improved average selling prices (ASPs). The automotive market contributed around 5% and is expected to grow significantly due to new product introductions. Continued growth in the automotive sector indicates a strong outlook for the company despite facing challenges in the compute market, which represented only about 2% of revenue. The revenue guidance for Q4 is projected to be between $2.05 billion and $2.1 billion, indicating a cautious perspective due to anticipated reductions in capacity utilization and product demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.60"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.60"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q3 2022, GlobalFoundries shipped approximately 637,300 200mm equivalent wafers, generating wafer revenue of about $2.074 billion. The average selling price (ASP) per wafer increased by approximately 14% year-over-year, mostly driven by improved pricing from long-term agreements and a favorable product mix, which together allowed the company to achieve a gross profit of $621 million, translating to a gross margin of about 29.9%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "For Q3 2022, GlobalFoundries' sales by segment revealed diverse performances: approximately 5% of revenue came from the automotive segment, which is expected to expand its contribution significantly, especially with new product developments planned for 2023. The communications infrastructure and data center segment accounted for 18% of total revenue and displayed strong growth, while the compute segment struggled at around 2% of revenues. Management expects further positive growth in the automotive sector and the data center markets moving forward.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking ahead to Q4 2022 and beyond, GlobalFoundries is optimistic about growth in the automotive market, targeting a $1 billion annualized run rate by the end of 2023. The company anticipates launching several new products, which they expect will contribute positively to revenue growth starting in 2024.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

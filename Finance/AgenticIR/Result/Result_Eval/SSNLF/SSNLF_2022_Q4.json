@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2022, SSNLF reported revenue of KRW 70.5 trillion, a decrease of 8.2% QoQ. Year-on-year, the revenue showed strong performance, despite challenges in the Memory business and reduced smartphone demand. This decline was attributed to a significant ASP drop and inventory valuation losses in Memory, while the Foundry business achieved record revenue. Compared to the guidance from Q3 2022, the revenue results fell due to weak demand, particularly in the Memory sector, and substantial inventory valuation losses, though the Foundry performance partly offset this downturn.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not provide specific wafer sales numbers, including quantity and ASP for SSNLF in Q4 2022.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2022, SSNLF's consolidated revenue was KRW 70.5 trillion, with a gross profit of KRW 21.8 trillion and a gross margin of 31%. The operating profit was KRW 4.3 trillion, leading to an operating margin of 6.1%. While the Memory business faced significant declines due to poor market conditions, the Foundry sector recorded substantial revenue growth.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance for Q1 2023 is expected to decline both quarter-on-quarter and year-on-year due to seasonality and global economic downturns. Specific forecasts for segments were not provided in the context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

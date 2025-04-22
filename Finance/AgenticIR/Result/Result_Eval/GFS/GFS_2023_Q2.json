@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "GFS reported revenue of $1.845 billion for Q2 2023, reflecting a 44% increase from Q1 2023. However, this revenue represents a 45% decline year-over-year, primarily due to a decline in volume within the segment. The shift in demand patterns and pricing pressures were significant factors influencing these changes. Compared to the guidance provided in Q1 2023, revenue is consistent with projections, which anticipated slight growth.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q2 2023, GFS shipped approximately 573,000 wafers, with the average selling price (ASP) per wafer experiencing a decline of about 1% year-over-year. This decline is attributed to changes in product mix as the market dynamics evolve.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales by segment/platform in Q2 2023 are as follows: smart mobile devices accounted for 42%, communications infrastructure and data center for 12%, personal computing for 3%, and automotive for 13%. This distribution reflects the current trends in demand across various sectors critical to GFS’s operational focus.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q3 2023, GFS forecasts total revenue to be between $1.825 billion and $1.87 billion, with adjusted gross profit anticipated between $502 million and $542 million.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

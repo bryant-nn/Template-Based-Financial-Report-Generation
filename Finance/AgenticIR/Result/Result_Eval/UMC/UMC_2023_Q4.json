@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2023, UMC reported consolidated revenue of NT54.96 billion. This represents a 3.7% decline quarter-over-quarter and a year-over-year increase of 31%. The decrease in revenue was attributed to challenging macroeconomic conditions and a prolonged inventory correction in the semiconductor industry.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "UMC's wafer shipment in Q4 2023 decreased by 2.5% quarter-over-quarter. The average selling price (ASP) for wafers increased by a single-digit percentage in 2023. The 22/28 nanometer technology represented 36% of wafer revenue in Q4.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2023, UMC's consolidated revenue was NT54.96 billion with a gross margin of 32.4%. The 22/28 nanometer segment accounted for 36% of wafer revenue. Management noted resilience despite challenging macroeconomic conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "UMC's sales guidance for Q1 2024 indicates a slightly lower average selling price (ASP) due to annual one-off pricing adjustments and changes in product mix. The 22/28 nm segment represented 36% of Q4 2023 revenue, and for the full year, this segment's revenue is expected to be around 31%, up from 24% the previous year.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

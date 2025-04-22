@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2023, TSMC's revenue was USD 6.7 billion, down 18.7% from Q4 2022, where revenue was approximately USD 8.2 billion. This decline was attributed to weakening macroeconomic conditions and softening end market demand. TSMC expects a gradual recovery in the second half of 2023, supported by new product launches from customers, which may help stabilize demand going forward.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific data on wafer sales quantity and average selling price (ASP) for TSMC in Q1 2023 was not disclosed. However, the total revenue of USD 6.7 billion reflects declining demand, indicating potential changes in sales volume and pricing strategies amidst market fluctuations. TSMC expects a gradual recovery in the second half of the year, particularly as new products are launched.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The sales by segment for TSMC in Q1 2023 are not explicitly detailed. The total revenue was USD 6.7 billion, reflecting an 18.7% sequential decrease. Management has projected a gradual recovery in demand, particularly in the second half of 2023, supported by new product launches.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "TSMC expects a decline of about 10% in revenue for Q2 2023 compared to Q2 2022, projecting revenue of approximately USD 6 billion. This anticipated decline is attributed to reduced customer demand and inventory adjustments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

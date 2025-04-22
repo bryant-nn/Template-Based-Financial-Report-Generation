@@ -1,25 +1,32 @@
 # 📄 Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval
 
-**Official Implementation for _Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval_**  
+**Official Implementation**  of
+**_Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval_**  
 _To appear in the Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)_
+
+## 📄  Paper
+📎 [Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval](https://arxiv.org/abs/2504.14233)
 
 ## 👤 Authors
 
 <table>
   <tr>
-    <td align="center" width="130">
+    <!-- <td align="center" width="130"> -->
+    <td align="center" width="140" style="background: #fff; border-radius: 12px; box-shadow: 0 1px 6px rgba(0,0,0,0.1); padding: 10px;">
       <a href="https://github.com/bryant-nn">
         <img src="https://github.com/bryant-nn.png" width="80px"><br>
         <sub><b>Yong-En Tian</b></sub>
       </a>
     </td>
-    <td align="center" width="130">
+    <!-- <td align="center" width="130"> -->
+    <td align="center" width="140" style="background: #fff; border-radius: 12px; box-shadow: 0 1px 6px rgba(0,0,0,0.1); padding: 10px;">
       <a href="https://github.com/tommytyc">
         <img src="https://github.com/tommytyc.png" width="80px"><br>
         <sub><b>Yu-Chien Tang</b></sub>
       </a>
     </td>
-    <td align="center" width="130">
+    <!-- <td align="center" width="130"> -->
+    <td align="center" width="140" style="background: #fff; border-radius: 12px; box-shadow: 0 1px 6px rgba(0,0,0,0.1); padding: 10px;">
       <a href="https://github.com/KuangDW">
         <img src="https://github.com/KuangDW.png" width="80px"><br>
         <sub><b>Kuang-Da Wang</b></sub>
@@ -28,13 +35,12 @@ _To appear in the Proceedings of the 48th International ACM SIGIR Conference on 
   </tr>
 </table>
 
-📎 [Paper link coming soon]
-
-
-
-
 
 ---
+## 🧾 Overview
+
+This repository provides two generation pipelines (AgenticIR and DecomposedIR) for financial and climate report generation.  
+It supports task decomposition, retrieval-based generation, and multiple evaluation strategies.
 
 
 ## 📦 Requirements
@@ -62,7 +68,65 @@ OPENAI_API_KEY=your_openai_api_key_here
 ```
 
 ## 📊 Finance
-Due to confidentiality concerns, the finance-related data will be released at a later stage.
+### 📚 Contents
+- AgenticIR/ – Agent-based generation
+
+- DecomposedIR/ – Report generation via decomposed queries
+
+- data/ – Earnings call transcripts, balance-sheet, cash-flow and income statement
+
+### 🔧 Features
+1. **Agentic Report Generation**:
+   - Uses agents to generate financial reports.
+   - Supports task decomposition and retrieval-based generation.
+
+2. **Decomposed Report Generation**:
+   - Breaks down report generation into smaller subquery for improved accuracy.
+   - Embedding-based retrieval of relevant data chunks.
+
+3. **Evaluation Tools**:
+   - Supports DecomposeEval and Chat Eval metrics for reference-free evaluating the quality of generated summaries and readability of generated summaries.
+
+
+### 🚀 Usage Instructions
+#### 🧠 AgenticIR
+1. Generate Reports
+```
+# Arguments:
+# -r, self-reflection
+# -c, company (="INTC", "GFS", "SSNLF", "TSM", "UMC")
+python Finance/AgenticIR/agentic_main.py -c INTC [-r]
+```
+2. Evaluate Reports
+```
+# Arguments:
+# -c, company (="INTC", "GFS", "SSNLF", "TSM", "UMC")
+python Finance/AgenticIR/Eval/eval.py -c INTC
+```
+3. View Evaluation Results
+```
+Open notebook:
+Finance/AgenticIR/Eval/result_eval.ipynb
+```
+
+#### 🧩 DecomposedIR
+1. Generate Reports
+```
+# Arguments:
+# -r, self-reflection
+# -c, company (="INTC", "GFS", "SSNLF", "TSM", "UMC")
+python Finance/DecomposedIR/decomposed_main.py -c INTC [-r]
+```
+2. Evaluate Reports
+```
+python Finance/DecomposedIR/Eval/eval.py
+```
+3. View Evaluation Results
+```
+Open notebook:
+Finance/DecomposedIR/Eval/result_eval.ipynb
+```
+
 
 ## 🌍 SumIPCC (Climate Report Generation)
 ### 📚 Contents
@@ -94,7 +158,7 @@ Due to confidentiality concerns, the finance-related data will be released at a 
 ```
 # Arguments:
 # -r, self-reflection
-python SumIPCC/AgenticIR/agentic_main.py
+python SumIPCC/AgenticIR/agentic_main.py [-r]
 ```
 2. Evaluate Reports
 ```
@@ -111,7 +175,7 @@ SumIPCC/AgenticIR/Eval/result_eval.ipynb
 ```
 # Arguments:
 # -r, self-reflection
-python SumIPCC/DecomposedIR/decomposed_main.py
+python SumIPCC/DecomposedIR/decomposed_main.py [-r]
 ```
 2. Evaluate Reports
 ```
@@ -120,7 +184,7 @@ python SumIPCC/DecomposedIR/Eval/eval.py
 3. View Evaluation Results
 ```
 Open notebook:
-SumIPCC/AgenticIR/Eval/result_eval.ipynb
+SumIPCC/DecomposedIR/Eval/result_eval.ipynb
 ```
 
 #### 📂 Data Format

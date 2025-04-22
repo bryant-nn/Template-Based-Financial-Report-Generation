@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2021, SSNLF reported total revenue of KRW 63.7 trillion, reflecting a 20.2% increase compared to Q2 2020. This growth was primarily driven by strong demand in the semiconductor sector and premium home appliances. The QoQ change indicated a decrease from the previous quarter, attributed to seasonality, component supply constraints, and production challenges. Management noted that total revenue for Q2 was lower than Q1 but showed significant year-on-year growth. The revenue results did not meet the guidance from Q1 2021, partly due to these mitigating factors.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific figures for wafer sales and the Average Selling Price (ASP) for Q2 2021 were not provided in the context. However, management indicated improvements in profitability driven by a rise in ASP for panels, particularly for TVs and monitors. They also noted challenges relating to mobile display sales which recorded a decline quarter-over-quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "SSNLF's performance by segment reveals that the Visual Display segment achieved solid profits from premium products like Neo QLED. The Galaxy ecosystem, which includes tablets and wearables, also significantly contributed to the overall financial performance despite challenges in mobile revenue due to production issues and supply constraints.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Future sales guidance and forecasts for Q3 2021 were not specifically detailed in the context provided, indicating an ongoing focus on optimizing supply chain management.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

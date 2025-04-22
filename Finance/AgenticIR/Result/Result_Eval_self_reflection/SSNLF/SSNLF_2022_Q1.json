@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2022, Samsung Electronics reported total revenue of KRW 77.8 trillion, marking a year-on-year increase of 19%. The operating profit was KRW 14.1 trillion, reflecting a 51% increase compared to the previous year, and an operating margin of 18.2%, which represents an improvement of 3.8 percentage points year-on-year. The growth was attributed to strong sales of the Galaxy S22 series despite a decline in memory average selling prices (ASP) and challenges in the mobile market due to geopolitical instability. Quarter-on-quarter, the operating profit increased by KRW 1.4 trillion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "5.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific sales figures for wafer sales, including quantity and ASP for Q1 2022, were not disclosed in the earnings call.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The segment sales breakdown was not specifically detailed, but the mobile division, particularly the Galaxy S22 series, experienced strong demand, driving revenue growth. The company emphasized improving product offerings in response to market shifts.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance for Q2 2022 mentioned a contraction in some market segments like TVs due to changing consumer behavior. Nonetheless, the guidance overall suggested focusing on high-value segments, projecting continued revenue growth driven by the sleek designs and features of new models.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

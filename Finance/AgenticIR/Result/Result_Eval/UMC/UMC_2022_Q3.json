@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2022, UMC reported a revenue of TWD 75.39 billion, which represented a growth of 4.6% sequentially. The year-over-year growth was also attributed to factors such as product mix optimization, favorable exchange rates, and increased demand in the wireless communication sector, particularly for the 22/28 nanometer technology. The guidance from Q2 2022 was not explicitly outlined but indicated that the revenue realization was consistent with expectations.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific information regarding wafer sales volume in Q3 2022 is not available; however, the Average Selling Price (ASP) of wafers remained stable, notably for 8-inch wafers, with the 22/28 nanometer segment contributing 25% of the overall revenue, which positively influenced the average selling price.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "UMC reported consolidated revenue of TWD 75.39 billion with margin levels not detailed by segment or platform. Management commented that products were being reallocated under Long Term Agreements (LTAs), which play a crucial role in sustaining commitments and mitigating downturns.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Specific sales guidance or forecasts for Q4 2022 were not outlined, but management noted anticipated market challenges, including demand weakness and inventory adjustments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

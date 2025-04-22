@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2023, Intel Corporation (INTC) reported total revenue of $14.2 billion, reflecting a 9% increase compared to Q2 2023, attributed to elevated inventory levels and weak demand. However, there was significant revenue growth from Intel Foundry Services and Mobileye, offsetting some challenges. The revenue in Q3 2022 was also $14.2 billion, indicating no year-over-year change. The guidance from Q2 2023 projected $14.5 billion to $15.5 billion, suggesting a slight miss on the higher end of the forecast. Reasons for the changes include improvements in Intel Foundry Services, gains in market share, and the effective selling through of previously reserved inventory.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.60"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "0.80"
+            },
+            {
+                "Management expectation": "0.20"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Total wafer sales for INTC in Q3 2023 have not been explicitly detailed in the retrieved data. The revenue figures contribute to a larger context of wafer sales, but specific quantities and average selling prices (ASP) were not provided.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales breakdown by segment for INTC in Q3 2023 indicates that Intel Foundry Services generated $311 million, while Mobileye contributed $530 million. The Client Computing Group (CCG) reported strong performance, particularly in the commercial sector and consumer gaming. Management noted improved revenue generation across several areas while maintaining a focus on cost management.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q4 2023, INTC expects revenue guidance of between $14.6 billion and $15.6 billion, with projections indicating a sequential growth of 16% in the client business sector.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

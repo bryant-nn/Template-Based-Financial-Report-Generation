@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2022, UMC reported total revenue of NT$63.42 billion, achieving strong performance driven by solid wafer demand and full capacity utilization. However, specific QoQ and YoY revenue changes were not detailed in the context. Looking at guidance from Q4 2021 reveals that UMC anticipates continued growth in Q2 2022, supported by expanded production capacity and favorable market conditions. Management's commentary highlighted steady demand for products at 14nm and below technology nodes, positioning UMC well for future revenue growth.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q1 2022, UMC's wafer shipments amounted to 2.5 million inches, contributing to the quarterly revenue of NT$63.42 billion. Though the average selling price (ASP) for wafers is not provided, it is noted that demand from specialty technologies accounted for more than half of wafer revenue, indicating a robust sales performance. UMC expects a capacity increase of 4% to 5% in Q2 2022, which is anticipated to enhance production capabilities and could positively impact ASP.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Specific detailed metrics on sales by segment were not provided in the context. However, UMC maintained strong revenue performance in Q1 2022 with a steady pace in customer demand, particularly from the automotive and industrial sectors contributing to strong revenue overall in the quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "UMC's guidance for Q2 2022 indicates an optimistic projection of a revenue increase of approximately 10% compared to Q1 2022, supported by customer orders and improved supply chain conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

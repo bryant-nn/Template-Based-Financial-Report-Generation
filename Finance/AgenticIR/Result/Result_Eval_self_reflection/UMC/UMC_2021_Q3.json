@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "UMC's total revenue for Q3 2021 was NT$ 55.91 billion, reflecting a 9.8% increase from the previous quarter. This growth was driven by robust demand across computing, consumer, and communication segments, as well as higher 12-inch wafer shipments. Compared to Q3 2020, this represents a significant increase, highlighting UMC's strong position in the semiconductor market. Looking forward, UMC anticipates continued revenue growth in Q4 2021 due to strong order backlogs and favorable market conditions with a guidance reflecting a 1% to 2% rise in revenue compared to Q3.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q3 2021, UMC sold 2.5 million 8-inch equivalent wafers, reflecting a 2.6% increase quarter-over-quarter. The Average Selling Price (ASP) rose due to a favorable product mix, although the specific ASP value was not disclosed. The revenue from wafer sales and profit margins were not provided, limiting the financial detail. Compared to previous quarters, UMC's performance showed strong demand across various segments, indicating a positive trend. Looking ahead, UMC anticipates continued firm wafer shipment and ASP trends in Q4 2021, supported by full capacity utilization.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.20"
+            },
+            {
+                "Financial context": "0.80"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.20"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q3 2021, UMC's revenue by segment was approximately 46% from Communication, 27% from Consumer, and 17% from Computers. This translates to around NT$ 25.7 billion from Communication, NT$ 15.1 billion from Consumer, and NT$ 9.5 billion from Computers. Compared to Q2 2021, this represents a 9.8% increase in overall revenue, indicating robust demand across these segments. The growth in Communication sales can be attributed to increased customer engagement in wireless and IoT markets.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "UMC expects Q4 2021 revenue to reach approximately NT$ 56.5 billion to NT$ 57.0 billion. This growth is supported by advancements in technology and an expanding customer base. Looking ahead, UMC anticipates continued growth in 2022, with a projected annual revenue growth rate reflecting demand across computing, consumer, and communication segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

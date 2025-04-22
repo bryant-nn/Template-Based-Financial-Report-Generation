@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "SSNLF reported a revenue of KRW 76.8 trillion for Q3 2022, marking a record for the third quarter. This figure reflects strong performance in the foundry and mobile panel businesses, despite a decline in memory business revenue due to customer inventory adjustments. The company anticipates continued growth in Q4 2022, driven by solid smartphone sales and new product launches.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not provide specific details on wafer sales, wafer quantity, or ASP for SSNLF in Q3 2022. Therefore, I cannot provide the requested figures or analysis.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "For Q3 2022, SSNLF reported segment sales of KRW 76.8 trillion, a record for the third quarter, driven by solid flagship smartphone sales and increased demand in the foundry and mobile panel businesses. Operating profit was KRW 10.9 trillion, with an operating margin of 14.1%, down 4.1 percentage points from the previous quarter, primarily due to weak results in the memory business and increased SG&A expenses.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance for SSNLF by segment for Q4 2022 is not explicitly detailed in the context. However, it is anticipated that the System on Chip (SoC) business will see increased sales due to new product launches and the mass production of low to mid-priced SoCs.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "0.50"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

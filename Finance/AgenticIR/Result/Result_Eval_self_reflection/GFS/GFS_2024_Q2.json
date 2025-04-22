@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2024, GFS reported total revenues of $1.632 billion. This reflects a strong performance amid ongoing market challenges and a 5% sequential increase from Q1 2024. However, it represents a 12% decrease from Q2 2023, primarily influenced by reduced shipments and lower utilization levels. The increase in revenue was chiefly driven by heightened demand in the automotive sector, alongside a normalization of customer inventory levels. The company exceeded its guidance provided for Q1 2024, which indicated a revenue expectation in the range of $1.54 billion to $1.56 billion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Total wafer sales for GFS in Q2 2024 were approximately $1.487 billion, accounting for about 91% of total revenue. Approximately 517,300 millimeter equivalent wafers were sold during this period. The average selling price (ASP) per wafer has remained flat year-over-year as the market experiences stable conditions despite a 12% revenue decline compared to the previous year. This stability in ASP reflects ongoing inventory corrections which have stabilized pricing, with expectations for potential adjustments as market conditions improve.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.75"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The sales figures by segment/platform were not specifically detailed, but GFS’s total revenues of $1.632 billion in Q2 2024 reflect a sequential recovery from Q1. Management has noted strong performance particularly in the automotive sector which is driving revenues higher, alongside expectations for adjusting market conditions improving demand across core segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q3 2024, GFS has guided total revenue expectations in the range of $1.7 billion to $1.75 billion, indicating recovery trends in certain segments including a projected growth of about 10% in the automotive sector year-over-year. The company expects positive momentum due to enhanced demand in smart mobile devices and other core markets.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

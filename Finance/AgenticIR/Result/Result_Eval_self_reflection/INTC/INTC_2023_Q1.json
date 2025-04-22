@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2023, INTC reported revenue of $11.7 billion, which represents a 13% decline compared to Q4 2022's revenue of approximately $13.4 billion. The year-over-year revenue decrease was attributed to challenging demand conditions, particularly in the Consumer and Education segments, alongside higher unit costs. Despite the decline, the Q1 2023 revenue exceeded the Q4 2022 guidance of around $11 billion by approximately $700 million. Operating profit remained flat at $520 million, with a gross margin of 38.4%, which was slightly below the forecasted guidance due to higher inventory reserves. The diluted earnings per share (EPS) were negative $0.04, better than previously expected. Looking forward, management anticipates sequential revenue growth as market conditions improve.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.17"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The wafer ASP for Q1 2023 has not been specifically provided. However, management emphasized a strategic focus on achieving competitive cost structures and pricing power through advancements in process technology, particularly in relation to the upcoming 18A node. While the specific ASP figures were not captured, the company aims to enhance ASP and margin competitiveness moving forward, despite the challenging environment.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.67"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2023, the Client Computing Group (CCG) segment generated revenue of $5.8 billion, while the Data Center and Artificial Intelligence (DCAI) segment contributed $3.7 billion. CCG's operating profit was reported as $520 million, with margins affected by challenging demand conditions and elevated inventory. Management noted improvements in market share and a focus on the cloud and AI sectors, anticipating potential market equilibrium in upcoming quarters.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Missing",
+        "decomp_score": [
+            {
+                "Financial takeaways": 0.0
+            },
+            {
+                "Financial context": 0.0
+            },
+            {
+                "Reasoning correctness": 0.0
+            },
+            {
+                "Management expectation": 0.0
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

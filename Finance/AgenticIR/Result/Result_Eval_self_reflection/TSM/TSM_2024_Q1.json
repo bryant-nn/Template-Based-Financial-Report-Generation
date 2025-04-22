@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2024, TSMC reported total revenue of approximately $18.55 billion. This reflects a decrease of 5.3% QoQ and 3.8% YoY, attributed mainly to smartphone seasonality. Despite this, revenue was slightly above the guidance provided for Q4 2023, supporting the strong demand for high-performance computing technologies. The company has projected its Q2 2024 revenue guidance to range from $19.6 billion to $20.4 billion due to anticipated demand for advanced technologies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "While the specific wafer sales breakdown regarding quantity and ASP for TSMC in Q1 2024 is not explicitly provided, the company experienced strong demand for its 3-nanometer and 5-nanometer process technologies. Overall, TSMC's reported revenue was approximately $18.5 billion for the quarter, influenced by this solid demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The exact breakdown of sales by segment for TSMC in Q1 2024 is not detailed. However, the total revenue for the quarter was $18.9 billion, impacted by smartphone seasonality and steady demand from high-performance computing. Future revenue guidance indicates a recovery for Q2, suggesting a potential increase in performance across segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "TSMC forecasts revenue of $19.6 billion to $20.4 billion for Q2 2024. This projection reflects recovery from the decline experienced in Q1, driven by the anticipation of strong demand for advanced technologies, particularly in AI and high-performance computing.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

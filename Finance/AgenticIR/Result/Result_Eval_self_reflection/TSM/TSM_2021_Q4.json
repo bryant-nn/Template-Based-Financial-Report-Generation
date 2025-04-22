@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "TSMC's total revenue for Q4 2021 was not specifically stated, but it is noted that the company experienced a revenue growth of 5.7% sequentially from Q3 2021, attributed to increased demand for 5-nanometer technology, which contributed significantly to wafer revenue. Revenue from smartphones also rose by 7%, indicating strong performance across various segments. The growth trajectory from US$34.6 billion in 2019 to US$56.8 billion in 2021 highlights a robust demand environment in the semiconductor sector.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not provide explicit figures for wafer sales quantity or average selling price (ASP) in Q4 2021. However, it is significant that the 5-nanometer process accounted for 23% and 7-nanometer accounted for 27% of total wafer revenue. Advanced technologies below 7-nanometer represented 50% of wafer revenue, reflecting ongoing advancements in technology and strong market demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2021, sales by platform were distributed as follows: smartphones accounted for 44% of revenue, HPC for 37%, IoT for 9%, automotive for 4%, and digital consumer electronics for 3%. Each platform experienced substantial growth driven by market recovery, particularly in HPC and automotive segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The guidance for sales trends into Q1 2022 anticipates continued growth across segments, particularly in high-performance computing and automotive, which suggests a favorable outlook for TSMC's operations moving forward.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

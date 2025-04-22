@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "TSMC's revenue for Q4 2023 was approximately $20.38 billion, reflecting a 14.4% increase sequentially from Q3 2023. However, there was an 8.7% decrease year-over-year, influenced by ongoing demand for advanced semiconductor technologies, particularly in the automotive and AI sectors, despite challenges in the global semiconductor market. The previous guidance for Q4 2023 projected revenue of approximately $20.38 billion, slightly higher than the actual results, with a noted decrease in gross margin to 53% from 54.4% due to margin dilution from the ramp-up of 3-nanometer technology.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "TSMC reported wafer sales revenue of approximately NT$20.38 billion. Although the specific breakdown of wafer sales by quantity and ASP for Q4 2023 is not directly available, the management highlighted that 3-nanometer technology accounted for about 15% of wafer revenue. TSMC expects advancements in this technology to support revenue growth despite existing pressures from macroeconomic conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The specific sales figures by segment/platform for TSMC in Q4 2023 are not disclosed, but overall revenue of $20.38 billion reflects broad-based demand across segments. Management indicated that growth in automotive and AI sectors played a significant role in the performance. Comments from management pointed to strong order volumes, indicating robust market conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking ahead, TSMC has positioned itself to outperform the foundry industry with expected growth of approximately 20% year-over-year in 2024, driven by strong demand for its technologies in key areas, particularly in AI and high-performance computing.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2022, TSMC reported revenue of NT$613.1 billion (approximately US$20.2 billion), showing a QoQ increase of 14.8% in NT dollars and 11.4% in US dollars. The revenue growth was primarily driven by strong demand for 5-nanometer technologies, particularly in smartphone and high-performance computing applications. However, the management highlighted ongoing inventory adjustments, which are expected to lead to a flat business outlook for Q4 2022, as segments related to consumer markets experienced softness while data center and automotive sectors remained steady. The revenue result did not specify the year-over-year change, and specific guidance comparison from Q2 2022 was not made clearly in the discussions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific figures for wafer sales quantity and average selling price (ASP) were not detailed in the available information for Q3 2022. Yet, the overall revenue indicates strong market demand supported by the sales of 5-nanometer technologies. The context suggested that the semiconductor market was undergoing inventory adjustments, which could influence both wafer production and pricing dynamics.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Details regarding sales by segment were sparse in the available information, though management emphasized the strong performance from 5-nanometer technologies and steady demand in the data center and automotive sectors. Consumer market challenges were noted.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "In Q4 2022, TSMC anticipates stable performance as ongoing inventory adjustments influence the market dynamics. The company guides for mid-30% growth in revenue in US dollar terms for 2022 overall.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

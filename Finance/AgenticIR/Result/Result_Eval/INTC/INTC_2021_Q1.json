@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2021, the total revenue for Intel Corporation (INTC) was $18.6 billion. This represented an increase of approximately 8% year-over-year (YoY) due to strong demand in the PC notebook and Mobileye businesses. The growth was driven by record notebook unit volumes and initial recovery in the enterprise and government sectors of the data center business. Sequentially, the revenue also increased because it exceeded guidance for Q4 2020 by $1.1 billion, which stood at $17.5 billion.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific wafer sales figures, including wafer quantity and average selling price (ASP), for INTC in Q1 2021 were not provided in the data retrieved.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2021, the revenue for Intel's Client Computing Group (CCG) increased by 8% year-over-year, driven by record notebook unit volumes. The Data Center Group (DCG) revenue was $5.6 billion, down 20% year-over-year. Management noted strong demand and operational performance, particularly in the PC and Mobileye segments, which positively impacted margins.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q2 2021, Intel is guiding revenue expectations at $17.8 billion, which indicates a 2% decrease year-over-year (excluding NAND sales). The full-year revenue forecast is $72.5 billion, with an anticipated EPS of $4.60.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

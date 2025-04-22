@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2022, Intel reported a total revenue of $14 billion, reflecting an 8% sequential decline and down 36% compared to Q4 2021. The decline was primarily attributed to deteriorating market conditions within the PC segment and elevated customer inventory levels. Revenue from the Client Computing Group (CCG) was $6.6 billion, which constituted a significant drop from prior periods. The Data Center and AI (DCAI) segment generated $4.3 billion, down 33% year-over-year but showing a slight sequential increase. Compared to guidance from Q3 2022, Intel had to revise its revenue expectations downwards by $13 billion due to worsening macroeconomic conditions, indicating a considerable shift in market dynamics.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context does not explicitly provide values for wafer sales quantity and average selling price (ASP) for INTC in Q4 2022. However, it does mention significant revenue alongside record CPU ASPs achieving an 11% increase year-over-year for the CCG, despite lower overall segment revenue due to the current market conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Intel's sales by segment for Q4 2022 revealed that the Client Computing Group (CCG) generated $6.6 billion, which marked a 36% decrease year-over-year, attributed to a declining PC market and high customer inventory levels. The Data Center and AI (DCAI) group reported $4.3 billion, showing a decline of 33% compared to the previous year. In contrast, the NEX segment had a revenue increase to $8.9 billion, while the Mobileye segment grew significantly by 59% year-over-year.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q1 2023, INTC expects revenue to be between $10.5 billion and $11.5 billion, highlighting a continued decrease due to ongoing macroeconomic headwinds affecting many segments, including client and data center sectors.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

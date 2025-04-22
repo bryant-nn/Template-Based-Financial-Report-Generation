@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "For GFS in 2024 Q1, the total revenue was $1.549 billion. This reflects a QoQ increase of approximately $41 million to $91 million compared to the Q4 2023 revenue of $1.549 billion. Year-over-Year (YoY), there was an increase of approximately 216%, up from $488 million in Q1 2023. Revenue changes were influenced by Long-Term Agreements providing supply and demand certainty, growth in key markets, particularly smart mobile devices, customer volume adjustments, and overall market conditions impacting sales. The revenue results for Q1 2024 were above the guidance provided in Q4 2023.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "0.75"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q1 2024, GFS's total wafer sales volume was not explicitly provided, and the average selling price (ASP) of wafers showed a 6% decline year-over-year due to a shift in product mix. However, the overall pricing environment is expected to remain stable, with full-year ASPs projected to be roughly flat compared to the previous year.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "GFS reported revenue of $1.549 billion with a gross profit of $393 million, a gross margin of approximately 25.4%. However, specific details regarding segment sales and respective margins were not explicitly mentioned.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "GFS anticipates revenue ranging from $1.59 billion to $1.64 billion for Q2 2024, indicating growth in core markets along with expectations for improved utilization in the low to mid-70s percentage range for the quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

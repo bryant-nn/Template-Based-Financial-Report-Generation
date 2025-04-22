@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2023, GFS reported revenue of approximately $1.4 billion, reflecting a 5% decline year-over-year and a 12% sequential decline. This decrease was primarily due to reduced wafer shipments influenced by broader industry challenges. The revenue drop was partially mitigated by improvements in average selling price (ASP) and product mix. The adjusted gross margin was reported at 28.5%, which was at the high end of guidance provided in Q4 2022. Management anticipates further challenges in the near future with expectations for a mid to high-single-digit percentage decline in revenue for 2023, partially offset by anticipated gradual recovery during the second half of the year.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The context for wafer sales results in Q1 2023 included a significant decline in shipment volumes, attributed to reduced demand in mobile and consumer markets. However, the average selling price (ASP) for wafers increased by approximately 12% year-over-year, attributed to improvements in long-term agreements and a favorable product mix. Specific details regarding wafer quantity and ASP were not provided, but the revenue results suggest that pricing improvements were not sufficient to offset volume declines.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In terms of segment performance during Q1 2023, GFS highlighted strong demand in sectors such as industrial IoT, aerospace, defense, and automotive. However, overall revenue challenges persisted due to reduced wafer shipments. Specific margin levels per segment were not disclosed, but management provided commentary on the importance of maintaining stable, high-value partnerships to mitigate industry headwinds.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking ahead to Q2 2023, GFS expects total revenue to be between $1.81 billion and $1.85 billion. Non-wafer revenue is anticipated to constitute about 10% of total revenue, with projected adjusted gross profit from $498 million to $527 million, and adjusted operating profit ranging from $288 million to $327 million. This outlook reflects management's efforts to focus on growth segments to counterbalance challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2022, SSNLF experienced fluctuating revenue results, primarily due to various market conditions. Revenue decreased quarter-over-quarter (QoQ) as a result of geopolitical issues and inflationary pressures impacting overall demand, particularly in the smartphone market. However, compared to Q2 2021, the revenue was up, attributed to strong sales of flagship smartphone models, particularly the Galaxy S22 series. Challenges included increased material costs and a decline in smartphone demand, but strong performance in the mobile display business helped offset some losses. The company's revenue was affected by anticipated macroeconomic impacts, leading to a cautious outlook for the second half of 2022.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.20"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific wafer sales volume for SSNLF in Q2 2022 was not disclosed. However, it was noted that the overall demand for the smartphone market declined, particularly impacting the display business. The Average Selling Price (ASP) for wafers was also not provided, but the mobile display segment reported record earnings due to strong demand for flagship models. While there were challenges in the large display segment due to decreased LCD ASP, the mobile division's strength played a critical role in revenue generation.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.75"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales data by segment for SSNLF in Q2 2022 was not specifically outlined, but it was noted that while the overall smartphone market saw a decline due to various macroeconomic factors, flagship models like the Galaxy S22 series performed strongly. The mobile display sector reported significant earnings driven by these flagship sales.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Specific sales guidance or forecasts by segment for Q3 2022 were not mentioned. However, it was indicated that ongoing challenges in the mobile display market due to inflation and declining demand may impact future projections, though sales in the QD segment might see an improvement.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    }
+]

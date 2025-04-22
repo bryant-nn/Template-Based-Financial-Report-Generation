@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "Missing",
+        "decomp_score": [
+            {
+                "Financial takeaways": 0.0
+            },
+            {
+                "Financial context": 0.0
+            },
+            {
+                "Reasoning correctness": 0.0
+            },
+            {
+                "Management expectation": 0.0
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Missing",
+        "decomp_score": [
+            {
+                "Financial takeaways": 0.0
+            },
+            {
+                "Financial context": 0.0
+            },
+            {
+                "Reasoning correctness": 0.0
+            },
+            {
+                "Management expectation": 0.0
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The specific sales figures by segment or platform for UMC in Q3 2023 are not detailed in the provided context. However, it was observed that the company experienced strong demand in the computing and communication segments, which played a crucial role in supporting overall revenue performance. Management emphasized the significance of these segments in maintaining revenue stability even with the decline in shipment volumes.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "There were no explicit sales guidance or forecast trends by segment provided for Q4 2023. However, the overall outlook expresses caution due to projected declines in capacity utilization and shipment volumes, which could adversely affect revenue generation in the forthcoming quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

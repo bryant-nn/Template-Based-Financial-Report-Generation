@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2021, Intel (INTC) reported revenue of $19.5 billion, reflecting a 12% increase quarter-over-quarter and a 20% rise year-over-year. The growth was attributed to strong demand from enterprise and government sectors, especially in data centers and PCs. Full-year revenue for 2021 reached $74.7 billion, showing a 2% increase compared to the previous year. The variations were influenced by competitive pressures and a slower recovery earlier in the year, offset by stronger demand in certain sectors.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q4 2021, Intel manufactured over 2 million wafers. However, specific details regarding wafer sales figures, the breakdown of wafer quantity, and the Average Selling Price (ASP) were not disclosed.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "0.50"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2021, Intel's revenues by segment were as follows: CCG (Client Computing Group) saw revenue growth of 20% year-over-year, while IOTG (Internet of Things Group) generated $1.1 billion, up 36% year-over-year. PSG (Programmable Solutions Group) achieved $484 million, a 15% increase year-over-year, and Mobileye reached $356 million, marking a 43% growth year-over-year. Management highlighted strong demand in enterprise and government sectors, especially for data center and PC solutions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance for INTC in Q1 2022 and the full year will be announced during the Investor Day on February 17, 2022, with specific segment forecasts currently not provided.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

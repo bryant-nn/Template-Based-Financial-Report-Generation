@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2022, SSNLF's revenue experienced a quarter-over-quarter (QoQ) decrease due to unfavorable market conditions but saw an increase year-over-year (YoY). The QoQ decline was primarily attributed to geopolitical issues, inflation concerns, and weak seasonal demand, despite strong sales of flagship smartphone models. Profitability faced pressures from increased material costs and foreign exchange impacts, although specific revenue figures and guidance comparisons were not detailed.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The details concerning wafer sales for Q2 2022, including specific figures for quantities sold and Average Selling Price (ASP), were not provided in the available context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales by segment were not detailed in the context. However, it was indicated that the DX division experienced profit declines due to macroeconomic factors, while the DS division performed well. The mobile display sector noted solid earnings despite a downturn in overall smartphone demand. Management expressed optimism for improved sales and profit margins in the second half of 2022, particularly in the large display business. Specific margin levels were not listed.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.60"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.40"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "No specific sales guidance or forecast figures for Q3 2022 or the full year were provided.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

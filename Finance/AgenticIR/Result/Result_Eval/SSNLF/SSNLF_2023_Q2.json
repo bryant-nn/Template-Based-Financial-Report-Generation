@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2023, SSNLF achieved a total revenue of KRW 60 trillion. This reflects a decrease of 5.9% year-over-year, primarily attributable to global economic conditions and inventory adjustments by customers, which weakened demand for major applications like mobile and PC products. Quarter-over-quarter, revenue increased due to peak seasonality in System on Chips (SoC) and Display Driver ICs (DDIs), as well as reduced inventory valuation losses in Memory, despite an overall decline due to decreased smartphone shipments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The total wafer sales figures for 2023 Q2 are not explicitly detailed, but the consolidated revenue was KRW 60 trillion. Specifics on wafer quantity sold are not available in the context. Average Selling Price (ASP) of wafers for Q2 has also not been specified.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.33"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "For Q2 2023, sales figures by segment/platform are not explicitly detailed, with a consolidated revenue of KRW 60 trillion and a reported decline in smartphone shipments, impacting performance. The management provided insights that demand varied across applications, particularly strong in generative AI, while a general softening was observed in server demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Specific sales guidance or forecast by segment for Q3 and the full year has not been reported in the current data.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

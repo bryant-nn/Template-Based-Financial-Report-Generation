@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "GFS reported approximately $1.7 billion in revenue for Q3 2021, a 5% increase from the previous quarter. This growth was driven by higher wafer shipments and a favorable product mix, particularly in the smart mobile end market, which saw a 45% year-over-year increase. Looking ahead, GFS anticipates continued growth due to the ongoing demand for 5G technology. The revenue increased by 5% from Q2 to Q3 in 2021, moving from approximately $1.62 billion to about $1.7 billion. The demand for semiconductors, especially in the automotive and IoT sectors, contributed significantly to this increase. However, specific revenue results vs. guidance from Q2 2021 were not available.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.17"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "GFS shipped approximately 609,000 300mm equivalent wafers in Q3 2021, reflecting a 2.5% sequential increase. Wafer revenue constituted about 92% of total revenue, with ASP figures not specifically provided. The combination of increased shipments and product mix improvements helped to drive revenue growth.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Details regarding sales by segment or their respective margins were not explicitly provided. However, the automotive sector displayed substantial growth, almost quadrupling compared to the year before, while communications infrastructure showed over 30% growth.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance for Q4 2021 is expected to increase by 6% to 8% sequentially, driven by strong demand and improved ASPs, aligning with the company’s capacity expansion strategies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

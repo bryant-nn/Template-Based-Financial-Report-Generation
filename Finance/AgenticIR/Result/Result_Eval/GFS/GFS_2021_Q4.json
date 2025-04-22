@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2021, GFS reported revenue of approximately $1.85 billion, reflecting a 9% increase compared to Q3 2021 and a 24% increase year-over-year. This growth was driven by higher wafer output, increased average selling prices (ASPs), and a more favorable product mix.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "During Q4 2021, GFS shipped around 622,300 millimeter equivalent wafers, with an average selling price (ASP) per wafer increasing by approximately 3% sequentially. The total revenue attributed to wafer sales was about $1.65 billion, with wafer revenue accounting for roughly 89% of total revenue.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2021, GFS's sales breakdown by segment showed that approximately 48% of revenue came from smart mobile devices, marking a 24% increase year-over-year. The communications infrastructure and data centers segment accounted for roughly 16% of revenue, growing by 7% quarter-on-quarter.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Missing",
+        "decomp_score": [
+            {
+                "Financial takeaways": 0.0
+            },
+            {
+                "Financial context": 0.0
+            },
+            {
+                "Reasoning correctness": 0.0
+            },
+            {
+                "Management expectation": 0.0
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2023, GFS experienced a revenue decline of 5% year-over-year and 12% quarter-over-quarter. This was primarily due to reduced wafer shipments, although this decline was partially offset by improved average selling price (ASP) and product mix. Adjusted gross margin was reported at 28.5%, and adjusted earnings per share (EPS) stood at $0.52, which was at the high end of their guidance range. For Q2 2023, GFS anticipates revenue to be between $1.81 billion and $1.85 billion, with a forecasted decline in revenue in the mid to high-single digits for the full year.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific figures for wafer sales quantity and ASP for GFS in Q1 2023 were not provided in the context, though it was noted that there was a general decline in wafer shipments along with improvements in ASP. The ASP reportedly increased approximately 12% year-over-year due to better pricing derived from long-term agreements and an enhanced product mix.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The specific sales figures by segment for GFS in Q1 2023 were not detailed; nevertheless, there was a noted overall revenue decline indicating worth further analysis on individual segment performance during future reporting.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q2 2023, GFS is expecting total revenue to range between $1.81 billion and $1.85 billion, with non-wafer revenue accounting for approximately 10% of total revenue. Adjusted gross profit is projected between $498 million and $527 million.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

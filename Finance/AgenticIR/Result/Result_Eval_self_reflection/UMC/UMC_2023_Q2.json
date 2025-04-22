@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2023, UMC reported consolidated revenue of TWD 56.3 billion, reflecting a 3.8% increase QoQ. However, the year-over-year revenue figures were not provided. The growth in revenue was driven by a better product mix, particularly in the 22/28 nanometer product segment, which represented 29% of their sales. This growth aligns with the guidance provided in Q1 2023, which anticipated flat wafer shipments and utilization rates projected at 71%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.75"
+            },
+            {
+                "Reasoning correctness": "0.75"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Although specific wafer sales figures for quantity and Average Selling Price (ASP) are not detailed, UMC's total revenue for Q2 2023 was approximately $1.81 billion. The company maintained a utilization rate of 71% with wafer shipments remaining flat compared to the previous quarter. The revenue increase is attributed to a higher average selling price due to an improved product mix in the 22/28 nanometer segment.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The specific sales figures by segment or platform, including respective margin levels and management commentary for UMC in Q2 2023, were not detailed in the data retrieved.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "No specific sales guidance or forecast by segment for Q3 2023 or the full year was available in the information gathered.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

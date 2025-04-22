@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2024, Intel (INTC) reported revenue of $12.7 billion, reflecting a 9% increase year-over-year but a sequential decline of over $1 billion, consistent with Q1 guidance. The growth was primarily driven by a 17% increase in Intel Products, while inventory challenges in Mobileye and Altera, along with the sunsetting of noncore businesses, negatively impacted results. Gross margin was 45.1%, exceeding guidance, and EPS was $0.18, beating guidance by $0.05. Net income was -$381 million, indicating ongoing challenges. Management expects improvements in the second half of 2024, with a focus on recovering from inventory digestion and enhancing operational efficiencies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Unfortunately, specific wafer sales data for INTC in 2024 Q1, including wafer quantity sold and average selling price (ASP), is not provided in the retrieved context. However, the context mentions that wafer ASPs are expected to rise as the ramping of Intel 4 and Intel 3 products gains momentum, which suggests potential improvements in future quarters. The overall financial performance indicates challenges, with a net income loss of $381 million and a focus on improving ASPs in future quarters.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.67"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2024, Intel reported revenue of $12.7 billion, a 9% year-over-year increase. Gross margin was 45.1%, and operating margin was approximately 28%. Management highlighted improved demand signals in core markets and expects revenue growth to accelerate in the second half of the year, driven by better sell-through of inventory and operational discipline.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q2 2024, Intel expects revenue between $12.5 billion and $13.5 billion, with a midpoint of $13 billion, reflecting a slight decrease from Q1 2024's revenue of $12.7 billion. Year-over-year, Q1 revenue was up 9%. The company anticipates growth across all segments in the second half of 2024, driven by improved demand for general-purpose servers and increased assembly capacity for AI PCs.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.67"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

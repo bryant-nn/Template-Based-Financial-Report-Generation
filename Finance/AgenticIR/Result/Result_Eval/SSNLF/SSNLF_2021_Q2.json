@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2021, SSNLF reported total revenue of KRW 63.7 trillion. The revenue decreased slightly quarter-on-quarter (QoQ) but increased by 20.2% year-on-year (YoY). The primary reasons for these changes included lower smartphone sales due to seasonally weak demand and component supply shortages, even though there was a significant increase in revenue driven by strong sales in memory, TVs, and digital appliances. The revenue guidance for Q1 2021 was not provided in the context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.75"
+            },
+            {
+                "Reasoning correctness": "0.75"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The total wafer sales for SSNLF in Q2 2021 and the average selling price (ASP) of wafers are not specified in the provided context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Specific sales figures by segment for SSNLF in Q2 2021 were not provided, nor were the margin levels for each segment available. Management noted that segment sales were impacted by decreased market demand due to seasonality and COVID-19, along with revenue declines from component supply constraints and production issues. Nevertheless, products within the Galaxy ecosystem contributed significantly to performance, aided by an improved cost structure helping maintain a solid operating margin.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "There were no specific sales guidance figures for SSNLF in Q3 2021 provided.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

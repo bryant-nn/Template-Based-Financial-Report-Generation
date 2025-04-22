@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2022, UMC's revenue was TWD 67.84 billion, reflecting a 14.8% decrease quarter-over-quarter due to a significant slowdown in end markets and inventory corrections in the semiconductor industry. Year-over-year comparisons were not provided in the context. The gross margin was 42.9%, while the net income attributable to shareholders was TWD 19 billion, leading to earnings per share of TWD 1.54. The guidance from Q3 2022 was not explicitly mentioned, but the decline in revenue and utilization rate from 100% to 90% indicates challenges faced.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q4 2022, UMC experienced a 14.8% decline in wafer shipments compared to the previous quarter, which impacted the overall fab utilization rate, dropping to 90%. While specific figures for wafer sales and average selling price (ASP) were not disclosed, it was noted that the ASP increased slightly due to product mix optimization despite the decline in shipments. This suggests a focus on higher-value products even amidst a downturn.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "UMC's consolidated revenue of TWD 67.84 billion in Q4 2022 showcased a significant contribution from the automotive segment, which grew 82% year-over-year, and the 22/28 nanometer technology that accounted for 24% of total revenue. Management provided insights into the slowdown in end markets and ongoing inventory corrections, indicating vigilance regarding customer orders.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The sales guidance or future forecast for Q1 2023 was not disclosed, but management has indicated a cautious outlook due to the continued demand weakness in the PC and smartphone segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

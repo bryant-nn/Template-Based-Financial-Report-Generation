@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2021, SSNLF reported record quarterly revenue of approximately KRW 80 trillion, which reflects significant year-over-year growth driven by robust demand in the semiconductor and mobile sectors. The revenue experienced a slight decline in operating profit to KRW 13.9 trillion due to rising costs associated with logistics and a special bonus payment, but net profit reached around KRW 10 billion. Compared to guidance from Q3 2021, revenue exceeded expectations due to strong sales in premium products, despite challenges such as declining memory prices and increased selling, general and administrative expenses (SG&A), which rose to KRW 17.8 trillion. The overall market demand and seasonal factors contributed to this performance.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The specific figures for wafer sales volume and Average Selling Price (ASP) for Samsung in Q4 2021 were not provided. However, it was noted that the Semiconductor Businesses experienced substantial growth overall, reflecting strong demand, especially in advanced nodes. Due to the lack of explicit details in the provided context, a complete analysis would require further specific numbers relating to wafer sales and ASP.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.33"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2021, Samsung Electronics achieved record annual revenue, with a focus on the Semiconductor segment where strong demand drove overall growth. Specific sales figures by segment were not disclosed, but it was noted that the Memory segment faced challenges with declining prices, while the TV and Digital Appliances segments showed varied growth trends.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance for Q1 2022 and the full year was not clearly specified, but management indicated expectations of a recovery in demand, predominantly within the Semiconductor sector, as well as a focus on maintaining profitability through high-value product offerings.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

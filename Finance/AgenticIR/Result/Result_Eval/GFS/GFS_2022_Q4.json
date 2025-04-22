@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2022, GlobalFoundries (GFS) experienced a total revenue growth of 14% year-over-year, driven primarily by higher average selling prices (ASPs) and a richer product mix. Key contributions came from the home and industrial IoT market, which grew 64% year-over-year. While specific revenue figures from Q3 2022 guidance were not provided, the growth reflects an increase in non-wafer revenue as well.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q4 2022, GFS shipped approximately 2.5 million 300-millimeter equivalent wafers, with an average selling price (ASP) exceeding $3,000, reflecting a 17% increase from the previous year. The improved ASP was attributed to better pricing from long-term agreements and an enhanced product mix.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Specific revenue figures by segment were not detailed, however, significant growth was noted within the home and industrial IoT sector, which saw a remarkable 64% year-over-year increase, alongside a 24% growth in automotive revenue. These segments have demonstrated resilient demand despite the broader economic uncertainties.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "GFS has indicated a positive sales guidance trend for Q1 2023, projecting growth particularly in smart card applications. While exact figures were not provided, the outlook remains optimistic amid macroeconomic challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

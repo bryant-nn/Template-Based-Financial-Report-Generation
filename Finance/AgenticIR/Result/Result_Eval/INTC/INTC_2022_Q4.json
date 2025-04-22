@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2022, Intel's total revenue was reported at $14 billion, a decline of 36% year-over-year (YoY) for their Client Computing Group (CCG) revenue of $6.6 billion and a 33% YoY decline for their Data Center and AI (DCAI) revenue of $4.3 billion. DCAI revenue saw a slight increase of 2% quarter-over-quarter (QoQ). The revenue decline was primarily attributed to macroeconomic headwinds and rising inventory levels that affected customer demand, exceeding previous expectations regarding inventory management. Comparatively, these results were below the guidance provided in Q3 2022.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Unfortunately, data on specific wafer sales quantity and average selling price (ASP) for Q4 2022 were not explicitly provided in the sources. However, it was noted that Intel's CCG achieved record CPU ASPs, which rose by 11% YoY, even amid a significant drop in revenue. The DCAI segment also reported increased ASPs, although detailed figures were not disclosed.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "For segment highlights, in Q4 2022, Intel's CCG revenue was $6.6 billion, yielding an operating profit of $0.7 billion. The DCAI segment brought in $4.3 billion in revenue, contributing an operating profit of $371 million. The overall gross margin identified for the quarter was 44%.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Sales guidance for Q1 2023 was not explicitly addressed in the reports reviewed. However, prevailing macroeconomic conditions were expected to influence revenue forecasts.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "3.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

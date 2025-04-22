@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2023, TSMC reported revenue of approximately $16.94 billion, reflecting a 10.2% increase year-over-year and a 13.7% increase quarter-over-quarter. The net income for the quarter was about $6.54 billion, translating to an earnings per share (EPS) of $1.26. The growth was driven by strong demand for advanced technologies, particularly the ramp-up of 3-nanometer and 5-nanometer nodes. Management expressed optimism for continued healthy growth into 2024, supported by stable demand in the PC and smartphone markets, despite macroeconomic uncertainties. Comparatively, revenue exceeded previous guidance given in Q2, mainly due to enhanced demand across key sectors.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "5.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q3 2023, TSMC's wafer sales were significantly characterized by advanced technologies, with approximately 6% of wafer revenue from 3-nanometer technology, 37% from 5-nanometer, and 16% from 7-nanometer processes. This breakdown highlights TSMC's strong growth in premium segments aligned with market demand for higher performance. The total revenue for the quarter peaked at approximately $17.3 billion, reflecting a robust quarterly performance supported by high demand for 3-nanometer and 5-nanometer technologies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "TSMC's Q3 2023 segment analysis showed significant contributions from its advanced technology platforms, confirmed by management's commentary on the strong uptake of 3-nanometer and 5-nanometer technologies. Despite challenges, segments such as automotive and AI saw continued demand, supported by management's optimism about expanded market opportunities.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q4 2023, TSMC projects revenue in the range of approximately $17 billion, highlighting stabilization in demand largely due to improved inventory conditions in major markets. Expecting approximately 10% growth in 2024, the outlook remains positive with strategic alignment towards technology enhancements and customer needs.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

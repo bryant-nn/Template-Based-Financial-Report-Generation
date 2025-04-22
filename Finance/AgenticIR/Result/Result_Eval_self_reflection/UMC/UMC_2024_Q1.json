@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2024, UMC reported consolidated revenue of NT$54.63 billion, reflecting a QoQ decline of approximately 0.6% from Q4 2023. The year-over-year change is not specified. The revenue aligns with the guidance provided for Q4 2023. A slight decline in revenue is attributed to a decrease in utilization rate to 65%, despite a 4.5% increase in wafer shipments, indicating mixed demand dynamics in the semiconductor market. UMC anticipates improved wafer shipments in Q2 2024 as inventory levels stabilize.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q1 2024, UMC's wafer shipments amounted to approximately NT$1.71 billion, with a total 12-inch equivalent capacity of 1.2 million wafers. The average selling price (ASP) in US dollars remained firm; exact ASP figures were not disclosed. The increase in wafer shipments by 4.5% quarter-over-quarter reflects a recovery in demand, particularly in the computing segment, despite the automotive sector facing muted demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.67"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2024, UMC's sales showed varied performance by segment, particularly with the computing segment experiencing growth in wafer shipments, while the automotive sector faced demand constraints. Margin levels were in line with expectations, and management expressed optimism regarding stabilization in inventory levels across segments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "UMC’s sales guidance for Q2 2024 points to a low single-digit percentage increase in wafer shipments with continued focus on improving inventory levels. The company anticipates a partial recovery in demand in the computing segment, with considerations for a flat overall addressable market in 2024.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

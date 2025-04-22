@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2023, SSNLF reported consolidated revenue of KRW 67.4 trillion, reflecting a 12.3% increase QoQ. Year-on-year, specific YoY revenue figures were not provided, but gross profit showed a slight decline due to ongoing declining consumer sentiment. The growth was primarily driven by the release of new smartphone models and increased sales of premium display products. Compared to Q2 2023 guidance, these results were in line with expectations, indicating solid demand for high-value products despite macroeconomic challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Unfortunately, the available information does not provide specific details on wafer sales quantity and ASP for SSNLF in Q3 2023. For accurate details regarding semiconductor performance, it would be beneficial to refer to the company's earnings presentation or investor relations materials.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "While segment-specific margins and comments were not detailed, overall revenue for the quarter indicates strong performance driven by new smartphone models and premium display products. Further specifics on segment performance would typically be found in official releases from SSNLF.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "0.50"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Guidance for Q4 2023 indicates that solid demand for premium products like QLED and OLED TVs is anticipated despite ongoing market uncertainties. Smartphone shipments may decrease with an ASP of USD 295 while tablet shipments are projected to rise.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

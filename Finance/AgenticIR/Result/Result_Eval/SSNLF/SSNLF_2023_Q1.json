@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2023, SSNLF reported revenue of KRW 48.64 trillion, which represents a decline of 9.5% QoQ. Year-on-year, revenue increased due to robust sales from the S23 series despite an overall market contraction. The revenue decrease was attributed to reduced demand in the memory business and the prevailing economic downturn. Compared to the guidance provided in Q4 2022, the results fell short due to unexpected adverse market conditions.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The wafer sales figures, including quantity and Average Selling Price (ASP) for SSNLF in Q1 2023, were not explicitly mentioned in the context, thus making it impossible to provide the precise data.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2023, SSNLF's consolidated revenue amounted to KRW 63.7 trillion, with a gross profit of KRW 17.7 trillion, yielding a gross margin of 27.8%. The management highlighted a decline in overall revenue due to diminished demand in the Memory segment, while the DX division observed increased revenue from flagship smartphone sales.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For Q2 2023, SSNLF anticipates a recovery in demand within the smartphone market, particularly in the low to mid-segment categories. The premium segment is expected to maintain growth, while demand for televisions is projected to stabilize, with a shift toward premium models like QLED. The company is poised for annual revenue growth and profitability improvements driven by a refined product mix and operational efficiencies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

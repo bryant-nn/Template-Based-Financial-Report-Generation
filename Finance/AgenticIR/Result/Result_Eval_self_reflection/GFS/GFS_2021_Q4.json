@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "GFS reported total revenue of approximately $1.85 billion in Q4 2021, with adjusted earnings per share (EPS) of $0.18. The revenue increased 9% quarter-on-quarter, driven by higher wafer output, increased average selling prices (ASPs), and growth in non-wafer revenue. Year-over-year, GFS achieved a 36% increase in total revenue for the full year, despite a planned decline in personal compute revenue. This growth reflects strong demand across most end markets and improved product mix, although challenges in the personal compute sector were anticipated. Looking ahead, GFS aims to maintain this momentum through strategic investments and operational efficiencies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "0.75"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q4 2021, GFS shipped approximately 622,300 millimeter equivalent wafers, with an average selling price (ASP) of about $2,971 per wafer, reflecting a 3% sequential increase. Total revenue for the quarter was approximately $1.85 billion, driven by higher wafer output and improved product mix. This performance indicates strong demand and effective pricing strategies in a competitive market. Looking ahead, GFS expects continued growth supported by long-term agreements and expanding market share in emerging technologies.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q4 2021, GFS reported total revenue of approximately $1.1 billion, with the smart mobile device segment accounting for about 48% of this revenue, translating to around $528 million. This segment achieved an adjusted gross margin of approximately 21.5%, reflecting a 346 basis points sequential improvement. Management highlighted a strong year-over-year growth of roughly 24% in this segment, attributed to increased shipments and the ramp-up of customer designs in new applications, particularly in the context of emerging connectivity standards like sub-6 GHz 5G and WiFi 6/6E. Overall, GFS demonstrated strong topline and profitability growth, with an operating profit of around $142 million and an adjusted operating margin of 8%. Management expressed confidence in sustaining this momentum, aiming for continued growth and shareholder value enhancement in the future.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.80"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.20"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "In Q1 2022 and for the full year 2022, the automotive segment is expected to grow strongly, with anticipated double-digit growth year-over-year, although it may experience quarter-to-quarter variability. The home and industrial IoT segment is projected to be the fastest-growing market, driven by strong demand for 5G infrastructure and wireless connectivity, with growth rates expected to exceed 20%. Smart mobile devices, which account for about 48% of revenue, are expected to grow at the enterprise average, likely in the high-single-digit range. Overall, the key growth drivers will be the automotive and home/industrial IoT segments, with specific growth rates highlighting their importance in the company's portfolio.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

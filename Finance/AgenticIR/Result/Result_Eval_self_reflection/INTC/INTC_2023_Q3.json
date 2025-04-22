@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2023, Intel (INTC) reported revenue of $14.2 billion, reflecting a 9% increase sequentially (QoQ) and a decrease of approximately $750 million year-over-year (YoY). The revenue exceeded guidance by $750 million. The increase in revenue QoQ was attributed to improved demand and operational efficiencies, while the YoY decline was influenced by elevated inventory levels and weak demand conditions. Looking ahead, Intel expects Q4 revenue to range between $14.6 billion and $15.6 billion, indicating a commitment to sequential growth throughout 2023.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q3 2023, specific wafer sales numbers including wafer quantity and Average Selling Price (ASP) were not provided. However, Intel did experience a meaningful improvement in wafer ASP driven by enhanced loadings and a reduction in underload charges. Although the company is largely out of the woods concerning underload issues, some inventory costs still need attention. Increased demand, especially from AI customers, is anticipated to drive further improvements in wafer ASP going forward.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.75"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q3 2023, Intel's revenue by segment included Intel Foundry Services (IFS) generating $311 million, albeit with an operating loss of $86 million, and Mobileye contributing $530 million with an operating profit of $107 million. Management emphasized strong execution in their IDM 2.0 transformation and reiterated the commitment to navigating through economic and geopolitical challenges, focusing on prudent investments and cost management.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking forward, Intel's guidance for segment sales in Q4 2023 appears optimistic amid recovering market conditions, with anticipated strong demand in both commercial and consumer sectors.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

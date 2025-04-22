@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2022, UMC reported consolidated revenue of TWD 75.39 billion, reflecting a 4.6% increase from the previous quarter, primarily driven by product mix optimization and strong demand in the wireless communication sector, despite softening demand in consumer markets. The year-over-year change in revenue is not provided, but the growth from Q2 2022 indicates a favorable performance. The increase in revenue was supported by the robust performance of the 22/28 nanometer business segment, which constituted 25% of total revenue. However, potential challenges from inflation and global events may affect future revenue performance. The comparison to guidance from Q2 2022 is not available, making it difficult to assess how it aligns with prior expectations, but discrepancies noted were largely attributed to inventory corrections in the market.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.40"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "The total wafer sales for UMC in Q3 2022 are included within the consolidated revenue of TWD 75.39 billion. However, the exact quantity of wafers sold is not specified in the provided information. The Average Selling Price (ASP) of wafers is also not explicitly stated but is indicated to have remained stable compared to previous quarters, which contributed positively to the overall revenue results.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "The sales figures by segment for UMC are not specified in the provided information. However, management comments indicate strength in the wireless communication sector and a focus on optimizing product mix to enhance profitability.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Guidance for sales in Q4 2022 indicates expectations for a decrease in wafer shipments by approximately 10%, influenced by softening demand in consumer electronics. Insights into the full-year trends are not provided in the context.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.50"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "3.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

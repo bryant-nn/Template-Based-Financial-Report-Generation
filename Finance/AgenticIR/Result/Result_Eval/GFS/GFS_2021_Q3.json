@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q3 2021, GFS reported total revenue of approximately $1.7 billion, representing a QoQ increase of 5% driven by higher wafer shipments and a significant YoY increase of approximately 45%, which was attributed to the ramp in 5G RF front-end modules and increased demand in the smart mobile end market. The revenue results exceeded the guidance provided in Q2 2021 due to stronger than anticipated market demand.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "GFS shipped approximately 609,000 300mm equivalent wafers in Q3 2021, leading to total wafer revenue accounting for around 92% of the overall revenue. The average selling price (ASP) of wafers showed modest sequential improvements, contributing positively to the revenue stream.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "GFS reported the following sales by segment in Q3 2021; Automotive sales accounted for 6% of total revenue and grew almost 4x year-over-year, Compute segment sales were 7% of total revenue and declined year-over-year, Communications Infrastructure and Data Center represented 17% and grew over 30% year-over-year, while Home and Industrial IoT accounted for 13% and grew approximately 37% year-over-year.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "The company has not provided specific forward-looking guidance by segment for Q4 2021 at this stage.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "0.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ]
+    }
+]

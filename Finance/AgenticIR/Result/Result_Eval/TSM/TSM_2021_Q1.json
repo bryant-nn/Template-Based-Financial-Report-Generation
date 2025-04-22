@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2021, TSMC reported revenue of approximately TWD 362.4 billion (USD 12.9 billion), which represented a sequential increase of 0.2% in NT dollars and 1.9% in U.S. dollars. The growth was mainly driven by strong demand in high-performance computing (HPC), despite a milder smartphone seasonality. The quarter saw some challenges which led to a decrease in gross margin by 1.6 percentage points to 52.4%, and operating margin decreased by 2 percentage points to 41.5%. The full-year guidance indicated a revenue growth of around 20% based on ongoing strong demand across various applications including potential price adjustments.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.75"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Data on wafer sales for TSMC in Q1 2021 is less explicit. However, the overall sales were supported largely by HPC-related demands, with advanced technologies (7nm and below) accounting for 49% of wafer revenue. Further breakdown on specific quantities and average selling prices (ASP) was not available.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.33"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2021, TSMC’s revenue trends revealed strong sales particularly in high-performance computing and automotive sectors. The segments showed varying degrees of margin contributions, underscored by management's comments on adapting to evolving customer needs.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Specific sales guidance or forecast by segment for Q2 2021 or the full year was not articulated clearly.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "2.00"
+            },
+            {
+                "Reasoning correctness": "2.00"
+            },
+            {
+                "Management expectation": "2.00"
+            }
+        ]
+    }
+]

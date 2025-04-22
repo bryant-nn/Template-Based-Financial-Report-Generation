@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q2 2023, Intel's total revenue was $12.949 billion, reflecting a decrease from $15.329 billion in Q2 2022. This decline of 15.6% year-over-year can be attributed to ongoing market challenges and shifts in demand. However, there was a 55.4% quarter-over-quarter increase, up from $8.3 billion in Q1 2023. The increase QoQ was driven by a strong performance in Client Computing Group (CCG), Data Center and AI (DCAI), Intel Foundry Services (IFS), and Mobileye. Looking ahead, Intel anticipates sequential revenue growth, driven largely by AI-related products and services. The discrepancies in revenue against guidance were primarily due to a slower-than-expected recovery in key markets, despite a successful quarter overall.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.50"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "Specific details regarding total wafer sales volume and average selling price (ASP) for Q2 2023 were not detailed in the available data. However, Intel reported a strong overall revenue performance emphasizing successful strategies in managing inventory and demand, particularly in AI-driven markets. The company showed an improvement in gross profit margins, indicative of ongoing efforts to recover from prior market challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "3.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q2 2023, Intel experienced revenue recovery in consumer and education segments along with strength in premium segments. While specific segment sales figures and respective margin levels were not provided in the context, continued improvement and strategic positioning in AI and PC markets are anticipated. Management expressed confidence in their operational improvements contributing to revenue increases.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.67"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "While full segment-specific sales guidance for Q3 2023 was not explicitly detailed, Intel's overall outlook reflects expectations of sequential revenue growth, particularly driven by demand in AI and recovery in client business, indicating robust future prospects.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

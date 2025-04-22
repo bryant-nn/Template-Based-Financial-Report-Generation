@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q4 2023, Intel Corporation (INTC) reported total revenue of $15.4 billion, which represents a 10% increase compared to $14 billion in revenue for Q4 2022. This growth was influenced by strong performance in the gaming and commercial segments, as well as a favorable product mix. When comparing to the previous quarter, Q3 2023, where revenue was approximately $15.1 billion, this indicates a quarter-over-quarter increase of about 2%. In contrast, Q4 2023 exceeded the company’s guidance by approximately $300 million, reflecting stronger-than-anticipated demand in certain markets and improved inventory levels. The operating income for this quarter was reported at $2.6 billion, with net income reaching $2.67 billion and diluted earnings per share (EPS) of $0.63. The significant year-over-year increase can be attributed to enhanced market share in key product areas and successful strategies that addressed previous supply chain constraints. Management provided a cautious outlook for Q1 2024, guiding revenue expectations between $12.2 billion and $13.2 billion, which reflects anticipated seasonal trends and ongoing inventory corrections.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "1.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "0.80"
+            },
+            {
+                "Management expectation": "0.20"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "5.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "In Q4 2023, wafer sales for INTC were a crucial contributor to overall revenue, with a precise breakdown stating wafer quantity sold along with the average selling price (ASP). A detailed analysis indicated that the ASP for wafers increased due to higher demand in specific segments, while the total quantity sold was effectively managed to meet production requirements. This performance in wafer sales continued to reflect INTC's strategic focus on optimizing production efficiencies and product offerings to align with market needs.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "Sales by segment for Q4 2023 revealed significant contributions from various platforms, with noticeable margins across each category. Management highlighted that the gaming segment particularly outperformed expectations, with revenues marking a substantial growth over the previous quarter. The comments from management suggested optimism for sustained growth across these platforms going into 2024.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "Looking ahead to Q1 2024, sales guidance was cautiously optimistic, with forecasts indicating a moderate increase driven by new product launches and anticipated demand recovery in key markets.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "2.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]

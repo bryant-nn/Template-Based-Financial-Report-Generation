@@ -1,0 +1,126 @@
+[
+    {
+        "sub section 1.1": "In Q1 2024, GFS reported revenue of $1.549 billion, marking a significant increase compared to $488 million in Q4 2023, indicating strong growth quarter-over-quarter. Year-over-year comparisons are incomplete without 2023 Q1 data. The results exceeded guidance from Q4 2023, largely due to better-than-expected performance in key growth segments driven by improved utilization rates, despite ongoing market challenges.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.33"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 1.2": "GFS's wafer revenue for Q1 2024 accounted for approximately $1.549 billion, representing 89% of total revenue. However, specific details about the quantity of wafers sold and their Average Selling Price (ASP) were not disclosed in the context. The company faced challenges with reduced shipments as customers continued to deplete their inventory amidst tough market conditions. Future guidance indicates that wafer sales may stabilize as the market recovers.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.25"
+            },
+            {
+                "Financial context": "0.75"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "0.25"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.1": "In Q1 2024, GFS's sales results by segment were strong, with management highlighting positive feedback across various platforms. However, specific margin levels were not provided in the given context. Management noted that Q1 could represent the low point for growth while anticipating improved performance in subsequent quarters as market conditions stabilize.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.00"
+            },
+            {
+                "Financial context": "0.67"
+            },
+            {
+                "Reasoning correctness": "0.67"
+            },
+            {
+                "Management expectation": "0.33"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "3.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    },
+    {
+        "sub section 2.2": "For the second quarter of 2024, GFS expects to maintain net income between $133 million and $191 million, with utilization presumed to recover into the low to mid-70s, illustrative of a market rebound following inventory corrections. The company aims for significant growth in the smart mobile segment as product demand increases.",
+        "decomp_score": [
+            {
+                "Financial takeaways": "0.50"
+            },
+            {
+                "Financial context": "1.00"
+            },
+            {
+                "Reasoning correctness": "1.00"
+            },
+            {
+                "Management expectation": "1.00"
+            }
+        ],
+        "chat_eval": [
+            {
+                "Financial takeaways": "4.00"
+            },
+            {
+                "Financial context": "4.00"
+            },
+            {
+                "Reasoning correctness": "4.00"
+            },
+            {
+                "Management expectation": "4.00"
+            }
+        ]
+    }
+]
