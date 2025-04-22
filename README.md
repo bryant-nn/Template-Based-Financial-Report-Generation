@@ -84,7 +84,7 @@ OPENAI_API_KEY=your_openai_api_key_here
    - Embedding-based retrieval of relevant data chunks.
 
 3. **Evaluation Tools**:
-   - Supports DecomposeEval and Chat Eval metrics for reference-free evaluating the quality of generated summaries and readability of generated summaries.
+   - Supports DecompEval and G-Eval metrics for reference-free evaluating the quality of generated summaries and readability of generated summaries.
 
 
 ### 🚀 Usage Instructions
