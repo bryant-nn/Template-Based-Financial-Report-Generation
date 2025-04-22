@@ -35,7 +35,6 @@ _To appear in the Proceedings of the 48th International ACM SIGIR Conference on 
   </tr>
 </table>
 
-
 ---
 ## 🧾 Overview
 
