@@ -137,7 +137,7 @@ class FinancialReportGenerator:
             llm_config={"config_list": self.config_list, "timeout": 60, "temperature": 0, "cache_seed": None},
         )
 
-    def create_self_reflection_reviewer_agent(self) -> AssistantAgent:
+    def create_self_reflection_reviewer_agent(self) -> UserProxyAgent:
         """
         Create an agent responsible for reviewing the planned improvements and deciding whether the response needs revision.
         """
