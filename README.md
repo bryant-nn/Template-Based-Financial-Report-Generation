@@ -209,12 +209,13 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 📄 Citation
 Please cite our work if you find it helpful:
-<!-- ```
-@inproceedings{,
-  title     = {Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval},
-  author    = {Yong-En Tian and Yu-Chien Tang and Kuang-Da Wang and An-Zi Yenand Wen-Chih Peng},
-  booktitle = {Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-  year      = {2025}
+```
+@inproceedings{tian2025template,
+  title={Template-based financial report generation in agentic and decomposed information retrieval},
+  author={Tian, Yong-En and Tang, Yu-Chien and Wang, Kuang-Da and Yen, An-Zi and Peng, Wen-Chih},
+  booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={2706--2710},
+  year={2025}
 }
 
-``` -->
+```
